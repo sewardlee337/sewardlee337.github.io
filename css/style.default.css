@@ -20,6 +20,11 @@
 .pull-right {
   float: right !important;
 }
+
+.pull-right {
+  color: #707070;
+}
+
 .pull-left {
   float: left !important;
 }
