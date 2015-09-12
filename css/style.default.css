@@ -2613,6 +2613,10 @@ fieldset[disabled] .btn-template-primary.active {
 #copyright p {
   margin: 0;
 }
+
+#copyright a {
+  color: #707070;
+}
 @media (max-width: 991px) {
   #copyright p {
     float: none !important;
