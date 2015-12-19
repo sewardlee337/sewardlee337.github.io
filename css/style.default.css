@@ -828,8 +828,9 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .jumbotron p {
   margin-bottom: 20px;
-  font-size: 21px;
+  font-size: 27px;
   font-weight: 400;
+  font-family: 'Waiting for the Sunrise', cursive;
 }
 .jumbotron p.text-uppercase {
   font-weight: 700;
@@ -2873,7 +2874,7 @@ fieldset[disabled] .btn-template-primary.active {
 .container > .navbar-collapse,
 .container-fluid > .navbar-collapse {
   margin-right: -15px;
-  margin-left: -15px;
+  margin-left: 25px;
   text-align: middle;
 }
 @media (min-width: 768px) {
