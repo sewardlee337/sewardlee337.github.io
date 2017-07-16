@@ -13,7 +13,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_finreportr_](https://github.com/sewardlee337/finreportr) 
 
-  R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. 
+  R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. Hosted on CRAN and listed under Empirical Finance Task View
 
 [_patentr_](https://github.com/sewardlee337/patentr) 
 
@@ -27,7 +27,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
   Robot pathfinding algorithm developed with 2 teammates for international competition, using MATLAB. Allows robot to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
 
-[_Taiwan Industry Cluster Explorer_](http://140.119.55.171:3838/andy/ClusterMapping/)
+[_Taiwan Industry Cluster Explorer_](https://github.com/sewardlee337/industry-cluster-explorer)
 
   Analytics dashboard developed for research project at National Chengchi University in Taipei. Allows policymakers to surface insights relating to regional economic productivity. Built using R and Shiny web framework.
 
