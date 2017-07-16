@@ -1,0 +1,18 @@
+<footer class="footer">
+  <div class="p2 wrap">
+    <div class="measure mt1 center">
+
+     <small> Copyright 2017 Seward Lee </small> 
+     <br>
+      <small>
+        Theme based on <a href="https://github.com/johnotander/pixyll">Pixyll</a> by <a href="http://johnotander.com">John Otander</a>
+      </small>
+    </div>
+  </div>
+</footer>
+{% if site.enable_anchorjs %}<!-- AnchorJS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>{% endif %}
