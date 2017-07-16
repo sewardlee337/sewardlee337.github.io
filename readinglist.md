@@ -14,7 +14,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 * [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
-* [三體](http://www.books.com.tw/products/0010498053?loc=P_asv_001), 劉慈欣 者
+* [三體](http://www.books.com.tw/products/0010498053?loc=P_asv_001), 劉慈欣 著
 
 
 ### 2017
@@ -41,8 +41,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Signed-ebook/dp/B01GI6S7EK/ref=pd_sim_351_11?_encoding=UTF8&psc=1&refRID=8XGGGRTEBH16B0WPQE1S), by Michael Lewis
 1. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1500165022&sr=8-1&keywords=the+visual+display+of+quantitative+information), by Edward Tufte
 1. [Whose Freedom?](https://www.amazon.com/Whose-Freedom-Battle-Americas-Important-ebook/dp/B004S82T2C/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1500163670&sr=1-1-fkmr0&keywords=who%27s+freedom+lakoff), by George Lakoff
-1. [塞外奇俠傳](), 梁羽生 者
-1. [俠客行](http://www.books.com.tw/products/0010264736), 金庸 者
+1. [塞外奇俠傳](), 梁羽生 著
+1. [俠客行](http://www.books.com.tw/products/0010264736), 金庸 著
 
 
 ### 2016
@@ -56,21 +56,21 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Churchill Factor](https://www.amazon.com/Churchill-Factor-How-Made-History-ebook/dp/B00INIXTV8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163274&sr=1-1&keywords=the+churchill+factor), by Boris Johnson
 1. [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1500163311&sr=1-1&keywords=the+lean+startup), by Eric Ries
 1. [The Subtle Art of Not Giving a F*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162324&sr=1-1&keywords=the+subtle+art+of+not+giving+a+f---+mark+manson), by Mark Manson
-1. [北京法源寺](http://www.books.com.tw/products/0010034303), 李敖 者
-1. [道士下山](http://www.books.com.tw/products/0010434336), 徐皓峰 者
-1. [國父 ‘們’](http://www.books.com.tw/products/0010694152), 金哲毅 者
-1. [連城訣](http://www.books.com.tw/products/0010261849),  金庸 者
-1. [書劍恩仇錄](http://www.books.com.tw/products/0010226883?loc=P_asb_005), 金庸 者
-1. [孫子兵法：不朽的戰爭藝術](http://www.books.com.tw/products/0010559191), 徐瑜 者
+1. [北京法源寺](http://www.books.com.tw/products/0010034303), 李敖 著
+1. [道士下山](http://www.books.com.tw/products/0010434336), 徐皓峰 著
+1. [國父 ‘們’](http://www.books.com.tw/products/0010694152), 金哲毅 著
+1. [連城訣](http://www.books.com.tw/products/0010261849),  金庸 著
+1. [書劍恩仇錄](http://www.books.com.tw/products/0010226883?loc=P_asb_005), 金庸 著
+1. [孫子兵法：不朽的戰爭藝術](http://www.books.com.tw/products/0010559191), 徐瑜 著
 
 ### 2015
 
 1. [Elon Musk](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS/ref=sr_1_1?ie=UTF8&qid=1500166232&sr=8-1&keywords=elon+musk), by Ashlee Vance
 1. [Work Rules](https://www.amazon.com/Work-Rules-Insights-Inside-Transform-ebook/dp/B00MEMMVB8/ref=sr_1_1?ie=UTF8&qid=1500166286&sr=8-1&keywords=work+rules), by Laszlo Bock
-1. [盜墓筆記第一季 卷一](http://www.books.com.tw/products/0010636925?loc=P_asv_002), 南派三叔 者
-1. [帝國崛起](http://www.books.com.tw/products/0010659995), 呂世浩 者
-1. [敵我之間](http://www.books.com.tw/products/0010684019?loc=P_asb_002), 呂世浩 者
-1. [飛狐外傳](http://www.books.com.tw/products/0010264735), 金庸 者
-1. [秦始皇](http://www.books.com.tw/products/0010637327?loc=P_asb_001), 呂世浩 者
+1. [盜墓筆記第一季 卷一](http://www.books.com.tw/products/0010636925?loc=P_asv_002), 南派三叔 著
+1. [帝國崛起](http://www.books.com.tw/products/0010659995), 呂世浩 著
+1. [敵我之間](http://www.books.com.tw/products/0010684019?loc=P_asb_002), 呂世浩 著
+1. [飛狐外傳](http://www.books.com.tw/products/0010264735), 金庸 著
+1. [秦始皇](http://www.books.com.tw/products/0010637327?loc=P_asb_001), 呂世浩 著
 
 &nbsp;

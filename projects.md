@@ -13,7 +13,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_finreportr_](https://github.com/sewardlee337/finreportr) 
 
-  R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. Hosted on CRAN and listed under Empirical Finance Task View
+  R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. Hosted on CRAN and listed under Empirical Finance Task View.
 
 [_patentr_](https://github.com/sewardlee337/patentr) 
 
