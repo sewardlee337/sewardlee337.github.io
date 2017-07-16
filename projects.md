@@ -33,7 +33,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_Tropical Ecology Assessment and Monitoring (TEAM) Analytics_](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive)
 
-  Analytics dashboard developed as part of collaboration between DataKind and Conservation International. Allows land managers to monitor species diversity in wildlife conservatio areas. Built using R, Shiny, and Leaflet.
+  Analytics dashboard developed as part of collaboration between DataKind and Conservation International. Allows land managers to monitor species diversity in wildlife conservation areas. Built using R, Shiny, and Leaflet.
 
  &nbsp;
  
