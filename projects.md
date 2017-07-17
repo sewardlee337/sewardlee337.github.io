@@ -9,9 +9,9 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 &nbsp;
 
-### Open source
+### Data Import
 
-[_finreportr_](https://github.com/sewardlee337/finreportr) 
+[_finreportr_](https://cran.r-project.org/package=finreportr)
 
   R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. Hosted on CRAN and listed under Empirical Finance Task View.
 
@@ -21,13 +21,9 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 &nbsp;
 
-### Other
+### Analytics Dashboard
 
-[_MathWorks Mission on Mars Robot Challenge_](https://www.mathworks.com/academia/student-challenge/mission-on-mars.html) 
-
-  Robot pathfinding algorithm developed with 2 teammates for international competition, using MATLAB. Allows robot to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
-
-[_Taiwan Industry Cluster Explorer_](https://github.com/sewardlee337/industry-cluster-explorer)
+[_Taiwan Industry Cluster Explorer_](http://140.119.55.171:3838/andy/ClusterMapping/)
 
   Analytics dashboard developed for research project at National Chengchi University in Taipei. Allows policymakers to surface insights relating to regional economic productivity. Built using R and Shiny web framework.
 
@@ -35,5 +31,18 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
   Analytics dashboard developed as part of collaboration between DataKind and Conservation International. Allows land managers to monitor species diversity in wildlife conservation areas. Built using R, Shiny, and Leaflet.
 
- &nbsp;
- 
+&nbsp;
+
+### Robotics
+
+[_MathWorks Mission on Mars Robot Challenge_](https://www.mathworks.com/academia/student-challenge/mission-on-mars.html) 
+
+  Robot pathfinding algorithm developed with 2 teammates for international competition, using MATLAB. Allows robot to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
+
+&nbsp;
+
+### Other
+
+[_sewardlee.com_](http://www.sewardlee.com)
+  
+  Personal website built using Jekyll static site generator, and hosted with GitHub Pages.
