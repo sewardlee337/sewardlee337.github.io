@@ -12,14 +12,15 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 * [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
+* [Show Me the Numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=sr_1_1?ie=UTF8&qid=1500348689&sr=8-1&keywords=show+me+the+numbers), by Stephen Few
 * [三體](http://www.books.com.tw/products/0010498053?loc=P_asv_001), 劉慈欣 著
 
 
 ### 2017
 
 1. [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=pd_sim_351_6?_encoding=UTF8&psc=1&refRID=55TM0587AYHX8KJ0PFHH), by William B. Irvine
+1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 1. [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163114&sr=1-1&keywords=digital+gold), by Nathaniel Popper
 1. [How to Live](https://www.amazon.com/How-Live-Montaigne-Question-Attempts-ebook/dp/B003E8AK4Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163553&sr=1-1&keywords=how+to+live), by Sarah Bakewell
 1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162652&sr=1-1&keywords=man%27s+search+for+meaning), by Viktor Frankl
@@ -31,7 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163588&sr=1-1&keywords=surely+you%27re+joking+mr.+feynman), by Richard P. Feynman
 1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
 1. [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=264087XKEHZVB040WGN5), by Michael Lewis
-1. [The Cathedral and the Bazaar](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Ddigital-text&field-keywords=the+cathedral+and+the+bazaar&rh=n%3A133140011%2Ck%3Athe+cathedral+and+the+bazaar), by Eric S. Raymond
+1. [The Cathedral and the Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/ref=sr_1_1?ie=UTF8&qid=1500271243&sr=8-1&keywords=the+cathedral+and+the+bazaar), by Eric S. Raymond
 1. [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162593&sr=1-1&keywords=the+checklist+manifesto), by Atul Gawande
 1. [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1500162561&sr=1-1&keywords=the+martian), by Andy Weir
 1. [The Prophet](https://www.amazon.com/Prophet-Kahlil-Gibran-ebook/dp/B06XDHQFVY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162682&sr=1-1&keywords=the+prophet), by Kahlil Gibran
@@ -51,8 +52,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Dreaming in Code](https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software-ebook/dp/B000PDZFOI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162774&sr=1-1&keywords=dreaming+in+code), by Scott Rosenberg
 1. [Ego Is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday-ebook/dp/B015NTIXWE/ref=pd_sim_351_10?_encoding=UTF8&psc=1&refRID=RQ00WC70SZH0D7N3PK86), by Ryan Holiday
 1. [Originals](https://www.amazon.com/Originals-How-Non-Conformists-Move-World-ebook/dp/B00XIYGCDO/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162953&sr=1-1&keywords=originals), by Adam Grant
+1. [Presence](https://www.amazon.com/Presence-Bringing-Boldest-Biggest-Challenges-ebook/dp/B00U6DNZK8/ref=sr_1_1?ie=UTF8&qid=1500271203&sr=8-1&keywords=amy+cuddy), by Amy Cuddy
 1. [Smarter Faster Better](https://www.amazon.com/Smarter-Faster-Better-Transformative-Productivity-ebook/dp/B00Z3FRYB0/ref=sr_1_1?ie=UTF8&qid=1500165227&sr=8-1&keywords=smarter+faster+better), by Charles Duhigg
-1. [Superforecasting](https://www.amazon.com/Prophet-Kahlil-Gibran-ebook/dp/B06XDHQFVY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162682&sr=1-1&keywords=the+prophet), by Philip E. Tetlock and Dan Gardner
+1. [Superforecasting](https://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500272268&sr=1-1&keywords=superforecasting), by Philip E. Tetlock and Dan Gardner
 1. [The Churchill Factor](https://www.amazon.com/Churchill-Factor-How-Made-History-ebook/dp/B00INIXTV8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163274&sr=1-1&keywords=the+churchill+factor), by Boris Johnson
 1. [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1500163311&sr=1-1&keywords=the+lean+startup), by Eric Ries
 1. [The Subtle Art of Not Giving a F*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162324&sr=1-1&keywords=the+subtle+art+of+not+giving+a+f---+mark+manson), by Mark Manson

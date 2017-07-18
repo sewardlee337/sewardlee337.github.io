@@ -29,7 +29,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_Tropical Ecology Assessment and Monitoring (TEAM) Analytics_](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive)
 
-  Analytics dashboard developed as part of collaboration between DataKind and Conservation International. Allows land managers to monitor species diversity in wildlife conservation areas. Built using R, Shiny, and Leaflet.
+  Analytics dashboard developed by volunteer data scientists at DataKind event, as part of collaboration with Conservation International. Allows land managers to monitor species diversity in wildlife conservation areas. Built with R, Shiny, and Leaflet.
 
 &nbsp;
 
@@ -37,7 +37,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_MathWorks Mission on Mars Robot Challenge_](https://www.mathworks.com/academia/student-challenge/mission-on-mars.html) 
 
-  Robot pathfinding algorithm developed with 2 teammates for international competition, using MATLAB. Allows robot to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
+  Pathfinding algorithm developed with 2 teammates for international competition, using MATLAB and Simulink. Allows robot to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
 
 &nbsp;
 
@@ -45,4 +45,6 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_sewardlee.com_](http://www.sewardlee.com)
   
-  Personal website built using Jekyll static site generator, and hosted with GitHub Pages.
+  Personal website. Built using Jekyll and hosted on GitHub Pages.
+
+&nbsp;
