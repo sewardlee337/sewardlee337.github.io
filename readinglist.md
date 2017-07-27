@@ -14,8 +14,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
 * [Show Me the Numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=sr_1_1?ie=UTF8&qid=1500348689&sr=8-1&keywords=show+me+the+numbers), by Stephen Few
-* [三體](http://www.books.com.tw/products/0010498053?loc=P_asv_001), 劉慈欣 著
-
+* [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500967102&sr=1-1&keywords=hackers+%26+painters), by Paul Graham
+* [Introduction to Mathematical Thinking](https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO/ref=sr_1_1?ie=UTF8&qid=1501048814&sr=8-1&keywords=introduction+to+mathematical+thinking), by Keith Devlin
 
 ### 2017
 
@@ -23,16 +23,17 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 1. [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163114&sr=1-1&keywords=digital+gold), by Nathaniel Popper
 1. [How to Live](https://www.amazon.com/How-Live-Montaigne-Question-Attempts-ebook/dp/B003E8AK4Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163553&sr=1-1&keywords=how+to+live), by Sarah Bakewell
-1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162652&sr=1-1&keywords=man%27s+search+for+meaning), by Viktor Frankl
+1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162652&sr=1-1&keywords=man%27s+search+for+meaning), by Viktor E. Frankl
 1. [Meditations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1500162466&sr=1-2&keywords=marcus+aurelius+gregory+hays), by Marcus Aurelius (Author) and Gregory Hays (Translator)
 1. [Moneyball](https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game-ebook/dp/B000RH0C8G/ref=sr_1_1?ie=UTF8&qid=1500162170&sr=8-1&keywords=moneyball), by Michael Lewis
 1. [Pastoralia](https://www.amazon.com/Pastoralia-George-Saunders-ebook/dp/B006J3X0CM/ref=sr_1_1?ie=UTF8&qid=1500164943&sr=8-1&keywords=pastoralia), by George Saunders
 1. [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions-ebook/dp/B002C949KE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163073&sr=1-1&keywords=predictably+irrational), by Dan Ariely
 1. [Rogue Heroes](https://www.amazon.com/Rogue-Heroes-History-Britains-Sabotaged-ebook/dp/B01AES52F0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163725&sr=1-1&keywords=rogue+heroes), by Ben MacIntyre
+1. [Stories of Your Life and Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_1?ie=UTF8&qid=1500607396&sr=8-1&keywords=stories+of+your+life), by Ted Chiang
 1. [Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163588&sr=1-1&keywords=surely+you%27re+joking+mr.+feynman), by Richard P. Feynman
 1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
 1. [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=264087XKEHZVB040WGN5), by Michael Lewis
-1. [The Cathedral and the Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/ref=sr_1_1?ie=UTF8&qid=1500271243&sr=8-1&keywords=the+cathedral+and+the+bazaar), by Eric S. Raymond
+1. [The Cathedral & the Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/ref=sr_1_1?ie=UTF8&qid=1500271243&sr=8-1&keywords=the+cathedral+and+the+bazaar), by Eric S. Raymond
 1. [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162593&sr=1-1&keywords=the+checklist+manifesto), by Atul Gawande
 1. [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1500162561&sr=1-1&keywords=the+martian), by Andy Weir
 1. [The Prophet](https://www.amazon.com/Prophet-Kahlil-Gibran-ebook/dp/B06XDHQFVY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162682&sr=1-1&keywords=the+prophet), by Kahlil Gibran
@@ -43,6 +44,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1500165022&sr=8-1&keywords=the+visual+display+of+quantitative+information), by Edward Tufte
 1. [Whose Freedom?](https://www.amazon.com/Whose-Freedom-Battle-Americas-Important-ebook/dp/B004S82T2C/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1500163670&sr=1-1-fkmr0&keywords=who%27s+freedom+lakoff), by George Lakoff
 1. [塞外奇俠傳](), 梁羽生 著
+1. [三體](http://www.books.com.tw/products/0010498053?loc=P_asv_001), 劉慈欣 著
 1. [俠客行](http://www.books.com.tw/products/0010264736), 金庸 著
 
 
@@ -74,5 +76,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [敵我之間](http://www.books.com.tw/products/0010684019?loc=P_asb_002), 呂世浩 著
 1. [飛狐外傳](http://www.books.com.tw/products/0010264735), 金庸 著
 1. [秦始皇](http://www.books.com.tw/products/0010637327?loc=P_asb_001), 呂世浩 著
+1. [天龍八部](http://www.books.com.tw/products/0010307787?loc=P_asb_010), 金庸 著
 
 &nbsp;
