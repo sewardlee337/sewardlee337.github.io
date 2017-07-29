@@ -35,17 +35,13 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
   R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. Hosted on CRAN and listed under Empirical Finance Task View.
 
-[_patentr_](https://github.com/sewardlee337/patentr) - [(GitHub repo)](https://github.com/sewardlee337/patentr)
-
-  R client that interfaces with APIs maintained by the U.S. Patent and Trademark Office. _(Under active development)_   
-
 &nbsp;
 
 ### Predictive Modeling
 
 [_San Francisco Fire Risk Project_](http://datascience.codeforsanfrancisco.org/project/sf-fire-risk/)
 
-  Volunteer civic hacking project run by Code for San Francisco's Data Science Working Group. Utilizes predictive model to calculate fire risk scores for SF neighborhoods. 
+  Civic hacking project run by Code for San Francisco's Data Science Working Group. Utilizes predictive model to calculate fire risk scores for SF neighborhoods. 
 
 &nbsp;
 
