@@ -15,13 +15,14 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
 * [Show Me the Numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=sr_1_1?ie=UTF8&qid=1500348689&sr=8-1&keywords=show+me+the+numbers), by Stephen Few
 * [Introduction to Mathematical Thinking](https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO/ref=sr_1_1?ie=UTF8&qid=1501048814&sr=8-1&keywords=introduction+to+mathematical+thinking), by Keith Devlin
-* [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=sr_1_1?ie=UTF8&qid=1501446251&sr=8-1&keywords=foundation+asimov), by Isaac Asimov
+
 
 ### 2017
 
 1. [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=pd_sim_351_6?_encoding=UTF8&psc=1&refRID=55TM0587AYHX8KJ0PFHH), by William B. Irvine
 1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 1. [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163114&sr=1-1&keywords=digital+gold), by Nathaniel Popper
+1. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=sr_1_1?ie=UTF8&qid=1501446251&sr=8-1&keywords=foundation+asimov), by Isaac Asimov
 1. [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500967102&sr=1-1&keywords=hackers+%26+painters), by Paul Graham
 1. [How to Live](https://www.amazon.com/How-Live-Montaigne-Question-Attempts-ebook/dp/B003E8AK4Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163553&sr=1-1&keywords=how+to+live), by Sarah Bakewell
 1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162652&sr=1-1&keywords=man%27s+search+for+meaning), by Viktor E. Frankl
