@@ -12,8 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
 * [Show Me the Numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=sr_1_1?ie=UTF8&qid=1500348689&sr=8-1&keywords=show+me+the+numbers), by Stephen Few
+* [Stumbling on Happiness](https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert-ebook/dp/B000GCFW0A/ref=sr_1_1?ie=UTF8&qid=1502042514&sr=8-1&keywords=stumbling+upon+happiness), by Daniel Gilbert
 * [Introduction to Mathematical Thinking](https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO/ref=sr_1_1?ie=UTF8&qid=1501048814&sr=8-1&keywords=introduction+to+mathematical+thinking), by Keith Devlin
 
 
@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163114&sr=1-1&keywords=digital+gold), by Nathaniel Popper
 1. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=sr_1_1?ie=UTF8&qid=1501446251&sr=8-1&keywords=foundation+asimov), by Isaac Asimov
 1. [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500967102&sr=1-1&keywords=hackers+%26+painters), by Paul Graham
+1. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
 1. [How to Live](https://www.amazon.com/How-Live-Montaigne-Question-Attempts-ebook/dp/B003E8AK4Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163553&sr=1-1&keywords=how+to+live), by Sarah Bakewell
 1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162652&sr=1-1&keywords=man%27s+search+for+meaning), by Viktor E. Frankl
 1. [Meditations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1500162466&sr=1-2&keywords=marcus+aurelius+gregory+hays), by Marcus Aurelius (Author) and Gregory Hays (Translator)
