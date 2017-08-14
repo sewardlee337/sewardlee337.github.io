@@ -13,7 +13,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_MathWorks Mission on Mars Robot Challenge_](https://www.mathworks.com/academia/student-challenge/mission-on-mars.html) 
 
-  Robot pathfinding algorithm developed with 2 teammates for international competition, using MATLAB and Simulink. Allows robot to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
+  Robot pathfinding algorithm developed with 2 teammates for international competition, using MATLAB and Simulink. Allows Mars rover to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
 
 &nbsp;
 

@@ -13,9 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=sr_1_1?ie=UTF8&qid=1502054652&sr=8-1&keywords=flash+boys), by Michael Lewis
-* [Show Me the Numbers](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=sr_1_1?ie=UTF8&qid=1500348689&sr=8-1&keywords=show+me+the+numbers), by Stephen Few
 * [Stumbling on Happiness](https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert-ebook/dp/B000GCFW0A/ref=sr_1_1?ie=UTF8&qid=1502042514&sr=8-1&keywords=stumbling+upon+happiness), by Daniel Gilbert
-* [Introduction to Mathematical Thinking](https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO/ref=sr_1_1?ie=UTF8&qid=1501048814&sr=8-1&keywords=introduction+to+mathematical+thinking), by Keith Devlin
 * [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads-ebook/dp/B01AEPSWB4/ref=sr_1_1?ie=UTF8&qid=1502057399&sr=8-1&keywords=tim+wu), by Tim Wu
 
 
@@ -71,6 +69,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [連城訣](http://www.books.com.tw/products/0010261849),  金庸 著
 1. [書劍恩仇錄](http://www.books.com.tw/products/0010226883?loc=P_asb_005), 金庸 著
 1. [孫子兵法：不朽的戰爭藝術](http://www.books.com.tw/products/0010559191), 徐瑜 著
+
 
 ### 2015
 
