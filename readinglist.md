@@ -13,8 +13,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=sr_1_1?ie=UTF8&qid=1502054652&sr=8-1&keywords=flash+boys), by Michael Lewis
+* [Jonathan Strange & Mr Norrell](https://www.amazon.com/Jonathan-Strange-Norrell-Susanna-Clarke-ebook/dp/B003RRXXMA/ref=sr_1_1?ie=UTF8&qid=1503251720&sr=8-1&keywords=jonathan+strange+mr+norrell), by Susanna Clarke
 * [Stumbling on Happiness](https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert-ebook/dp/B000GCFW0A/ref=sr_1_1?ie=UTF8&qid=1502042514&sr=8-1&keywords=stumbling+upon+happiness), by Daniel Gilbert
-* [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads-ebook/dp/B01AEPSWB4/ref=sr_1_1?ie=UTF8&qid=1502057399&sr=8-1&keywords=tim+wu), by Tim Wu
 
 
 ### 2017
@@ -35,6 +35,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Stories of Your Life and Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_1?ie=UTF8&qid=1500607396&sr=8-1&keywords=stories+of+your+life), by Ted Chiang
 1. [Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163588&sr=1-1&keywords=surely+you%27re+joking+mr.+feynman), by Richard P. Feynman
 1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
+1. [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads-ebook/dp/B01AEPSWB4/ref=sr_1_1?ie=UTF8&qid=1502057399&sr=8-1&keywords=tim+wu), by Tim Wu
 1. [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=264087XKEHZVB040WGN5), by Michael Lewis
 1. [The Cathedral & the Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/ref=sr_1_1?ie=UTF8&qid=1500271243&sr=8-1&keywords=the+cathedral+and+the+bazaar), by Eric S. Raymond
 1. [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162593&sr=1-1&keywords=the+checklist+manifesto), by Atul Gawande
