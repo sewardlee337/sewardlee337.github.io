@@ -12,9 +12,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=sr_1_1?ie=UTF8&qid=1502054652&sr=8-1&keywords=flash+boys), by Michael Lewis
+* [The Age of Wonder](https://www.amazon.com/Age-Wonder-Romantic-Generation-Discovered-ebook/dp/B001NLL568/ref=mt_kindle?_encoding=UTF8&me=), by Richard Holmes
 * [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
-* [Tinker, Tailor, Soldier, Spy](https://www.amazon.com/gp/product/B004RKXNDU/ref=series_rw_dp_sw), by John le Carré
+* [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
 
 
 ### 2017
@@ -22,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=pd_sim_351_6?_encoding=UTF8&psc=1&refRID=55TM0587AYHX8KJ0PFHH), by William B. Irvine
 1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 1. [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163114&sr=1-1&keywords=digital+gold), by Nathaniel Popper
+1. [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=sr_1_1?ie=UTF8&qid=1502054652&sr=8-1&keywords=flash+boys), by Michael Lewis
 1. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=sr_1_1?ie=UTF8&qid=1501446251&sr=8-1&keywords=foundation+asimov), by Isaac Asimov
 1. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
 1. [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500967102&sr=1-1&keywords=hackers+%26+painters), by Paul Graham
