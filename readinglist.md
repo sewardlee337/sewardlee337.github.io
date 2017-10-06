@@ -22,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=pd_sim_351_6?_encoding=UTF8&psc=1&refRID=55TM0587AYHX8KJ0PFHH), by William B. Irvine
 1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
+1. [Daring Greatly](https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/ref=sr_1_1?ie=UTF8&qid=1507268420&sr=8-1&keywords=brene+brown+daring+greatly), by Brené Brown
 1. [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163114&sr=1-1&keywords=digital+gold), by Nathaniel Popper
 1. [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=sr_1_1?ie=UTF8&qid=1502054652&sr=8-1&keywords=flash+boys), by Michael Lewis
 1. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=sr_1_1?ie=UTF8&qid=1501446251&sr=8-1&keywords=foundation+asimov), by Isaac Asimov
