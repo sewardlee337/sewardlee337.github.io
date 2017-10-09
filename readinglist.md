@@ -32,6 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Jonathan Strange & Mr Norrell](https://www.amazon.com/Jonathan-Strange-Norrell-Susanna-Clarke-ebook/dp/B003RRXXMA/ref=sr_1_1?ie=UTF8&qid=1503251720&sr=8-1&keywords=jonathan+strange+mr+norrell), by Susanna Clarke
 1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162652&sr=1-1&keywords=man%27s+search+for+meaning), by Viktor E. Frankl
 1. [Meditations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1500162466&sr=1-2&keywords=marcus+aurelius+gregory+hays), by Marcus Aurelius (Author) and Gregory Hays (Translator)
+1. [Modern Romance](https://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG/ref=sr_1_1?ie=UTF8&qid=1507268881&sr=8-1&keywords=modern+romance), by Aziz Ansari
 1. [Moneyball](https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game-ebook/dp/B000RH0C8G/ref=sr_1_1?ie=UTF8&qid=1500162170&sr=8-1&keywords=moneyball), by Michael Lewis
 1. [Pastoralia](https://www.amazon.com/Pastoralia-George-Saunders-ebook/dp/B006J3X0CM/ref=sr_1_1?ie=UTF8&qid=1500164943&sr=8-1&keywords=pastoralia), by George Saunders
 1. [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions-ebook/dp/B002C949KE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163073&sr=1-1&keywords=predictably+irrational), by Dan Ariely
