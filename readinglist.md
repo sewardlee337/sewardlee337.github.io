@@ -12,7 +12,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [The Age of Wonder](https://www.amazon.com/Age-Wonder-Romantic-Generation-Discovered-ebook/dp/B001NLL568/ref=mt_kindle?_encoding=UTF8&me=), by Richard Holmes
 * [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
 * [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
 * [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2/ref=sr_1_1?s=books&ie=UTF8&qid=1506200122&sr=1-1&keywords=never+split+the+difference), by Chris Voss and Tahl Raz
@@ -40,6 +39,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Stories of Your Life and Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_1?ie=UTF8&qid=1500607396&sr=8-1&keywords=stories+of+your+life), by Ted Chiang
 1. [Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163588&sr=1-1&keywords=surely+you%27re+joking+mr.+feynman), by Richard P. Feynman
 1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
+1. [The Age of Wonder](https://www.amazon.com/Age-Wonder-Romantic-Generation-Discovered-ebook/dp/B001NLL568/ref=mt_kindle?_encoding=UTF8&me=), by Richard Holmes
 1. [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads-ebook/dp/B01AEPSWB4/ref=sr_1_1?ie=UTF8&qid=1502057399&sr=8-1&keywords=tim+wu), by Tim Wu
 1. [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=264087XKEHZVB040WGN5), by Michael Lewis
 1. [The Cathedral & the Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/ref=sr_1_1?ie=UTF8&qid=1500271243&sr=8-1&keywords=the+cathedral+and+the+bazaar), by Eric S. Raymond
