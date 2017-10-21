@@ -48,6 +48,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1500162561&sr=1-1&keywords=the+martian), by Andy Weir
 1. [The Prophet](https://www.amazon.com/Prophet-Kahlil-Gibran-ebook/dp/B06XDHQFVY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162682&sr=1-1&keywords=the+prophet), by Kahlil Gibran
 1. [The Right Stuff](https://www.amazon.com/Right-Stuff-Tom-Wolfe-ebook/dp/B00139XSBA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163152&sr=1-1&keywords=the+right+stuff), by Tom Wolfe
+1. [The Sense of Style](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-ebook/dp/B00INIYG74/ref=mt_kindle?_encoding=UTF8&me=), by Steven Pinker
 1. [The True Believer](https://www.amazon.com/True-Believer-Thoughts-Movements-Perennial-ebook/dp/B003TO5838/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163627&sr=1-1&keywords=the+true+believer), by Eric Hoffer
 1. [The Ultimate Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy-ebook/dp/B0043M4ZH0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1500162033&sr=8-1), by Douglas Adams
 1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Signed-ebook/dp/B01GI6S7EK/ref=pd_sim_351_11?_encoding=UTF8&psc=1&refRID=8XGGGRTEBH16B0WPQE1S), by Michael Lewis
