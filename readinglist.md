@@ -14,8 +14,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
 * [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
-* [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2/ref=sr_1_1?s=books&ie=UTF8&qid=1506200122&sr=1-1&keywords=never+split+the+difference), by Chris Voss and Tahl Raz
 * ['Salem's Lot](https://www.amazon.com/dp/B0019LV31E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by Stephen King
+* [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/ref=sr_1_1?ie=UTF8&qid=1508736808&sr=8-1&keywords=leonardo+da+vinci), by Walter Isaacson
 
 
 ### 2017
@@ -34,6 +34,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Meditations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1500162466&sr=1-2&keywords=marcus+aurelius+gregory+hays), by Marcus Aurelius (Author) and Gregory Hays (Translator)
 1. [Modern Romance](https://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG/ref=sr_1_1?ie=UTF8&qid=1507268881&sr=8-1&keywords=modern+romance), by Aziz Ansari
 1. [Moneyball](https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game-ebook/dp/B000RH0C8G/ref=sr_1_1?ie=UTF8&qid=1500162170&sr=8-1&keywords=moneyball), by Michael Lewis
+1. [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2/ref=sr_1_1?s=books&ie=UTF8&qid=1506200122&sr=1-1&keywords=never+split+the+difference), by Chris Voss and Tahl Raz
 1. [Pastoralia](https://www.amazon.com/Pastoralia-George-Saunders-ebook/dp/B006J3X0CM/ref=sr_1_1?ie=UTF8&qid=1500164943&sr=8-1&keywords=pastoralia), by George Saunders
 1. [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions-ebook/dp/B002C949KE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163073&sr=1-1&keywords=predictably+irrational), by Dan Ariely
 1. [Rogue Heroes](https://www.amazon.com/Rogue-Heroes-History-Britains-Sabotaged-ebook/dp/B01AES52F0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163725&sr=1-1&keywords=rogue+heroes), by Ben MacIntyre
