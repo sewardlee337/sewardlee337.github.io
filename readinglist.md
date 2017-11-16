@@ -15,6 +15,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
 * [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
 * [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/ref=sr_1_1?ie=UTF8&qid=1508736808&sr=8-1&keywords=leonardo+da+vinci), by Walter Isaacson
+* [Blockchain Basics](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038/ref=sr_1_1?ie=UTF8&qid=1510209455&sr=8-1&keywords=blockchain+basics), by Daniel Drescher
 
 
 ### 2017
@@ -40,6 +41,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Rogue Heroes](https://www.amazon.com/Rogue-Heroes-History-Britains-Sabotaged-ebook/dp/B01AES52F0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163725&sr=1-1&keywords=rogue+heroes), by Ben MacIntyre
 1. ['Salem's Lot](https://www.amazon.com/dp/B0019LV31E/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by Stephen King
 1. [Siddhartha](https://www.amazon.com/Siddhartha-Hermann-Hesse-ebook/dp/B007Q2YM8Q/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1508565652&sr=1-4&keywords=siddhartha), by Herman Hesse (Author) and Hilda Rosner (Translator)
+1. [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1510815080&sr=8-2), by Cal Newport
 1. [Stories of Your Life and Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_1?ie=UTF8&qid=1500607396&sr=8-1&keywords=stories+of+your+life), by Ted Chiang
 1. [Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163588&sr=1-1&keywords=surely+you%27re+joking+mr.+feynman), by Richard P. Feynman
 1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
