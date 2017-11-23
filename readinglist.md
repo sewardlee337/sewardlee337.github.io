@@ -15,6 +15,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
 * [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
 * [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/ref=sr_1_1?ie=UTF8&qid=1508736808&sr=8-1&keywords=leonardo+da+vinci), by Walter Isaacson
+* [Introduction to Networking](https://www.amazon.com/Introduction-Networking-How-Internet-Works-ebook/dp/B00YD7M92S/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1511127587&sr=1-1&keywords=introduction+to+networking), by Charles R. Severance
 
 
 ### 2017
@@ -50,6 +51,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=264087XKEHZVB040WGN5), by Michael Lewis
 1. [The Cathedral & the Bazaar](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary-ebook/dp/B0026OR3LM/ref=sr_1_1?ie=UTF8&qid=1500271243&sr=8-1&keywords=the+cathedral+and+the+bazaar), by Eric S. Raymond
 1. [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162593&sr=1-1&keywords=the+checklist+manifesto), by Atul Gawande
+1. [The Everything Store](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon-ebook/dp/B00BWQW73E/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1511127538&sr=8-1), by Brad Stone
 1. [The Little Prince](https://www.amazon.com/Little-Prince-Antoine-Saint-Exup%C3%A9ry/dp/0156012197/ref=pd_bxgy_14_3?_encoding=UTF8&psc=1&refRID=Y0X76QYR9JP1H9M923AB&dpID=51uWEc5jV7L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=detail), by Antoine de Saint-Exupéry (Author) and Richard Howard (Translator)
 1. [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1500162561&sr=1-1&keywords=the+martian), by Andy Weir
 1. [The Prophet](https://www.amazon.com/Prophet-Kahlil-Gibran-ebook/dp/B06XDHQFVY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162682&sr=1-1&keywords=the+prophet), by Kahlil Gibran
