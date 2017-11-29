@@ -21,7 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### 2017
 
 1. [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=pd_sim_351_6?_encoding=UTF8&psc=1&refRID=55TM0587AYHX8KJ0PFHH), by William B. Irvine
-1. [Blockchain Basics](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038/ref=sr_1_1?ie=UTF8&qid=1510209455&sr=8-1&keywords=blockchain+basics), by Daniel Drescher
+1. [Blockchain Basics](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps-ebook/dp/B06XNWF5GP/ref=mt_kindle?_encoding=UTF8&me=), by Daniel Drescher
 1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 1. [Daring Greatly](https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/ref=sr_1_1?ie=UTF8&qid=1507268420&sr=8-1&keywords=brene+brown+daring+greatly), by Brené Brown
 1. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1509159673&sr=1-1&keywords=deep+work), by Cal Newport
@@ -63,6 +63,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1500165022&sr=8-1&keywords=the+visual+display+of+quantitative+information), by Edward Tufte
 1. [Whose Freedom?](https://www.amazon.com/Whose-Freedom-Battle-Americas-Important-ebook/dp/B004S82T2C/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1500163670&sr=1-1-fkmr0&keywords=who%27s+freedom+lakoff), by George Lakoff
 1. [Writing on the Wall](https://www.amazon.com/Writing-Wall-Social-Media-First-ebook/dp/B00CIR9856/ref=sr_1_1?ie=UTF8&qid=1505454701&sr=8-1&keywords=writing+on+the+wall+social+media+-+the+first+2+000+years), by Tom Standage
+1. [霸王之夢](http://www.books.com.tw/products/0010742260), 呂世浩 著
 1. [塞外奇俠傳](http://m.sanmin.com.tw/product/index/000944926), 梁羽生 著
 1. [三體](http://www.books.com.tw/products/0010498053?loc=P_asv_001), 劉慈欣 著
 1. [俠客行](http://www.books.com.tw/products/0010264736), 金庸 著
