@@ -15,12 +15,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
 * [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
 * [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/ref=sr_1_1?ie=UTF8&qid=1508736808&sr=8-1&keywords=leonardo+da+vinci), by Walter Isaacson
-* [Introduction to Networking](https://www.amazon.com/Introduction-Networking-How-Internet-Works-ebook/dp/B00YD7M92S/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1511127587&sr=1-1&keywords=introduction+to+networking), by Charles R. Severance
 
 
 ### 2017
 
 1. [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=pd_sim_351_6?_encoding=UTF8&psc=1&refRID=55TM0587AYHX8KJ0PFHH), by William B. Irvine
+1. [Barking Up the Wrong Tree](https://www.amazon.com/Barking-Wrong-Tree-Surprising-Everything-ebook/dp/B01KT104RI/ref=sr_1_1?ie=UTF8&qid=1511941724&sr=8-1&keywords=barking+up+the+wrong+tree), by Eric Barker
 1. [Blockchain Basics](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps-ebook/dp/B06XNWF5GP/ref=mt_kindle?_encoding=UTF8&me=), by Daniel Drescher
 1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
 1. [Daring Greatly](https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/ref=sr_1_1?ie=UTF8&qid=1507268420&sr=8-1&keywords=brene+brown+daring+greatly), by Brené Brown
