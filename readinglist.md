@@ -37,6 +37,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Modern Romance](https://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG/ref=sr_1_1?ie=UTF8&qid=1507268881&sr=8-1&keywords=modern+romance), by Aziz Ansari
 1. [Moneyball](https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game-ebook/dp/B000RH0C8G/ref=sr_1_1?ie=UTF8&qid=1500162170&sr=8-1&keywords=moneyball), by Michael Lewis
 1. [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2/ref=sr_1_1?s=books&ie=UTF8&qid=1506200122&sr=1-1&keywords=never+split+the+difference), by Chris Voss and Tahl Raz
+1. [Only the Paranoid Survive](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge-ebook/dp/B0036S4B2G/ref=sr_1_1?ie=UTF8&qid=1512545354&sr=8-1&keywords=only+the+paranoid+survive), by Andrew S. Grove
 1. [Pastoralia](https://www.amazon.com/Pastoralia-George-Saunders-ebook/dp/B006J3X0CM/ref=sr_1_1?ie=UTF8&qid=1500164943&sr=8-1&keywords=pastoralia), by George Saunders
 1. [Predictably Irrational](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions-ebook/dp/B002C949KE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163073&sr=1-1&keywords=predictably+irrational), by Dan Ariely
 1. [Rogue Heroes](https://www.amazon.com/Rogue-Heroes-History-Britains-Sabotaged-ebook/dp/B01AES52F0/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163725&sr=1-1&keywords=rogue+heroes), by Ben MacIntyre
