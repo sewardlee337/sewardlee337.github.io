@@ -62,6 +62,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Ultimate Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy-ebook/dp/B0043M4ZH0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1500162033&sr=8-1), by Douglas Adams
 1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Signed-ebook/dp/B01GI6S7EK/ref=pd_sim_351_11?_encoding=UTF8&psc=1&refRID=8XGGGRTEBH16B0WPQE1S), by Michael Lewis
 1. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1500165022&sr=8-1&keywords=the+visual+display+of+quantitative+information), by Edward Tufte
+1. [Where Good Ideas Come From](https://www.amazon.com/Where-Good-Ideas-Steven-Johnson-ebook/dp/B003ZK58TA/ref=mt_kindle?_encoding=UTF8&me=), by Steven Johnson
 1. [Whose Freedom?](https://www.amazon.com/Whose-Freedom-Battle-Americas-Important-ebook/dp/B004S82T2C/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1500163670&sr=1-1-fkmr0&keywords=who%27s+freedom+lakoff), by George Lakoff
 1. [Writing on the Wall](https://www.amazon.com/Writing-Wall-Social-Media-First-ebook/dp/B00CIR9856/ref=sr_1_1?ie=UTF8&qid=1505454701&sr=8-1&keywords=writing+on+the+wall+social+media+-+the+first+2+000+years), by Tom Standage
 1. [霸王之夢](http://www.books.com.tw/products/0010742260), 呂世浩 著
