@@ -14,7 +14,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
 * [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
-* [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/ref=sr_1_1?ie=UTF8&qid=1508736808&sr=8-1&keywords=leonardo+da+vinci), by Walter Isaacson
+* [The Logic of Life](https://www.amazon.com/Logic-Life-Rational-Economics-Irrational-ebook/dp/B000SK53X6/ref=sr_1_1?ie=UTF8&qid=1513462375&sr=8-1&keywords=the+logic+of+life), by Tim Harford
+* [拜訪刺客 唐傳奇](http://www.books.com.tw/products/0010685834), 黃文英 著
 
 
 ### 2017
@@ -32,6 +33,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500967102&sr=1-1&keywords=hackers+%26+painters), by Paul Graham
 1. [How to Live](https://www.amazon.com/How-Live-Montaigne-Question-Attempts-ebook/dp/B003E8AK4Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163553&sr=1-1&keywords=how+to+live), by Sarah Bakewell
 1. [Jonathan Strange & Mr Norrell](https://www.amazon.com/Jonathan-Strange-Norrell-Susanna-Clarke-ebook/dp/B003RRXXMA/ref=sr_1_1?ie=UTF8&qid=1503251720&sr=8-1&keywords=jonathan+strange+mr+norrell), by Susanna Clarke
+1. [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/ref=sr_1_1?ie=UTF8&qid=1508736808&sr=8-1&keywords=leonardo+da+vinci), by Walter Isaacson
 1. [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162652&sr=1-1&keywords=man%27s+search+for+meaning), by Viktor E. Frankl
 1. [Meditations](https://www.amazon.com/Meditations-New-Translation-Modern-Library-ebook/dp/B000FC1JAI/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1500162466&sr=1-2&keywords=marcus+aurelius+gregory+hays), by Marcus Aurelius (Author) and Gregory Hays (Translator)
 1. [Modern Romance](https://www.amazon.com/Modern-Romance-Aziz-Ansari-ebook/dp/B00OZ0TMYG/ref=sr_1_1?ie=UTF8&qid=1507268881&sr=8-1&keywords=modern+romance), by Aziz Ansari
