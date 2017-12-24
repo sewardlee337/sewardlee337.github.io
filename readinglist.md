@@ -12,10 +12,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [Poor Economics](https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/ref=sr_1_1?ie=UTF8&qid=1503820139&sr=8-1&keywords=poor+economics+a+radical+rethinking+of+the+way+to+fight+poverty), by Abhijit Banerjee and Esther Duflo
-* [A Mind at Play](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1504403553&sr=1-1&keywords=a+mind+at+play), by Jimmy Soni and Rob Goodman
-* [The Logic of Life](https://www.amazon.com/Logic-Life-Rational-Economics-Irrational-ebook/dp/B000SK53X6/ref=sr_1_1?ie=UTF8&qid=1513462375&sr=8-1&keywords=the+logic+of+life), by Tim Harford
-* [拜訪刺客 唐傳奇](http://www.books.com.tw/products/0010685834), 黃文英 著
+* [Wolf Hall](https://www.amazon.com/Wolf-Hall-Novel-Hilary-Mantel-ebook/dp/B002UZ5K4Y/ref=sr_1_1?ie=UTF8&qid=1514154163&sr=8-1&keywords=wolf+hall), by Hilary Mantel
+* [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Scribner-Classics-ebook/dp/B000FC0OOU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154205&sr=1-1&keywords=for+whom+the+bells+toll), by Ernest Hemingway
+* [Howl's Moving Castle](https://www.amazon.com/Howls-Moving-Castle-Book-ebook/dp/B008LV8TSU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154353&sr=1-1&keywords=howl%27s+moving+castle), by Diana Wynne Jones
 
 
 ### 2017
@@ -56,6 +55,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right-ebook/dp/B0030V0PEW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162593&sr=1-1&keywords=the+checklist+manifesto), by Atul Gawande
 1. [The Everything Store](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon-ebook/dp/B00BWQW73E/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1511127538&sr=8-1), by Brad Stone
 1. [The Little Prince](https://www.amazon.com/Little-Prince-Antoine-Saint-Exup%C3%A9ry/dp/0156012197/ref=pd_bxgy_14_3?_encoding=UTF8&psc=1&refRID=Y0X76QYR9JP1H9M923AB&dpID=51uWEc5jV7L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=detail), by Antoine de Saint-Exupéry (Author) and Richard Howard (Translator)
+1. [The Logic of Life](https://www.amazon.com/Logic-Life-Rational-Economics-Irrational-ebook/dp/B000SK53X6/ref=sr_1_1?ie=UTF8&qid=1513462375&sr=8-1&keywords=the+logic+of+life), by Tim Harford
 1. [The Martian](https://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/ref=sr_1_1_ha?s=digital-text&ie=UTF8&qid=1500162561&sr=1-1&keywords=the+martian), by Andy Weir
 1. [The Prophet](https://www.amazon.com/Prophet-Kahlil-Gibran-ebook/dp/B06XDHQFVY/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162682&sr=1-1&keywords=the+prophet), by Kahlil Gibran
 1. [The Right Stuff](https://www.amazon.com/Right-Stuff-Tom-Wolfe-ebook/dp/B00139XSBA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163152&sr=1-1&keywords=the+right+stuff), by Tom Wolfe
