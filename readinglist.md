@@ -14,7 +14,10 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [Wolf Hall](https://www.amazon.com/Wolf-Hall-Novel-Hilary-Mantel-ebook/dp/B002UZ5K4Y/ref=sr_1_1?ie=UTF8&qid=1514154163&sr=8-1&keywords=wolf+hall), by Hilary Mantel
 * [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Scribner-Classics-ebook/dp/B000FC0OOU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154205&sr=1-1&keywords=for+whom+the+bells+toll), by Ernest Hemingway
-* [Howl's Moving Castle](https://www.amazon.com/Howls-Moving-Castle-Book-ebook/dp/B008LV8TSU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154353&sr=1-1&keywords=howl%27s+moving+castle), by Diana Wynne Jones
+
+### 2018
+
+1. [Little Bets](https://www.amazon.com/dp/B0043RSJTU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by Peter Sims
 
 
 ### 2017
