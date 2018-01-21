@@ -12,11 +12,13 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [Wolf Hall](https://www.amazon.com/Wolf-Hall-Novel-Hilary-Mantel-ebook/dp/B002UZ5K4Y/ref=sr_1_1?ie=UTF8&qid=1514154163&sr=8-1&keywords=wolf+hall), by Hilary Mantel
-* [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Scribner-Classics-ebook/dp/B000FC0OOU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154205&sr=1-1&keywords=for+whom+the+bells+toll), by Ernest Hemingway
+* [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1516249189&sr=8-1&keywords=naked+statistics), by Charles Wheelan
+* [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_1?ie=UTF8&qid=1516519938&sr=8-1&keywords=the+handmaid%27s+tale), by Margaret Atwood
+
 
 ### 2018
 
+1. [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Scribner-Classics-ebook/dp/B000FC0OOU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154205&sr=1-1&keywords=for+whom+the+bells+toll), by Ernest Hemingway
 1. [Little Bets](https://www.amazon.com/dp/B0043RSJTU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by Peter Sims
 
 
