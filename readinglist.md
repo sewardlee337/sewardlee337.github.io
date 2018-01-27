@@ -13,13 +13,14 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1516249189&sr=8-1&keywords=naked+statistics), by Charles Wheelan
-* [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_1?ie=UTF8&qid=1516519938&sr=8-1&keywords=the+handmaid%27s+tale), by Margaret Atwood
+* [Astrophysics for People in a Hurry](https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson-ebook/dp/B01MAWT2MO/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1517030583&sr=1-1&keywords=astrophysics+for+people+in+a+hurry), by Neil deGrasse Tyson
 
 
 ### 2018
 
 1. [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Scribner-Classics-ebook/dp/B000FC0OOU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154205&sr=1-1&keywords=for+whom+the+bells+toll), by Ernest Hemingway
 1. [Little Bets](https://www.amazon.com/dp/B0043RSJTU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by Peter Sims
+1. [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_1?ie=UTF8&qid=1516519938&sr=8-1&keywords=the+handmaid%27s+tale), by Margaret Atwood
 
 
 ### 2017
@@ -52,7 +53,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1510815080&sr=8-2), by Cal Newport
 1. [Stories of Your Life and Others](https://www.amazon.com/Stories-Your-Life-Others-Chiang-ebook/dp/B0048EKOP0/ref=sr_1_1?ie=UTF8&qid=1500607396&sr=8-1&keywords=stories+of+your+life), by Ted Chiang
 1. [Surely You're Joking, Mr. Feynman!](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B003V1WXKU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163588&sr=1-1&keywords=surely+you%27re+joking+mr.+feynman), by Richard P. Feynman
-1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
 1. [The Age of Wonder](https://www.amazon.com/Age-Wonder-Romantic-Generation-Discovered-ebook/dp/B001NLL568/ref=mt_kindle?_encoding=UTF8&me=), by Richard Holmes
 1. [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads-ebook/dp/B01AEPSWB4/ref=sr_1_1?ie=UTF8&qid=1502057399&sr=8-1&keywords=tim+wu), by Tim Wu
 1. [The Big Short](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine-ebook/dp/B003LSTK8G/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=264087XKEHZVB040WGN5), by Michael Lewis
@@ -69,6 +69,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Ultimate Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy-ebook/dp/B0043M4ZH0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1500162033&sr=8-1), by Douglas Adams
 1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Signed-ebook/dp/B01GI6S7EK/ref=pd_sim_351_11?_encoding=UTF8&psc=1&refRID=8XGGGRTEBH16B0WPQE1S), by Michael Lewis
 1. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1500165022&sr=8-1&keywords=the+visual+display+of+quantitative+information), by Edward Tufte
+1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
 1. [Where Good Ideas Come From](https://www.amazon.com/Where-Good-Ideas-Steven-Johnson-ebook/dp/B003ZK58TA/ref=mt_kindle?_encoding=UTF8&me=), by Steven Johnson
 1. [Whose Freedom?](https://www.amazon.com/Whose-Freedom-Battle-Americas-Important-ebook/dp/B004S82T2C/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1500163670&sr=1-1-fkmr0&keywords=who%27s+freedom+lakoff), by George Lakoff
 1. [Writing on the Wall](https://www.amazon.com/Writing-Wall-Social-Media-First-ebook/dp/B00CIR9856/ref=sr_1_1?ie=UTF8&qid=1505454701&sr=8-1&keywords=writing+on+the+wall+social+media+-+the+first+2+000+years), by Tom Standage
