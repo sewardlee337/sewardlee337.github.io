@@ -13,7 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1516249189&sr=8-1&keywords=naked+statistics), by Charles Wheelan
-* [What Do You Care What Other People Think?](https://www.amazon.com/What-Care-Other-People-Think/dp/0393320928/ref=sr_1_1?ie=UTF8&qid=1517975753&sr=8-1&keywords=what+do+you+care+what+other+people+think), by Richard P. Feynman
+* [Seven Brief Lessons on Physics](https://www.amazon.com/Seven-Brief-Lessons-Physics-Rovelli-ebook/dp/B00Z8VTMYG/ref=mt_kindle?_encoding=UTF8&me=), by Carlo Rovelli
 * [西潮](http://www.books.com.tw/products/0010405794), 蔣夢麟 著 
 
 
@@ -25,6 +25,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Little Bets](https://www.amazon.com/dp/B0043RSJTU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by Peter Sims
 1. [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_1?ie=UTF8&qid=1516519938&sr=8-1&keywords=the+handmaid%27s+tale), by Margaret Atwood
 1. [The Lathe of Heaven](https://www.amazon.com/Lathe-Heaven-Ursula-K-Guin-ebook/dp/B00JTZ95I0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1517637951&sr=8-1), by Ursula K. Le Guin
+1. [What Do You Care What Other People Think?](https://www.amazon.com/What-Care-Other-People-Think/dp/0393320928/ref=sr_1_1?ie=UTF8&qid=1517975753&sr=8-1&keywords=what+do+you+care+what+other+people+think), by Richard P. Feynman
 
 
 ### 2017
