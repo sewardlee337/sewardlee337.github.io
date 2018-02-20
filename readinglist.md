@@ -26,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Seven Brief Lessons on Physics](https://www.amazon.com/Seven-Brief-Lessons-Physics-Rovelli-ebook/dp/B00Z8VTMYG/ref=mt_kindle?_encoding=UTF8&me=), by Carlo Rovelli
 1. [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_1?ie=UTF8&qid=1516519938&sr=8-1&keywords=the+handmaid%27s+tale), by Margaret Atwood
 1. [The Lathe of Heaven](https://www.amazon.com/Lathe-Heaven-Ursula-K-Guin-ebook/dp/B00JTZ95I0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1517637951&sr=8-1), by Ursula K. Le Guin
+1. [Thinking in Bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/ref=sr_1_1?ie=UTF8&qid=1518751679&sr=8-1&keywords=thinking+in+bets), by Annie Duke
 1. [What Do You Care What Other People Think?](https://www.amazon.com/What-Care-Other-People-Think-ebook/dp/B004OA6KIS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1517975753&sr=8-1), by Richard P. Feynman
 
 
