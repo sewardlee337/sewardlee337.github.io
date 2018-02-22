@@ -14,35 +14,37 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [Naked Statistics](https://www.amazon.com/Naked-Statistics-Stripping-Dread-Data-ebook/dp/B007Q6XLF2/ref=sr_1_1_twi_kin_2?ie=UTF8&qid=1516249189&sr=8-1&keywords=naked+statistics), by Charles Wheelan
 * [Life of Pi](https://www.amazon.com/Life-Pi-Yann-Martel-ebook/dp/B0070Y46UY/ref=sr_1_1_twi_kin_1?ie=UTF8&qid=1518588995&sr=8-1&keywords=life+of+pi), by Yann Martel
+* [Messy](https://www.amazon.com/Messy-Power-Disorder-Transform-Lives-ebook/dp/B01BD1SU2E/ref=sr_1_1?ie=UTF8&qid=1519191068&sr=8-1&keywords=messy), by Tim Harford
+* [明朝那些事兒 第壹部：洪武大帝](http://www.books.com.tw/products/CN11474233), 當年明月 著 
 * [西潮](http://www.books.com.tw/products/0010405794), 蔣夢麟 著 
 
 
 ### 2018
 
-1. [Astrophysics for People in a Hurry](https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson-ebook/dp/B01MAWT2MO/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1517030583&sr=1-1&keywords=astrophysics+for+people+in+a+hurry), by Neil deGrasse Tyson
-1. [Blueprint for Revolution](https://www.amazon.com/Blueprint-Revolution-Nonviolent-Techniques-GalvanizeCommunities-ebook/dp/B00LYXXZUO/ref=sr_1_1?ie=UTF8&qid=1517115075&sr=8-1&keywords=blueprint+for+revolution), by Srdja Popovic and Matthew Miller
-1. [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Scribner-Classics-ebook/dp/B000FC0OOU/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1514154205&sr=1-1&keywords=for+whom+the+bells+toll), by Ernest Hemingway
+1. [Astrophysics for People in a Hurry](https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson-ebook/dp/B01MAWT2MO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1519280315&sr=8-1), by Neil deGrasse Tyson
+1. [Blueprint for Revolution](https://www.amazon.com/Blueprint-Revolution-Nonviolent-Techniques-Communities-ebook/dp/B00LYXXZUO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1517115075&sr=8-1), by Srdja Popovic and Matthew Miller
+1. [For Whom the Bell Tolls](https://www.amazon.com/Whom-Bell-Tolls-Scribner-Classics-ebook/dp/B000FC0OOU/ref=mt_kindle?_encoding=UTF8&me=), by Ernest Hemingway
 1. [Little Bets](https://www.amazon.com/dp/B0043RSJTU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), by Peter Sims
 1. [Seven Brief Lessons on Physics](https://www.amazon.com/Seven-Brief-Lessons-Physics-Rovelli-ebook/dp/B00Z8VTMYG/ref=mt_kindle?_encoding=UTF8&me=), by Carlo Rovelli
-1. [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_1?ie=UTF8&qid=1516519938&sr=8-1&keywords=the+handmaid%27s+tale), by Margaret Atwood
+1. [The Handmaid's Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1516519938&sr=8-1), by Margaret Atwood
 1. [The Lathe of Heaven](https://www.amazon.com/Lathe-Heaven-Ursula-K-Guin-ebook/dp/B00JTZ95I0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1517637951&sr=8-1), by Ursula K. Le Guin
-1. [Thinking in Bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/ref=sr_1_1?ie=UTF8&qid=1518751679&sr=8-1&keywords=thinking+in+bets), by Annie Duke
+1. [Thinking in Bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions-ebook/dp/B074DG9LQF/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1518751679&sr=8-1), by Annie Duke
 1. [What Do You Care What Other People Think?](https://www.amazon.com/What-Care-Other-People-Think-ebook/dp/B004OA6KIS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1517975753&sr=8-1), by Richard P. Feynman
 
 
 ### 2017
 
 1. [A Guide to the Good Life](https://www.amazon.com/Guide-Good-Life-Ancient-Stoic-ebook/dp/B0040JHNQG/ref=pd_sim_351_6?_encoding=UTF8&psc=1&refRID=55TM0587AYHX8KJ0PFHH), by William B. Irvine
-1. [Barking Up the Wrong Tree](https://www.amazon.com/Barking-Wrong-Tree-Surprising-Everything-ebook/dp/B01KT104RI/ref=sr_1_1?ie=UTF8&qid=1511941724&sr=8-1&keywords=barking+up+the+wrong+tree), by Eric Barker
+1. [Barking Up the Wrong Tree](https://www.amazon.com/Barking-Wrong-Tree-Surprising-Everything-ebook/dp/B01KT104RI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1511941724&sr=8-1), by Eric Barker
 1. [Blockchain Basics](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps-ebook/dp/B06XNWF5GP/ref=mt_kindle?_encoding=UTF8&me=), by Daniel Drescher
-1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500162915&sr=1-1&keywords=brunelleschi%27s+dome), by Ross King
-1. [Daring Greatly](https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/ref=sr_1_1?ie=UTF8&qid=1507268420&sr=8-1&keywords=brene+brown+daring+greatly), by Brené Brown
-1. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1509159673&sr=1-1&keywords=deep+work), by Cal Newport
+1. [Brunelleschi's Dome](https://www.amazon.com/Brunelleschis-Dome-Renaissance-Reinvented-Architecture-ebook/dp/B00DUVKOUW/ref=mt_kindle?_encoding=UTF8&me=), by Ross King
+1. [Daring Greatly](https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms-ebook/dp/B007P7HRS4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1507268420&sr=8-1), by Brené Brown
+1. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted-ebook/dp/B00X47ZVXM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1509159673&sr=1-1), by Cal Newport
 1. [Digital Gold](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163114&sr=1-1&keywords=digital+gold), by Nathaniel Popper
-1. [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=sr_1_1?ie=UTF8&qid=1502054652&sr=8-1&keywords=flash+boys), by Michael Lewis
-1. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=sr_1_1?ie=UTF8&qid=1501446251&sr=8-1&keywords=foundation+asimov), by Isaac Asimov
-1. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=sr_1_1?ie=UTF8&qid=1500165120&sr=8-1&keywords=genghis+khan+and+the+making+of+the+modern+world), by Jack Weatherford
-1. [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500967102&sr=1-1&keywords=hackers+%26+painters), by Paul Graham
+1. [Flash Boys](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt-ebook/dp/B00HVJB4VM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1502054652&sr=8-1), by Michael Lewis
+1. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov-ebook/dp/B000FC1PWA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1501446251&sr=8-1), by Isaac Asimov
+1. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1500165120&sr=8-1), by Jack Weatherford
+1. [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer-ebook/dp/B0026OR2NQ/ref=mt_kindle?_encoding=UTF8&me=), by Paul Graham
 1. [How to Live](https://www.amazon.com/How-Live-Montaigne-Question-Attempts-ebook/dp/B003E8AK4Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163553&sr=1-1&keywords=how+to+live), by Sarah Bakewell
 1. [Jonathan Strange & Mr Norrell](https://www.amazon.com/Jonathan-Strange-Norrell-Susanna-Clarke-ebook/dp/B003RRXXMA/ref=sr_1_1?ie=UTF8&qid=1503251720&sr=8-1&keywords=jonathan+strange+mr+norrell), by Susanna Clarke
 1. [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson-ebook/dp/B071Y385Q1/ref=sr_1_1?ie=UTF8&qid=1508736808&sr=8-1&keywords=leonardo+da+vinci), by Walter Isaacson
@@ -76,10 +78,10 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Ultimate Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy-ebook/dp/B0043M4ZH0/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1500162033&sr=8-1), by Douglas Adams
 1. [The Undoing Project](https://www.amazon.com/Undoing-Project-Friendship-Changed-Signed-ebook/dp/B01GI6S7EK/ref=pd_sim_351_11?_encoding=UTF8&psc=1&refRID=8XGGGRTEBH16B0WPQE1S), by Michael Lewis
 1. [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1500165022&sr=8-1&keywords=the+visual+display+of+quantitative+information), by Edward Tufte
-1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1500163777&sr=1-1&keywords=tiny+beautiful+things), by Cheryl Strayed
+1. [Tiny Beautiful Things](https://www.amazon.com/Tiny-Beautiful-Things-Advice-Sugar-ebook/dp/B005V2DUP4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1500163777&sr=1-1), by Cheryl Strayed
 1. [Where Good Ideas Come From](https://www.amazon.com/Where-Good-Ideas-Steven-Johnson-ebook/dp/B003ZK58TA/ref=mt_kindle?_encoding=UTF8&me=), by Steven Johnson
-1. [Whose Freedom?](https://www.amazon.com/Whose-Freedom-Battle-Americas-Important-ebook/dp/B004S82T2C/ref=sr_1_fkmr0_1?s=digital-text&ie=UTF8&qid=1500163670&sr=1-1-fkmr0&keywords=who%27s+freedom+lakoff), by George Lakoff
-1. [Writing on the Wall](https://www.amazon.com/Writing-Wall-Social-Media-First-ebook/dp/B00CIR9856/ref=sr_1_1?ie=UTF8&qid=1505454701&sr=8-1&keywords=writing+on+the+wall+social+media+-+the+first+2+000+years), by Tom Standage
+1. [Whose Freedom?](https://www.amazon.com/Whose-Freedom-Battle-Americas-Important-ebook/dp/B004S82T2C/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1500163670&sr=1-1-fkmr0), by George Lakoff
+1. [Writing on the Wall](https://www.amazon.com/Writing-Wall-Social-Media-First-ebook/dp/B00CIR9856/ref=mt_kindle?_encoding=UTF8&me=), by Tom Standage
 1. [霸王之夢](http://www.books.com.tw/products/0010742260), 呂世浩 著
 1. [塞外奇俠傳](http://m.sanmin.com.tw/product/index/000944926), 梁羽生 著
 1. [三體](http://www.books.com.tw/products/0010498053?loc=P_asv_001), 劉慈欣 著
