@@ -12,7 +12,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [Messy](http://amzn.to/2sRnL4V), by Tim Harford
+* [Eichmann in Jerusalem](http://amzn.to/2EW8tBN), by Hannah Arendt
 * [明朝那些事兒 第壹部：洪武大帝](http://bit.ly/2ov7rkV), 當年明月 著 
 * [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著 
 
@@ -23,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Blueprint for Revolution](http://amzn.to/2F0QSb0), by Srdja Popovic and Matthew Miller
 1. [For Whom the Bell Tolls](http://amzn.to/2CjHAGc), by Ernest Hemingway
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
+1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
