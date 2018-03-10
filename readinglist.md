@@ -21,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [Astrophysics for People in a Hurry](http://amzn.to/2EQnzbI), by Neil deGrasse Tyson
 1. [Blueprint for Revolution](http://amzn.to/2F0QSb0), by Srdja Popovic and Matthew Miller
+1. [Drive](http://amzn.to/2oG9WSB), by Daniel H. Pink
 1. [For Whom the Bell Tolls](http://amzn.to/2CjHAGc), by Ernest Hemingway
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
