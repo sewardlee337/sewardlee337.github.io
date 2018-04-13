@@ -13,7 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [Eichmann in Jerusalem](http://amzn.to/2EW8tBN), by Hannah Arendt
-* [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著 
+* [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著
 
 
 ### 2018
@@ -26,11 +26,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
+1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
 1. [What Do You Care What Other People Think?](http://amzn.to/2oxSoXJ), by Richard P. Feynman
-1. [明朝那些事兒 第壹部：洪武大帝](http://bit.ly/2ov7rkV), 當年明月 著 
+1. [明朝那些事兒 第壹部：洪武大帝](http://bit.ly/2ov7rkV), 當年明月 著
 
 
 ### 2017
