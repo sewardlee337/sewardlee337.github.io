@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [Eichmann in Jerusalem](http://amzn.to/2EW8tBN), by Hannah Arendt
+* [When](https://amzn.to/2qtGBKZ), by Daniel H. Pink
 * [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著
 
 
@@ -22,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Blueprint for Revolution](http://amzn.to/2F0QSb0), by Srdja Popovic and Matthew Miller
 1. [Drive](http://amzn.to/2oG9WSB), by Daniel H. Pink
 1. [For Whom the Bell Tolls](http://amzn.to/2CjHAGc), by Ernest Hemingway
+1. [How to Fail at Almost Everything and Still Win Big](https://amzn.to/2GY79eJ), by Scott Adams
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
