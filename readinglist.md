@@ -14,6 +14,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [Eichmann in Jerusalem](http://amzn.to/2EW8tBN), by Hannah Arendt
 * [When](https://amzn.to/2qtGBKZ), by Daniel H. Pink
+* [Designing Your Life](https://amzn.to/2J7mVnW), by Bill Burnett and Dave Evans
 * [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著
 
 
