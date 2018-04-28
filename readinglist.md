@@ -13,7 +13,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [Eichmann in Jerusalem](http://amzn.to/2EW8tBN), by Hannah Arendt
-* [When](https://amzn.to/2qtGBKZ), by Daniel H. Pink
 * [Designing Your Life](https://amzn.to/2J7mVnW), by Bill Burnett and Dave Evans
 * [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著
 
@@ -34,6 +33,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
 1. [What Do You Care What Other People Think?](http://amzn.to/2oxSoXJ), by Richard P. Feynman
+1. [When](https://amzn.to/2qtGBKZ), by Daniel H. Pink
 1. [明朝那些事兒 第壹部：洪武大帝](http://bit.ly/2ov7rkV), 當年明月 著
 
 
