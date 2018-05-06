@@ -12,8 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [Eichmann in Jerusalem](http://amzn.to/2EW8tBN), by Hannah Arendt
-* [Designing Your Life](https://amzn.to/2J7mVnW), by Bill Burnett and Dave Evans
+* [The Ocean at the End of the Lane](https://amzn.to/2JHf7K0), by Neil Gaiman
+* [Watership Down](https://amzn.to/2Iha4mj), by Richard Adams
 * [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著
 
 
@@ -28,6 +28,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
+1. [Solaris](https://amzn.to/2HAFaWF), by Stanislaw Lem (Author) and Bill Johnston (Translator)
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
