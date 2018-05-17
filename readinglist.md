@@ -12,8 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [The Ocean at the End of the Lane](https://amzn.to/2JHf7K0), by Neil Gaiman
-* [Watership Down](https://amzn.to/2Iha4mj), by Richard Adams
+* [The Once and Future King](https://amzn.to/2rS3gBo), by T.H. White
+* [The Name of the Rose](https://amzn.to/2wAGCTP), by Umberto Eco
 * [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著
 
 
@@ -33,6 +33,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
+1. [Watership Down](https://amzn.to/2Iha4mj), by Richard Adams
 1. [What Do You Care What Other People Think?](http://amzn.to/2oxSoXJ), by Richard P. Feynman
 1. [When](https://amzn.to/2qtGBKZ), by Daniel H. Pink
 1. [明朝那些事兒 第壹部：洪武大帝](http://bit.ly/2ov7rkV), 當年明月 著
