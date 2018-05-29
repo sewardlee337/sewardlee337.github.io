@@ -11,7 +11,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 ### AI / Robotics
 
-[_MathWorks Mission on Mars Robot Challenge_](https://www.mathworks.com/academia/student-challenge/mission-on-mars.html) 
+[_MathWorks Mission on Mars Robot Challenge_](https://www.mathworks.com/academia/student-challenge/mission-on-mars.html)
 
   Robot pathfinding algorithm developed with 2 teammates for international competition, using MATLAB and Simulink. Allows Mars rover to autonomously navigate terrain by processing camera and wheel sensor data. Placed 2nd in United States and 35th of 550 teams globally (top 6%).
 
@@ -37,18 +37,10 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 &nbsp;
 
-### Predictive Modeling
-
-[_San Francisco Fire Risk Project_](http://datascience.codeforsanfrancisco.org/project/sf-fire-risk/)
-
-  Civic hacking project run by Code for San Francisco's Data Science Working Group. Utilizes predictive model to calculate fire risk scores for SF neighborhoods. 
-
-&nbsp;
-
 ### Other
 
 [_sewardlee.com_](http://www.sewardlee.com) - [(GitHub repo)](https://github.com/sewardlee337/sewardlee337.github.io)
-  
+
   Personal website. Built using Jekyll and hosted on GitHub Pages.
 
 &nbsp;
