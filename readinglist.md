@@ -14,7 +14,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [The Once and Future King](https://amzn.to/2rS3gBo), by T.H. White
 * [The Name of the Rose](https://amzn.to/2wAGCTP), by Umberto Eco (Author) and William Weaver (Translator)
-* [Eichmann in Jerusalem](https://amzn.to/2EW8tBN), by Hannah Arendt
+* [關於跑步，我說的其實是……](https://bit.ly/2IRmTFk), 村上春樹 著, 賴明珠 譯   
 
 
 ### 2018
@@ -22,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Astrophysics for People in a Hurry](http://amzn.to/2EQnzbI), by Neil deGrasse Tyson
 1. [Blueprint for Revolution](http://amzn.to/2F0QSb0), by Srdja Popovic and Matthew Miller
 1. [Drive](http://amzn.to/2oG9WSB), by Daniel H. Pink
+1. [Eichmann in Jerusalem](https://amzn.to/2EW8tBN), by Hannah Arendt
 1. [For Whom the Bell Tolls](http://amzn.to/2CjHAGc), by Ernest Hemingway
 1. [How to Fail at Almost Everything and Still Win Big](https://amzn.to/2GY79eJ), by Scott Adams
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
