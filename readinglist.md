@@ -14,7 +14,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 * [The Once and Future King](https://amzn.to/2rS3gBo), by T.H. White
 * [The Name of the Rose](https://amzn.to/2wAGCTP), by Umberto Eco (Author) and William Weaver (Translator)
-* [關於跑步，我說的其實是……](https://bit.ly/2IRmTFk), 村上春樹 著, 賴明珠 譯   
+* [關於跑步，我說的其實是……](https://bit.ly/2IRmTFk), 村上春樹 著, 賴明珠 譯  
 
 
 ### 2018
@@ -33,6 +33,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
+1. [The Time Traveler's Wife](https://amzn.to/2LVU4Fp), by Audrey Niffenegger
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
 1. [Watership Down](https://amzn.to/2Iha4mj), by Richard Adams
 1. [What Do You Care What Other People Think?](http://amzn.to/2oxSoXJ), by Richard P. Feynman
