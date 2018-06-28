@@ -15,6 +15,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [The Once and Future King](https://amzn.to/2rS3gBo), by T.H. White
 * [The Name of the Rose](https://amzn.to/2wAGCTP), by Umberto Eco (Author) and William Weaver (Translator)
 * [Crossing the Chasm](https://amzn.to/2MgOY75), by Geoffrey A. Moore
+* [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
 
 
 ### 2018
@@ -31,6 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
 1. [Solaris](https://amzn.to/2HAFaWF), by Stanislaw Lem (Author) and Bill Johnston (Translator)
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
+1. [The Fire Next Time](https://amzn.to/2Kinv3a), by James Baldwin
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
 1. [The Time Traveler's Wife](https://amzn.to/2LVU4Fp), by Audrey Niffenegger
