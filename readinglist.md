@@ -35,6 +35,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Fire Next Time](https://amzn.to/2Kinv3a), by James Baldwin
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
+1. [The Power of Habit](https://amzn.to/2KKbRSc), by Charles Duhigg
 1. [The Time Traveler's Wife](https://amzn.to/2LVU4Fp), by Audrey Niffenegger
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
 1. [Watership Down](https://amzn.to/2Iha4mj), by Richard Adams
