@@ -12,9 +12,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [The Once and Future King](https://amzn.to/2rS3gBo), by T.H. White
-* [The Name of the Rose](https://amzn.to/2wAGCTP), by Umberto Eco (Author) and William Weaver (Translator)
-* [Crossing the Chasm](https://amzn.to/2MgOY75), by Geoffrey A. Moore
+* [The History of the Decline and Fall of the Roman Empire](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 * [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
 
 
@@ -29,6 +27,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
+1. [Relentless](https://amzn.to/2LQskSf), by Tim S. Grover
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
 1. [Solaris](https://amzn.to/2HAFaWF), by Stanislaw Lem (Author) and Bill Johnston (Translator)
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
