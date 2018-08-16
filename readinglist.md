@@ -12,8 +12,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-* [The History of the Decline and Fall of the Roman Empire](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
+* [The History of the Decline and Fall of the Roman Empire (Abridged)](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 * [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
+* [Factfulness](https://amzn.to/2MbTEdZ), by Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling
 
 
 ### 2018
@@ -24,6 +25,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Eichmann in Jerusalem](https://amzn.to/2EW8tBN), by Hannah Arendt
 1. [For Whom the Bell Tolls](http://amzn.to/2CjHAGc), by Ernest Hemingway
 1. [How to Fail at Almost Everything and Still Win Big](https://amzn.to/2GY79eJ), by Scott Adams
+1. [Lays of Ancient Rome](https://amzn.to/2M9yuRq), by Thomas Babington Macaulay
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
