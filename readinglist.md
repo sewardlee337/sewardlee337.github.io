@@ -19,6 +19,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### 2018
 
+1. [An Illustrated Book of Bad Arguments](https://amzn.to/2weITjZ), by Ali Almossawi (Author) and Alejandro Giraldo (Illustrator)
 1. [Astrophysics for People in a Hurry](http://amzn.to/2EQnzbI), by Neil deGrasse Tyson
 1. [Blueprint for Revolution](http://amzn.to/2F0QSb0), by Srdja Popovic and Matthew Miller
 1. [Drive](http://amzn.to/2oG9WSB), by Daniel H. Pink
@@ -36,6 +37,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Fire Next Time](https://amzn.to/2Kinv3a), by James Baldwin
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
+1. [The Luck Factor](https://amzn.to/2nQB2FT), by Richard Wiseman
 1. [The Power of Habit](https://amzn.to/2KKbRSc), by Charles Duhigg
 1. [The Time Traveler's Wife](https://amzn.to/2LVU4Fp), by Audrey Niffenegger
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
