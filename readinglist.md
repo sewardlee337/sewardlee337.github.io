@@ -27,6 +27,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [For Whom the Bell Tolls](http://amzn.to/2CjHAGc), by Ernest Hemingway
 1. [How to Fail at Almost Everything and Still Win Big](https://amzn.to/2GY79eJ), by Scott Adams
 1. [Lays of Ancient Rome](https://amzn.to/2M9yuRq), by Thomas Babington Macaulay
+1. [Longitude](https://amzn.to/2Bzalit), by Dava Sobel
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
