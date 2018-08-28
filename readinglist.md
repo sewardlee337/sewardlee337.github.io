@@ -21,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [An Illustrated Book of Bad Arguments](https://amzn.to/2weITjZ), by Ali Almossawi (Author) and Alejandro Giraldo (Illustrator)
 1. [Astrophysics for People in a Hurry](http://amzn.to/2EQnzbI), by Neil deGrasse Tyson
+1. [Bad Blood](https://amzn.to/2o8SYeM), John Carreyrou
 1. [Blueprint for Revolution](http://amzn.to/2F0QSb0), by Srdja Popovic and Matthew Miller
 1. [Drive](http://amzn.to/2oG9WSB), by Daniel H. Pink
 1. [Eichmann in Jerusalem](https://amzn.to/2EW8tBN), by Hannah Arendt
