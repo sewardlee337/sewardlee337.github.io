@@ -5,7 +5,7 @@ permalink: /projects/
 tags: projects
 ---
 
-I love tinkering with new ideas and technologies. Listed below are some projects that I have developed or contributed to. Source code for personal, open source software projects are available on GitHub.
+I love tinkering with new ideas and technologies. Listed below are some projects that I have developed or contributed to. Source code for personal and/or open source software projects are available on GitHub.
 
 &nbsp;
 
