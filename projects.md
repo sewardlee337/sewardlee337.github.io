@@ -23,9 +23,9 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
   Data dashboard developed for research project at National Chengchi University in Taipei. Allows policymakers to surface insights relating to regional economic productivity. Built using R and Shiny web framework.
 
-[_Tropical Ecology Assessment and Monitoring (TEAM) Analytics_](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive)
+[_Tropical Ecology Assessment and Monitoring (TEAM) Analytics_](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive) - [(GitHub repo)](https://github.com/ConservationInternational/ShinyCam)
 
-  Data dashboard developed by volunteer data scientists at DataKind event, as part of collaboration with Conservation International. Allows land managers to monitor species diversity in wildlife conservation areas. Built with R, Shiny, and Leaflet.
+  Data dashboard developed by volunteer data scientists at DataKind event, as part of collaboration with Conservation International. Allows land managers to monitor species diversity in wildlife conservation areas, using camera trap data. Built with R, Shiny, and Leaflet.
 
 &nbsp;
 
@@ -33,7 +33,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_finreportr_](https://cran.r-project.org/package=finreportr) - [(GitHub repo)](https://github.com/sewardlee337/finreportr)
 
-  R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. Hosted on CRAN and listed under Empirical Finance Task View.
+  R package that returns financial data from the U.S. Securities and Exchange Commission in tidy data frames. Hosted on CRAN and listed under Empirical Finance Task View. Published in _The Journal of Open Source Software_.
 
 &nbsp;
 
