@@ -25,7 +25,7 @@ I love tinkering with new ideas and technologies. Listed below are some projects
 
 [_Tropical Ecology Assessment and Monitoring (TEAM) Analytics_](http://www.datakind.org/blog/datakind-san-franciscos-third-datadive) - [(GitHub repo)](https://github.com/ConservationInternational/ShinyCam)
 
-  Data dashboard developed by volunteer data scientists at DataKind event, as part of collaboration with Conservation International. Allows land managers to monitor species diversity in wildlife conservation areas, using camera trap data. Built with R, Shiny, and Leaflet.
+  Dashboard developed by volunteer data scientists at DataKind event, as part of collaboration with Conservation International. Allows land managers to monitor wildlife species diversity using camera trap data. Built with R, Shiny, and Leaflet.
 
 &nbsp;
 
