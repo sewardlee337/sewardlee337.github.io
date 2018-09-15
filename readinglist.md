@@ -44,6 +44,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Power of Habit](https://amzn.to/2KKbRSc), by Charles Duhigg
 1. [The Time Traveler's Wife](https://amzn.to/2LVU4Fp), by Audrey Niffenegger
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
+1. [Visual Intelligence](https://amzn.to/2Nsyyfb), Amy E. Herman
 1. [Watership Down](https://amzn.to/2Iha4mj), by Richard Adams
 1. [What Do You Care What Other People Think?](http://amzn.to/2oxSoXJ), by Richard P. Feynman
 1. [When](https://amzn.to/2qtGBKZ), by Daniel H. Pink
