@@ -37,6 +37,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
 1. [Solaris](https://amzn.to/2HAFaWF), by Stanislaw Lem (Author) and Bill Johnston (Translator)
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
+1. [The Charisma Myth](https://amzn.to/2Ndvx39), by Olivia Fox Cabane
 1. [The Fire Next Time](https://amzn.to/2Kinv3a), by James Baldwin
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
