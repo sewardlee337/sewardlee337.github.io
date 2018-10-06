@@ -31,7 +31,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Lays of Ancient Rome](https://amzn.to/2M9yuRq), by Thomas Babington Macaulay
 1. [Longitude](https://amzn.to/2Bzalit), by Dava Sobel
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
+1. [Make Your Bed](https://amzn.to/2xOkhR1), by William H. McRaven
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
+1. [Patriot Games](https://amzn.to/2P1XFmD), by Tom Clancy
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
 1. [Relentless](https://amzn.to/2LQskSf), by Tim S. Grover
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
