@@ -15,6 +15,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [The History of the Decline and Fall of the Roman Empire (Abridged)](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 * [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
 * [Factfulness](https://amzn.to/2MbTEdZ), by Hans Rosling, Anna Rosling Rönnlund, and Ola Rosling
+* [權謀至尊司馬懿](https://bit.ly/2QypP92), 秦濤 著
 
 
 ### 2018
@@ -40,6 +41,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Solaris](https://amzn.to/2HAFaWF), by Stanislaw Lem (Author) and Bill Johnston (Translator)
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
 1. [The Charisma Myth](https://amzn.to/2Ndvx39), by Olivia Fox Cabane
+1. [The Fifth Risk](https://amzn.to/2Rr6Y13), by Michael Lewis
 1. [The Fire Next Time](https://amzn.to/2Kinv3a), by James Baldwin
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
