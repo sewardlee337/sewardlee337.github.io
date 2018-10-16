@@ -39,6 +39,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Relentless](https://amzn.to/2LQskSf), by Tim S. Grover
 1. [Seven Brief Lessons on Physics](http://amzn.to/2HIJakn), by Carlo Rovelli
 1. [Solaris](https://amzn.to/2HAFaWF), by Stanislaw Lem (Author) and Bill Johnston (Translator)
+1. [Spies of the Balkans](https://amzn.to/2Py5Eb4), by Alan Furst
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
 1. [The Charisma Myth](https://amzn.to/2Ndvx39), by Olivia Fox Cabane
 1. [The Fifth Risk](https://amzn.to/2Rr6Y13), by Michael Lewis
