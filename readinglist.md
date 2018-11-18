@@ -15,6 +15,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
 * [The History of the Decline and Fall of the Roman Empire (Abridged)](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 * [Numsense!](https://amzn.to/2RvAkKV), by Annalyn Ng and Kenneth Soo
+* [馬上活用曾國藩](https://bit.ly/2OBNJiI), 東野君 著
 * [權謀至尊司馬懿](https://bit.ly/2QypP92), 秦濤 著
 
 
@@ -33,6 +34,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Lays of Ancient Rome](https://amzn.to/2M9yuRq), by Thomas Babington Macaulay
 1. [Longitude](https://amzn.to/2Bzalit), by Dava Sobel
 1. [Little Bets](http://amzn.to/2BObOzX), by Peter Sims
+1. [Made to Stick](https://amzn.to/2Qxw90W), by Chip Heath and Dan Heath
 1. [Make Your Bed](https://amzn.to/2xOkhR1), by William H. McRaven
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
 1. [Patriot Games](https://amzn.to/2P1XFmD), by Tom Clancy
