@@ -15,7 +15,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
 * [The History of the Decline and Fall of the Roman Empire (Abridged)](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 * [Numsense!](https://amzn.to/2RvAkKV), by Annalyn Ng and Kenneth Soo
-* [The Power of Moments](https://amzn.to/2BZufRP), by Chip and Dan Heath
 * [馬上活用曾國藩](https://bit.ly/2OBNJiI), 東野君 著
 * [權謀至尊司馬懿](https://bit.ly/2QypP92), 秦濤 著
 
@@ -55,6 +54,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Like Switch](https://amzn.to/2PLSue1), by Jack Schafer and Marvin Karlins
 1. [The Luck Factor](https://amzn.to/2nQB2FT), by Richard Wiseman
 1. [The Power of Habit](https://amzn.to/2KKbRSc), by Charles Duhigg
+1. [The Power of Moments](https://amzn.to/2BZufRP), by Chip Heath and Dan Heath
 1. [The Time Traveler's Wife](https://amzn.to/2LVU4Fp), by Audrey Niffenegger
 1. [Thinking in Bets](http://amzn.to/2CHI70a), by Annie Duke
 1. [Visual Intelligence](https://amzn.to/2Nsyyfb), Amy E. Herman
