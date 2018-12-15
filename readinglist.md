@@ -16,7 +16,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 * [The History of the Decline and Fall of the Roman Empire (Abridged)](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 * [Numsense!](https://amzn.to/2RvAkKV), by Annalyn Ng and Kenneth Soo
 * [馬上活用曾國藩](https://bit.ly/2OBNJiI), 東野君 著
-* [權謀至尊司馬懿](https://bit.ly/2QypP92), 秦濤 著
 
 
 ### 2018
@@ -47,6 +46,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Spies of the Balkans](https://amzn.to/2Py5Eb4), by Alan Furst
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
 1. [The Charisma Myth](https://amzn.to/2Ndvx39), by Olivia Fox Cabane
+1. [The Course of Love](https://amzn.to/2zTD3aF), by Alain de Botton
 1. [The Fifth Risk](https://amzn.to/2Rr6Y13), by Michael Lewis
 1. [The Fire Next Time](https://amzn.to/2Kinv3a), by James Baldwin
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
@@ -64,6 +64,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [成大事者不糾結](https://bit.ly/2BnnFVa), 羅振宇 著
 1. [關於跑步，我說的其實是……](https://bit.ly/2IRmTFk), 村上春樹 著, 賴明珠 譯  
 1. [明朝那些事兒 第壹部：洪武大帝](http://bit.ly/2ov7rkV), 當年明月 著
+1. [權謀至尊司馬懿](https://bit.ly/2QypP92), 秦濤 著
 1. [西潮](http://bit.ly/2BLELg1), 蔣夢麟 著
 
 
