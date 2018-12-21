@@ -13,7 +13,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 * [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
-* [The History of the Decline and Fall of the Roman Empire (Abridged)](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 * [Numsense!](https://amzn.to/2RvAkKV), by Annalyn Ng and Kenneth Soo
 * [馬上活用曾國藩](https://bit.ly/2OBNJiI), 東野君 著
 
@@ -45,11 +44,13 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Solaris](https://amzn.to/2HAFaWF), by Stanislaw Lem (Author) and Bill Johnston (Translator)
 1. [Spies of the Balkans](https://amzn.to/2Py5Eb4), by Alan Furst
 1. [The 7 Habits of Highly Effective People](https://amzn.to/2G2BD2y), by Stephen R. Covey
+1. [The Art of Learning](https://amzn.to/2rBGv4W), by Josh Waitzkin
 1. [The Charisma Myth](https://amzn.to/2Ndvx39), by Olivia Fox Cabane
 1. [The Course of Love](https://amzn.to/2zTD3aF), by Alain de Botton
 1. [The Fifth Risk](https://amzn.to/2Rr6Y13), by Michael Lewis
 1. [The Fire Next Time](https://amzn.to/2Kinv3a), by James Baldwin
 1. [The Handmaid's Tale](http://amzn.to/2EN9njX), by Margaret Atwood
+1. [The History of the Decline and Fall of the Roman Empire (Abridged)](https://amzn.to/2uRs4fd), by Edward Gibbon (Author) and David Womersley (Editor)
 1. [The Lathe of Heaven](http://amzn.to/2CHHKmi), by Ursula K. Le Guin
 1. [The Like Switch](https://amzn.to/2PLSue1), by Jack Schafer and Marvin Karlins
 1. [The Luck Factor](https://amzn.to/2nQB2FT), by Richard Wiseman
