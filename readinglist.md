@@ -11,10 +11,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 
 ### Currently reading
-
-* [The Open Society and Its Enemies](https://amzn.to/2Mbzdxg), by Karl Popper
-* [Numsense!](https://amzn.to/2RvAkKV), by Annalyn Ng and Kenneth Soo
-* [馬上活用曾國藩](https://bit.ly/2OBNJiI), 東野君 著
+1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
+1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
 
 
 ### 2018
@@ -37,6 +35,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Make Your Bed](https://amzn.to/2xOkhR1), by William H. McRaven
 1. [Mastering Fear](https://amzn.to/2zQtjxH), by Brandon Webb and John David Mann
 1. [Messy](http://amzn.to/2sRnL4V), by Tim Harford
+1. [On Love](https://amzn.to/2rPSAE3), by Alain de Botton
 1. [Patriot Games](https://amzn.to/2P1XFmD), by Tom Clancy
 1. [Purple Cow](http://amzn.to/2FJagao), by Seth Godin
 1. [Relentless](https://amzn.to/2LQskSf), by Tim S. Grover
