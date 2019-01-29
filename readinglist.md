@@ -12,13 +12,18 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
+1. [The Upside of Stress](https://amzn.to/2MkJmsO), by Kelly McGonigal
+1. [老子．莊子．孫子](https://bit.ly/2Dm4hsD), 陳文德 著
 1. [歷史上的不倒翁](https://bit.ly/2W0wjkH), 秦濤 著
 
 
 ### 2019
 
+1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
+1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
+1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
+
 
 ### 2018
 
