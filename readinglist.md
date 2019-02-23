@@ -13,16 +13,19 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Shōgun](https://amzn.to/2sWkv5y), by James Clavell
-1. [The Upside of Stress](https://amzn.to/2MkJmsO), by Kelly McGonigal
+1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
+1. [Why Don't We Learn from History?](https://amzn.to/2BJkCGm), by B.H. Liddell Hart
 
 
 ### 2019
 
+1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [On Confidence](https://amzn.to/2D08osI), by The School of Life
 1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
 1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
 1. [The Captain Class](https://amzn.to/2MLlP4g), by Sam Walker
+1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks and Paul Johnson
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
 1. [歷史上的不倒翁](https://bit.ly/2W0wjkH), 秦濤 著
