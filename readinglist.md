@@ -12,9 +12,10 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
+1. [Psychology of Intelligence Analysis](https://amzn.to/2TfQ60S), by Richards J. Heuer
 1. [Shōgun](https://amzn.to/2sWkv5y), by James Clavell
 1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
-1. [Why Don't We Learn from History?](https://amzn.to/2BJkCGm), by B.H. Liddell Hart
+1. [最美的國文課【宋詞】](https://bit.ly/2JatWWf), 夏昆 著
 
 
 ### 2019
@@ -25,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
 1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
 1. [The Captain Class](https://amzn.to/2MLlP4g), by Sam Walker
+1. [The Coaching Habit](https://amzn.to/2tC9erz), by Michael Bungay Stanier
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks and Paul Johnson
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
