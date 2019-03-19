@@ -26,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [On Confidence](https://amzn.to/2D08osI), by The School of Life
 1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
+1. [Shackleton's Way](https://amzn.to/2TcA83I), by Margot Morrell and Stephanie Capparell
 1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
 1. [Stronger](https://amzn.to/2TtRIVN), by George Everly Jr., Douglas Strouse, and Dennis McCormack
 1. [The Captain Class](https://amzn.to/2MLlP4g), by Sam Walker
