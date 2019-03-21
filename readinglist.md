@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
 1. [How Proust Can Change Your Life](https://amzn.to/2NDdG2l), by Alain de Botton
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
+1. [It's Not All About "Me"](https://amzn.to/2XT1BdY), by Robin K. Dreeke
 1. [On Confidence](https://amzn.to/2D08osI), by The School of Life
 1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
 1. [Shackleton's Way](https://amzn.to/2TcA83I), by Margot Morrell and Stephanie Capparell
