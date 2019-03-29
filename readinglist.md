@@ -12,8 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Hyperfocus](https://amzn.to/2UbvWlZ), by Chris Bailey
 1. [Life in Half a Second](https://amzn.to/2EABu2Q), by Matthew Michalewicz
+1. [Pygmalion in Management](https://amzn.to/2TRIgux), by J. Sterling Livingston
 1. [Shōgun](https://amzn.to/2sWkv5y), by James Clavell
 1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
 
@@ -23,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
 1. [How Proust Can Change Your Life](https://amzn.to/2NDdG2l), by Alain de Botton
+1. [Hyperfocus](https://amzn.to/2UbvWlZ), by Chris Bailey
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [It's Not All About "Me"](https://amzn.to/2XT1BdY), by Robin K. Dreeke
 1. [On Confidence](https://amzn.to/2D08osI), by The School of Life
