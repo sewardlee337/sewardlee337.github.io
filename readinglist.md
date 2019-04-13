@@ -12,9 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
 1. [Shōgun](https://amzn.to/2sWkv5y), by James Clavell
-1. [The Generals](https://amzn.to/2UfDesQ), by Winston Groom
+1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
 
 
 ### 2019
@@ -35,6 +34,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Captain Class](https://amzn.to/2MLlP4g), by Sam Walker
 1. [The Coaching Habit](https://amzn.to/2tC9erz), by Michael Bungay Stanier
 1. [The Consolations of Philosophy](https://amzn.to/2Wy8EYc), by Alain de Botton
+1. [The Three Musketeers](https://amzn.to/2WPduAw), by Alexandre Dumas (Author) and Jacques Le Clercq (Translator)
 1. [The Mathematics of Love](https://amzn.to/2EIUoEH), by Hannah Fry
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks and Paul Johnson
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
