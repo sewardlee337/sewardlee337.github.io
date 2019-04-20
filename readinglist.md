@@ -13,8 +13,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
-1. [My Share of the Task](https://amzn.to/2V5ebsp), by Stanley McChrystal
-1. [Shōgun](https://amzn.to/2sWkv5y), by James Clavell
 
 
 ### 2019
@@ -38,6 +36,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Culture Code](https://amzn.to/2GaFTu8), by Daniel Coyle
 1. [The Mathematics of Love](https://amzn.to/2EIUoEH), by Hannah Fry
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks
+1. [The Talent Code](https://amzn.to/2ItbNFC), by Daniel Coyle
 1. [The Three Musketeers](https://amzn.to/2WPduAw), by Alexandre Dumas (Author) and Jacques Le Clercq (Translator)
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
