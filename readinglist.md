@@ -38,6 +38,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks
 1. [The Talent Code](https://amzn.to/2ItbNFC), by Daniel Coyle
 1. [The Three Musketeers](https://amzn.to/2WPduAw), by Alexandre Dumas (Author) and Jacques Le Clercq (Translator)
+1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
 1. [歷史上的不倒翁](https://bit.ly/2W0wjkH), 秦濤 著
