@@ -17,6 +17,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### 2019
 
+1. [Battle Leadership](https://amzn.to/2Ix8nSl), by Adolf von Schell
 1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
 1. [How Proust Can Change Your Life](https://amzn.to/2NDdG2l), by Alain de Botton
