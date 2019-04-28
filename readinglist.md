@@ -12,7 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
+1. [Information: A Very Short Introduction](https://amzn.to/2L5aoax), by Luciano Floridi
+1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
 
 
 ### 2019
@@ -20,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Battle Leadership](https://amzn.to/2Ix8nSl), by Adolf von Schell
 1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
+1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
 1. [How Proust Can Change Your Life](https://amzn.to/2NDdG2l), by Alain de Botton
 1. [How to Fight a Hydra](https://amzn.to/2FNFFKs), by Josh Kaufman
 1. [Hyperfocus](https://amzn.to/2UbvWlZ), by Chris Bailey
