@@ -15,6 +15,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Collection of Essays](https://amzn.to/2WbSfsN), by George Orwell
 1. [Information: A Very Short Introduction](https://amzn.to/2L5aoax), by Luciano Floridi
 1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
+1. [Power Theft](https://amzn.to/2H1COx3), by G. Sreenivasan
 1. [老子．莊子．孫子](https://bit.ly/2Dm4hsD), 陳文德 著
 
 
@@ -39,6 +40,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Coaching Habit](https://amzn.to/2tC9erz), by Michael Bungay Stanier
 1. [The Consolations of Philosophy](https://amzn.to/2Wy8EYc), by Alain de Botton
 1. [The Culture Code](https://amzn.to/2GaFTu8), by Daniel Coyle
+1. [The Little Book of Talent](https://amzn.to/2WnNLiB), by Daniel Coyle
 1. [The Mathematics of Love](https://amzn.to/2EIUoEH), by Hannah Fry
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks
 1. [The Productivity Project](https://amzn.to/2XLKOZA), by Chris Bailey
