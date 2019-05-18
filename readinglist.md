@@ -12,15 +12,14 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [A Collection of Essays](https://amzn.to/2WbSfsN), by George Orwell
 1. [Information: A Very Short Introduction](https://amzn.to/2L5aoax), by Luciano Floridi
 1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
 1. [Power Theft](https://amzn.to/2H1COx3), by G. Sreenivasan
-1. [老子．莊子．孫子](https://bit.ly/2Dm4hsD), 陳文德 著
 
 
 ### 2019
 
+1. [A Collection of Essays](https://amzn.to/2WbSfsN), by George Orwell
 1. [Battle Leadership](https://amzn.to/2Ix8nSl), by Adolf von Schell
 1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
@@ -49,6 +48,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
+1. [老子．莊子．孫子](https://bit.ly/2Dm4hsD), 陳文德 著
 1. [歷史上的不倒翁](https://bit.ly/2W0wjkH), 秦濤 著
 
 
