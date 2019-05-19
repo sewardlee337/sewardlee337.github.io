@@ -15,6 +15,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Information: A Very Short Introduction](https://amzn.to/2L5aoax), by Luciano Floridi
 1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
 1. [Power Theft](https://amzn.to/2H1COx3), by G. Sreenivasan
+1. [The Joy of x](https://amzn.to/2HpxEw0), by Steven Strogatz
+1. [天下第一詭術](https://bit.ly/2weWjNH), 夜問 著
 
 
 ### 2019
@@ -26,6 +28,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
 1. [How Proust Can Change Your Life](https://amzn.to/2NDdG2l), by Alain de Botton
 1. [How to Fight a Hydra](https://amzn.to/2FNFFKs), by Josh Kaufman
+1. [How to Find Love](https://amzn.to/30wfsZo), by The School of Life
 1. [Hyperfocus](https://amzn.to/2UbvWlZ), by Chris Bailey
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [It's Not All About "Me"](https://amzn.to/2XT1BdY), by Robin K. Dreeke
