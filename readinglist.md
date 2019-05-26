@@ -12,11 +12,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Information: A Very Short Introduction](https://amzn.to/2L5aoax), by Luciano Floridi
 1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
 1. [Power Theft](https://amzn.to/2H1COx3), by G. Sreenivasan
 1. [The Joy of x](https://amzn.to/2HpxEw0), by Steven Strogatz
-1. [天下第一詭術](https://bit.ly/2weWjNH), 夜問 著
 
 
 ### 2019
@@ -48,6 +46,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Productivity Project](https://amzn.to/2XLKOZA), by Chris Bailey
 1. [The Talent Code](https://amzn.to/2ItbNFC), by Daniel Coyle
 1. [The Three Musketeers](https://amzn.to/2WPduAw), by Alexandre Dumas (Author) and Jacques Le Clercq (Translator)
+1. [The Tiger](https://amzn.to/2JYGkv0), by John Vaillant
 1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
