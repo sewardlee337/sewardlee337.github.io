@@ -14,6 +14,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
 1. [Power Theft](https://amzn.to/2H1COx3), by G. Sreenivasan
+1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
 1. [The Joy of x](https://amzn.to/2HpxEw0), by Steven Strogatz
 
 
@@ -30,6 +31,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Hyperfocus](https://amzn.to/2UbvWlZ), by Chris Bailey
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [It's Not All About "Me"](https://amzn.to/2XT1BdY), by Robin K. Dreeke
+1. [On Being Nice](https://amzn.to/2X7IU5N), by The School of Life
 1. [On Confidence](https://amzn.to/2D08osI), by The School of Life
 1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
 1. [Pygmalion in Management](https://amzn.to/2TRIgux), by J. Sterling Livingston
