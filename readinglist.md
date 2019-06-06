@@ -14,7 +14,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
 1. [Power Theft](https://amzn.to/2H1COx3), by G. Sreenivasan
-1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
 1. [The Joy of x](https://amzn.to/2HpxEw0), by Steven Strogatz
 
 
@@ -38,10 +37,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Shackleton's Way](https://amzn.to/2TcA83I), by Margot Morrell and Stephanie Capparell
 1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
 1. [Stronger](https://amzn.to/2TtRIVN), by George Everly Jr., Douglas Strouse, and Dennis McCormack
+1. [The Big Sleep](https://amzn.to/2XgvdRZ), by Raymond Chandler
 1. [The Captain Class](https://amzn.to/2MLlP4g), by Sam Walker
 1. [The Coaching Habit](https://amzn.to/2tC9erz), by Michael Bungay Stanier
 1. [The Consolations of Philosophy](https://amzn.to/2Wy8EYc), by Alain de Botton
 1. [The Culture Code](https://amzn.to/2GaFTu8), by Daniel Coyle
+1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
 1. [The Little Book of Talent](https://amzn.to/2WnNLiB), by Daniel Coyle
 1. [The Mathematics of Love](https://amzn.to/2EIUoEH), by Hannah Fry
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks
