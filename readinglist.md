@@ -52,6 +52,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Tiger](https://amzn.to/2JYGkv0), by John Vaillant
 1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
+1. [Xenophon's Cyrus the Great](https://amzn.to/2WnbrmF), by Xenophon (Author) and Larry Hedrick (Editor)
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
 1. [老子．莊子．孫子](https://bit.ly/2Dm4hsD), 陳文德 著
 1. [歷史上的不倒翁](https://bit.ly/2W0wjkH), 秦濤 著
