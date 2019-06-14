@@ -12,8 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Left of Bang](https://amzn.to/2DwPivq), by Patrick Van Horne and Jason Riley
-1. [Power Theft](https://amzn.to/2H1COx3), by G. Sreenivasan
+1. [Intuition Pumps](https://amzn.to/2I7s9mc), by Daniel C. Dennett
+1. [Range](https://amzn.to/2Zmgk1a), by David J. Epstein
 1. [The Joy of x](https://amzn.to/2HpxEw0), by Steven Strogatz
 
 
@@ -45,6 +45,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
 1. [The Little Book of Talent](https://amzn.to/2WnNLiB), by Daniel Coyle
 1. [The Mathematics of Love](https://amzn.to/2EIUoEH), by Hannah Fry
+1. [The Mind of War](https://amzn.to/31o6dL8), by Grant Hammond
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks
 1. [The Productivity Project](https://amzn.to/2XLKOZA), by Chris Bailey
 1. [The Talent Code](https://amzn.to/2ItbNFC), by Daniel Coyle
