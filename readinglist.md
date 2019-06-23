@@ -12,7 +12,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Intuition Pumps](https://amzn.to/2I7s9mc), by Daniel C. Dennett
+1. [Intuition Pumps and Other Tools for Thinking](https://amzn.to/2I7s9mc), by Daniel C. Dennett
 1. [Range](https://amzn.to/2Zmgk1a), by David J. Epstein
 1. [The Joy of x](https://amzn.to/2HpxEw0), by Steven Strogatz
 
@@ -48,6 +48,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Mind of War](https://amzn.to/31o6dL8), by Grant Hammond
 1. [The Most Important Thing Illuminated](https://amzn.to/2Gi6RCu), by Howard Marks
 1. [The Productivity Project](https://amzn.to/2XLKOZA), by Chris Bailey
+1. [The Spies of Warsaw](https://amzn.to/2x5nbA2), by Alan Furst
 1. [The Talent Code](https://amzn.to/2ItbNFC), by Daniel Coyle
 1. [The Three Musketeers](https://amzn.to/2WPduAw), by Alexandre Dumas (Author) and Jacques Le Clercq (Translator)
 1. [The Tiger](https://amzn.to/2JYGkv0), by John Vaillant
