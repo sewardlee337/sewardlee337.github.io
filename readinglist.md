@@ -12,10 +12,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Intuition Pumps and Other Tools for Thinking](https://amzn.to/2I7s9mc), by Daniel C. Dennett
-1. [Range](https://amzn.to/2Zmgk1a), by David J. Epstein
-1. [The Joy of x](https://amzn.to/2HpxEw0), by Steven Strogatz
-
+1. [A Hero of France](https://amzn.to/2xa8DPo), by Alan Furst
+1. [Collected Maxims and Other Reflections](https://amzn.to/2WXzJc1), by François de La Rochefoucauld (Author), E.H. Blackmore, et al. (Translators)
+1. [Psychology of Intelligence Analysis](https://amzn.to/2TfQ60S), by Richards J. Heuer
 
 ### 2019
 
@@ -54,6 +53,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Tiger](https://amzn.to/2JYGkv0), by John Vaillant
 1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
+1. [When Strangers Meet](https://amzn.to/3201jUW), by Kio Stark
 1. [Xenophon's Cyrus the Great](https://amzn.to/2WnbrmF), by Xenophon (Author) and Larry Hedrick (Editor)
 1. [道濟天下諸葛亮](https://bit.ly/2QPChkr), 秦濤 著
 1. [老子．莊子．孫子](https://bit.ly/2Dm4hsD), 陳文德 著
