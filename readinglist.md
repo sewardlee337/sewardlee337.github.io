@@ -51,6 +51,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Talent Code](https://amzn.to/2ItbNFC), by Daniel Coyle
 1. [The Three Musketeers](https://amzn.to/2WPduAw), by Alexandre Dumas (Author) and Jacques Le Clercq (Translator)
 1. [The Tiger](https://amzn.to/2JYGkv0), by John Vaillant
+1. [The War of Art](https://amzn.to/2XX5xO4), by Steven Pressfield
 1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [When Strangers Meet](https://amzn.to/3201jUW), by Kio Stark
