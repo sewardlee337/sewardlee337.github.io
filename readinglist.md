@@ -41,6 +41,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Coaching Habit](https://amzn.to/2tC9erz), by Michael Bungay Stanier
 1. [The Consolations of Philosophy](https://amzn.to/2Wy8EYc), by Alain de Botton
 1. [The Culture Code](https://amzn.to/2GaFTu8), by Daniel Coyle
+1. [The Fish That Ate the Whale](https://amzn.to/32iGK6g), by Rich Cohen
 1. [The Grid](https://amzn.to/2SJRtFN), by Gretchen Bakke
 1. [The Little Book of Talent](https://amzn.to/2WnNLiB), by Daniel Coyle
 1. [The Mathematics of Love](https://amzn.to/2EIUoEH), by Hannah Fry
