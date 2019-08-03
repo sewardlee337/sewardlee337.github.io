@@ -13,7 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [A Hero of France](https://amzn.to/2xa8DPo), by Alan Furst
-1. [Collected Maxims and Other Reflections](https://amzn.to/2WXzJc1), by François de La Rochefoucauld (Author), E.H. Blackmore, et al. (Translators)
+1. [Bird by Bird](https://amzn.to/2SMSF7S), by Anne Lamott
 1. [Psychology of Intelligence Analysis](https://amzn.to/2TfQ60S), by Richards J. Heuer
 
 ### 2019
@@ -34,6 +34,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [On Confidence](https://amzn.to/2D08osI), by The School of Life
 1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
 1. [Pygmalion in Management](https://amzn.to/2TRIgux), by J. Sterling Livingston
+1. [Resilience](https://amzn.to/2YvlCGC), by Eric Greitens
 1. [Shackleton's Way](https://amzn.to/2TcA83I), by Margot Morrell and Stephanie Capparell
 1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
 1. [Stronger](https://amzn.to/2TtRIVN), by George Everly Jr., Douglas Strouse, and Dennis McCormack
