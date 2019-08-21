@@ -12,9 +12,11 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [A Hero of France](https://amzn.to/2xa8DPo), by Alan Furst
-1. [Bird by Bird](https://amzn.to/2SMSF7S), by Anne Lamott
-1. [Psychology of Intelligence Analysis](https://amzn.to/2TfQ60S), by Richards J. Heuer
+1. [AI Superpowers](https://amzn.to/2Hh6siF), by Kai-Fu Lee
+1. [Bayes' Theorem: A Visual Introduction for Beginners](https://amzn.to/33pCbaM), by Dan Morris
+1. [The Joy of x](https://amzn.to/2YRPHog), by Steven Strogatz
+1. [Weapons of Math Destruction](https://amzn.to/33Q387F), by Cathy O'Neil
+
 
 ### 2019
 
@@ -56,6 +58,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Tiger](https://amzn.to/2JYGkv0), by John Vaillant
 1. [The War of Art](https://amzn.to/2XX5xO4), by Steven Pressfield
 1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
+1. [Ultralearning](https://amzn.to/2YRPOjG), by Scott Young
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [When Strangers Meet](https://amzn.to/3201jUW), by Kio Stark
 1. [Xenophon's Cyrus the Great](https://amzn.to/2WnbrmF), by Xenophon (Author) and Larry Hedrick (Editor)
