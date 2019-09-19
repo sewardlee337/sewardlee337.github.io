@@ -26,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Decisive](https://amzn.to/32NWkXU), Chip Heath and Dan Heath
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
 1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
+1. [Friend of a Friend...](https://amzn.to/2ZA0S5e), by David Burkus
 1. [How Proust Can Change Your Life](https://amzn.to/2NDdG2l), by Alain de Botton
 1. [How to Fight a Hydra](https://amzn.to/2FNFFKs), by Josh Kaufman
 1. [How to Find Love](https://amzn.to/30wfsZo), by The School of Life
