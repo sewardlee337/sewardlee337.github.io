@@ -13,7 +13,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [AI Superpowers](https://amzn.to/2Hh6siF), by Kai-Fu Lee
-1. [Bayes' Theorem: A Visual Introduction for Beginners](https://amzn.to/33pCbaM), by Dan Morris
 1. [The Joy of x](https://amzn.to/2YRPHog), by Steven Strogatz
 1. [Weapons of Math Destruction](https://amzn.to/33Q387F), by Cathy O'Neil
 
@@ -27,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
 1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
 1. [Friend of a Friend...](https://amzn.to/2ZA0S5e), by David Burkus
+1. [Get Smart!](https://amzn.to/2kZvA5r), by Brian Tracy
 1. [How Proust Can Change Your Life](https://amzn.to/2NDdG2l), by Alain de Botton
 1. [How to Fight a Hydra](https://amzn.to/2FNFFKs), by Josh Kaufman
 1. [How to Find Love](https://amzn.to/30wfsZo), by The School of Life
