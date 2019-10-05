@@ -15,7 +15,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [AI Superpowers](https://amzn.to/2Hh6siF), by Kai-Fu Lee
 1. [Letters from a Self-Made Merchant to His Son](https://amzn.to/2ngNscP), by George Horace Lorimer
 1. [The Joy of x](https://amzn.to/2YRPHog), by Steven Strogatz
-1. [Weapons of Math Destruction](https://amzn.to/33Q387F), by Cathy O'Neil
 
 
 ### 2019
@@ -63,6 +62,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The War of Art](https://amzn.to/2XX5xO4), by Steven Pressfield
 1. [The Warrior Ethos](https://amzn.to/2ZnAmJs), by Steven Pressfield
 1. [Ultralearning](https://amzn.to/2YRPOjG), by Scott Young
+1. [Weapons of Math Destruction](https://amzn.to/33Q387F), by Cathy O'Neil
 1. [We Need to Talk](https://amzn.to/2Igqahi), by Celeste Headlee
 1. [When Strangers Meet](https://amzn.to/3201jUW), by Kio Stark
 1. [Xenophon's Cyrus the Great](https://amzn.to/2WnbrmF), by Xenophon (Author) and Larry Hedrick (Editor)
