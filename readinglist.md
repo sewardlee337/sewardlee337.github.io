@@ -12,7 +12,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [AI Superpowers](https://amzn.to/2Hh6siF), by Kai-Fu Lee
 1. [Letters from a Self-Made Merchant to His Son](https://amzn.to/2ngNscP), by George Horace Lorimer
 1. [The Joy of x](https://amzn.to/2YRPHog), by Steven Strogatz
 1. [Weapons of Math Destruction](https://amzn.to/33Q387F), by Cathy O'Neil
@@ -23,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Collection of Essays](https://amzn.to/2WbSfsN), by George Orwell
 1. [Battle Leadership](https://amzn.to/2Ix8nSl), by Adolf von Schell
 1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
+1. [Chaos Monkeys](https://amzn.to/2qT79JF), by Antonio Garcia Martinez
 1. [Decisive](https://amzn.to/32NWkXU), Chip Heath and Dan Heath
 1. [Doing Justice](https://amzn.to/2FFusdN), by Preet Bharara
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
