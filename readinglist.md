@@ -12,14 +12,13 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Letters from a Self-Made Merchant to His Son](https://amzn.to/2ngNscP), by George Horace Lorimer
-1. [The Joy of x](https://amzn.to/2YRPHog), by Steven Strogatz
-1. [Weapons of Math Destruction](https://amzn.to/33Q387F), by Cathy O'Neil
+1. [Choke](https://amzn.to/34yj6mp), by Sian Beilock
 
 
 ### 2019
 
 1. [A Collection of Essays](https://amzn.to/2WbSfsN), by George Orwell
+1. [Anything You Want](https://amzn.to/33zGjEQ), by Derek Sivers
 1. [Battle Leadership](https://amzn.to/2Ix8nSl), by Adolf von Schell
 1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
 1. [Chaos Monkeys](https://amzn.to/2qT79JF), by Antonio Garcia Martinez
