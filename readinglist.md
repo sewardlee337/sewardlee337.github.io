@@ -13,6 +13,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Choke](https://amzn.to/34yj6mp), by Sian Beilock
+1. [Lady Luck](https://amzn.to/2rMLSlf), by Warren Weaver
+1. [Nudge](https://amzn.to/37aJNQj), by Richard H. Thaler and Cass R. Sunstein
 
 
 ### 2019
@@ -22,7 +24,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Battle Leadership](https://amzn.to/2Ix8nSl), by Adolf von Schell
 1. [Can't Hurt Me](https://amzn.to/2SWPEoM), by David Goggins
 1. [Chaos Monkeys](https://amzn.to/2qT79JF), by Antonio Garcia Martinez
-1. [Decisive](https://amzn.to/32NWkXU), Chip Heath and Dan Heath
+1. [Decisive](https://amzn.to/32NWkXU), by Chip Heath and Dan Heath
+1. [Designing with Data](https://amzn.to/2CKgVk2), by Rochelle King, Elizabeth F. Churchill, and Caitlin Tan
 1. [Doing Justice](https://amzn.to/2FFusdN), by Preet Bharara
 1. [Endurance](https://amzn.to/2HaWXT1), by Alfred Lansing
 1. [Filters Against Folly](https://amzn.to/2uA3Aqs), by Garrett Hardin
