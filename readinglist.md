@@ -38,6 +38,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [It's Not All About "Me"](https://amzn.to/2XT1BdY), by Robin K. Dreeke
 1. [Ogilvy on Advertising](https://amzn.to/34nNDDr), by David Ogilvy
+1. [Ogilvy on Advertising in the Digital Age](https://amzn.to/34sP2Jh), by Miles Young
 1. [On Being Nice](https://amzn.to/2X7IU5N), by The School of Life
 1. [On Confidence](https://amzn.to/2D08osI), by The School of Life
 1. [Pebbles of Perception](https://amzn.to/2ScgR5O), by Laurence Endersen
