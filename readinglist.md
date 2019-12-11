@@ -47,6 +47,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Rules for Radicals](https://amzn.to/2M26kXb), by Saul Alinsky
 1. [Shackleton's Way](https://amzn.to/2TcA83I), by Margot Morrell and Stephanie Capparell
 1. [Shantaram](https://amzn.to/2EI0aZH), by Gregory David Roberts
+1. [Six Thinking Hats](https://amzn.to/2DZuBrX), by Edward de Bono
 1. [Stronger](https://amzn.to/2TtRIVN), by George Everly Jr., Douglas Strouse, and Dennis McCormack
 1. [The Big Sleep](https://amzn.to/2XgvdRZ), by Raymond Chandler
 1. [The Captain Class](https://amzn.to/2MLlP4g), by Sam Walker
