@@ -14,7 +14,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [Designing with Data](https://amzn.to/2CKgVk2), by Rochelle King, Elizabeth F. Churchill, and Caitlin Tan
 1. [Lady Luck](https://amzn.to/2rMLSlf), by Warren Weaver
-1. [Nudge](https://amzn.to/37aJNQj), by Richard H. Thaler and Cass R. Sunstein
 
 
 ### 2019
@@ -37,6 +36,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Hyperfocus](https://amzn.to/2UbvWlZ), by Chris Bailey
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [It's Not All About "Me"](https://amzn.to/2XT1BdY), by Robin K. Dreeke
+1. [Nudge](https://amzn.to/37aJNQj), by Richard H. Thaler and Cass R. Sunstein
 1. [Ogilvy on Advertising](https://amzn.to/34nNDDr), by David Ogilvy
 1. [Ogilvy on Advertising in the Digital Age](https://amzn.to/34sP2Jh), by Miles Young
 1. [On Being Nice](https://amzn.to/2X7IU5N), by The School of Life
