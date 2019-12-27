@@ -34,6 +34,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [How to Fight a Hydra](https://amzn.to/2FNFFKs), by Josh Kaufman
 1. [How to Find Love](https://amzn.to/30wfsZo), by The School of Life
 1. [Hyperfocus](https://amzn.to/2UbvWlZ), by Chris Bailey
+1. [Indistractable](https://amzn.to/395zs9g), by Nir Eyal
 1. [In the Beginning... Was the Command Line](https://amzn.to/2CN0T8n), by Neal Stephenson
 1. [It's Not All About "Me"](https://amzn.to/2XT1BdY), by Robin K. Dreeke
 1. [Nudge](https://amzn.to/37aJNQj), by Richard H. Thaler and Cass R. Sunstein
