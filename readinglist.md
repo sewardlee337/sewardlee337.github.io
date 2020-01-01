@@ -12,8 +12,14 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Designing with Data](https://amzn.to/2CKgVk2), by Rochelle King, Elizabeth F. Churchill, and Caitlin Tan
+1. [Everything is F*cked](https://amzn.to/2F53aNW), by Mark Manson
 1. [Lady Luck](https://amzn.to/2rMLSlf), by Warren Weaver
+1. [The Professional Marketer](https://amzn.to/35epsat), by Tim Matthews
+
+
+### 2020
+
+1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 
 
 ### 2019
