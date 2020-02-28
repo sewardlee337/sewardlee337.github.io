@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
+1. [The Snowball](https://amzn.to/32g1rQL), by Alice Schroeder
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
 
 
@@ -21,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Everything is F*cked](https://amzn.to/2F53aNW), by Mark Manson
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
+1. [Fluent Forever](https://amzn.to/3a4hT9v), by Gabriel Wyner
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 
