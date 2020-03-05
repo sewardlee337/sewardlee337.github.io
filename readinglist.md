@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
 1. [Fluent Forever](https://amzn.to/3a4hT9v), by Gabriel Wyner
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
+1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 
 
@@ -169,7 +170,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Predictably Irrational](http://amzn.to/2F37wGU), by Dan Ariely
 1. [Rogue Heroes](http://amzn.to/2F6fEXr), by Ben MacIntyre
 1. ['Salem's Lot](http://amzn.to/2FtobB9), by Stephen King
-1. [Siddhartha](http://amzn.to/2Fueume), by Herman Hesse (Author) and Hilda Rosner (Translator)
+1. [Siddhartha](http://amzn.to/2Fueume), by Herman Hesse (Author)
 1. [So Good They Can't Ignore You](http://amzn.to/2HIzExL), by Cal Newport
 1. [Stories of Your Life and Others](http://amzn.to/2Ck0A7v), by Ted Chiang
 1. [Surely You're Joking, Mr. Feynman!](http://amzn.to/2sRppU9), by Richard P. Feynman
