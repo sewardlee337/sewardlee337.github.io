@@ -12,8 +12,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
+1. [Fluent Forever](https://amzn.to/3a4hT9v), by Gabriel Wyner
 1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
-1. [The Snowball](https://amzn.to/32g1rQL), by Alice Schroeder
+1. [The Power Broker](https://amzn.to/3atKqVY), by Robert A. Caro
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
 
 
@@ -22,10 +23,11 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Everything is F*cked](https://amzn.to/2F53aNW), by Mark Manson
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
-1. [Fluent Forever](https://amzn.to/3a4hT9v), by Gabriel Wyner
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
+1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
+1. [Zen in the Art of Writing](https://amzn.to/3b1YMgA), by Ray Bradbury
 
 
 ### 2019
@@ -170,7 +172,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Predictably Irrational](http://amzn.to/2F37wGU), by Dan Ariely
 1. [Rogue Heroes](http://amzn.to/2F6fEXr), by Ben MacIntyre
 1. ['Salem's Lot](http://amzn.to/2FtobB9), by Stephen King
-1. [Siddhartha](http://amzn.to/2Fueume), by Herman Hesse (Author)
+1. [Siddhartha](http://amzn.to/2Fueume), by Herman Hesse
 1. [So Good They Can't Ignore You](http://amzn.to/2HIzExL), by Cal Newport
 1. [Stories of Your Life and Others](http://amzn.to/2Ck0A7v), by Ted Chiang
 1. [Surely You're Joking, Mr. Feynman!](http://amzn.to/2sRppU9), by Richard P. Feynman
