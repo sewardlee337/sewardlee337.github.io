@@ -27,6 +27,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
+1. [The Last Wish](https://amzn.to/2QBo39P), by Andrzej Sapkowski
 1. [Zen in the Art of Writing](https://amzn.to/3b1YMgA), by Ray Bradbury
 
 
