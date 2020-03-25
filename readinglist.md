@@ -23,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Everything is F*cked](https://amzn.to/2F53aNW), by Mark Manson
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
+1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
