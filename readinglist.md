@@ -26,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
+1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
 1. [The Last Wish](https://amzn.to/2QBo39P), by Andrzej Sapkowski
