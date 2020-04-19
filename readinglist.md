@@ -25,6 +25,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
+1. [Five Moral Pieces](https://amzn.to/3cxBU9C), by Umberto Eco
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
