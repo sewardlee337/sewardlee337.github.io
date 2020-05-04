@@ -12,8 +12,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Fluent Forever](https://amzn.to/3a4hT9v), by Gabriel Wyner
 1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
+1. [The Anatomy of Story](https://amzn.to/2Y7bnff), by John Truby
 1. [The Power Broker](https://amzn.to/3atKqVY), by Robert A. Caro
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
 
@@ -25,12 +25,14 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
-1. [Five Moral Pieces](https://amzn.to/3cxBU9C), by Umberto Eco
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
+1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
+1. [Napoleon](https://amzn.to/2zT0J1G), by Andrew Roberts
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani
+1. [The Design of Everyday Things](https://amzn.to/3bFOMKL), by Donald A. Norman
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
 1. [The Last Wish](https://amzn.to/2QBo39P), by Andrzej Sapkowski
