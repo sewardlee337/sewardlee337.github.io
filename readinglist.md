@@ -32,7 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani
-1. [The Design of Everyday Things](https://amzn.to/3bFOMKL), by Donald A. Norman
+1. [The Design of Everyday Things](https://amzn.to/3fXBHPB), by Donald A. Norman
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 1. [The Goal](https://amzn.to/2SDeWq7), by Eliyahu M. Goldratt and Jeff Cox
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
