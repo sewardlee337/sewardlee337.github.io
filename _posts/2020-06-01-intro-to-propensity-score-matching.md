@@ -2,7 +2,7 @@
 layout:     post
 title:      Intro to Propensity Score Matching with Python
 date:       2020-06-01
-summary:    What PSM is, and how to implement it in Python from scratch.
+summary:    Learn how to use PSM to analyze observational data, and how to implement it from scratch using Python.
 categories: statistics python
 ---
 
@@ -85,14 +85,14 @@ This observational dataset comes from a paper relating to education research rea
 | Pre 	        | Number of books red per month prior to instructional                           	|
 | Post 	        | Number of books red per month after to instructional                           	|
 
-The ultimate goal of the study is to see whether a reading program (`CARS`) can drive a change in number of books read per month (`delta_books`). But since random assignment was not used to determine whether a student would receive the additional reading instruction, we will need to use Propensity Score Matching to create comparable control and treatment groups.
+The ultimate goal of the study is to see whether a reading program (`CARS`) can drive a change in number of books read per month (`Post` - `Pre`). But since random assignment was not used to determine whether a student would receive the additional reading instruction, we will need to use Propensity Score Matching to create comparable control and treatment groups.
 
 ```python
 # Import from sklearn.
 
 from sklearn.linear_model import LogisticRegression
 
-# Separate treatment variable from all the other variables.
+# Separate treatment from  other variables.
 
 X = data[['SES', 'Min', 'Gr', 'FCAT', 'Gen', 'GPA', 'Pre']]
 y = data['CARS']
