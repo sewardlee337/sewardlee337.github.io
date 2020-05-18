@@ -75,14 +75,16 @@ This observational dataset comes from a paper relating to education research rea
 
 | Variables   	| Descriptions                                                                   	|
 |-------------	|--------------------------------------------------------------------------------	|
-| CARS        	| Content Area Reading Strategies Program. 0 = No CARS; 1 = CARS                                                          	|
+| CARS        	| Content Area Reading Strategies Program. 0 = No CARS; 1 = CARS                  |
 | SES         	| 0 = No Free Lunch; 1 = Free Lunch                                              	|
 | MIN         	| 0 = White; 1 = Non-White                                                       	|
 | Gr          	| 1 = 9th Grade; 2 = 10th Grade; 3 = 11th Grade; 4 = 12th Grade                  	|
 | FCAT        	| Florida Comprehensive Assessment Test. 1 = Little Success; 5 = Highest Success 	|
 | Gen         	| 0 = Female; 1 = Male                                                           	|
 | GPA         	| Grade point average on 4.0 scale                                               	|
-| delta_books 	| Change in number of books read per month                                       	|                                       	
+| Pre 	        | Number of books red per month prior to instructional                           	|
+| Post 	        | Number of books red per month after to instructional                           	|
+
 The ultimate goal of the study is to see whether a reading program (`CARS`) can drive a change in number of books read per month (`delta_books`). But since random assignment was not used to determine whether a student would receive the additional reading instruction, we will need to use Propensity Score Matching to create comparable control and treatment groups.
 
 ```python
