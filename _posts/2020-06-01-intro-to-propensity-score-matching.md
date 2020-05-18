@@ -1,24 +1,24 @@
 ---
 layout:     post
-title:      Introduction to Propensity Score Matching with Python
+title:      Intro to Propensity Score Matching with Python
 date:       2020-06-01
-summary:    Learn how to implement an econometric technique to deal with observational data.
-categories: jekyll pixyll
+summary:    What PSM is, and how to implement it in Python from scratch.
+categories: statistics python
 ---
 
-**Propensity Score Matching Matching (PSM)** is an econometric technique that allows you to compare a control group and a treatment group when the two groups were not constructed using random assignment. This blog post will provide a very basic overview of PSM and discuss how to implement it in your data project using Python.
+**Propensity Score Matching Matching (PSM)** is an econometric technique that allows you to compare a control group and a treatment group when the groups were not constructed using random assignment. This post will provide a basic overview of PSM and discuss how to implement it using Python.
 
 ## Background
 
 When we conduct an experiment to find the difference between two groups, we would ideally want to randomly assign them to a control and a treatment group. For example:
 
-1. In clinical trials for medical treatments, doctors would use double-blind randomized trials to determine who receives the actual drug and who receives the placebo.
+* In clinical trials for medical treatments, doctors would use double-blind randomized trials to determine who receives the actual drug and who receives the placebo.
 
-1. In A/B testing for web applications, random assignment is used to determine whether a user will be able to see and/or interact with a new feature change.
+* In A/B testing for web applications, random assignment is used to determine whether a user will be able to see and/or interact with a new feature change.
 
-Random assignment ensures that the two groups are systematically similar in every way _**except**_ for the treatment variable that you’ve chosen (_e.g._ whether a patient receives a drug or a placebo). This in turn ensures that any difference you find between the control and treatment group is actually due to the treatment variable.
+Random assignment ensures that the two groups are systematically similar in every way **_except_** for the treatment variable that you’ve chosen (_e.g._ whether a patient receives a drug or a placebo). This in turn ensures that any difference you find between the control and treatment group is actually due to the treatment variable.
 
-Problems arise when random assignment is possible -- for reasons that may range from constrained resources to experimental ethics. For example, consider an experiment related to smoking:
+Problems arise when random assignment is impossible -- for reasons that may range from constrained resources to experimental ethics. For example, consider an experiment related to smoking:
 
 * On the one hand, it is ethically impossible for you to randomly assign subjects to a smoking or non-smoking group.
 
@@ -28,10 +28,94 @@ Thankfully, PSM offers a relatively straightforward way to generate comparable c
 
 ## How Propensity Score Matching Works
 
-On a high level, Propensity Score Matching works by...
+On a high level, Propensity Score Matching works by:
 
-* Taking a dataset that consists of a control and a treatment group (designated by a categorical variable in the dataset), and
+* Taking an observational dataset that consists of a control and treatment group (designated by a categorical variable in the dataset), and
 
-* Generating a _**new**_ control group that is comparable to the treatment group, using a logistic regression.
+* Generating a **_new_** control group that is comparable to the treatment group.
 
-Let's see this in action with an example.
+The steps to generate the new control group are:
+
+1. Train a [logistic regression](https://en.wikipedia.org/wiki/Logistic_regression?wprov=srpw1_0) to predict whether an observation is in the treatment group, with the other independent variables in your dataset as your features.
+
+2. For each observation in the dataset, use the trained logistic regression to predict whether that observation will belong in the treatment group. The prediction is a probability between 0 and 1. This is your **"propensity score"**.
+
+> Propensity Score = P(treatment = 1 | X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, ... X<sub>i</sub>)
+
+3. Once each observation has a propensity score, for each observation in the treatment group, find a corresponding observation in the control group with the closest propensity score. _(Note: Some observations in the control group may be matched upon multiple times. Treat repeated matches as separate observations.)_
+
+4. Your **_new_** control group will be comprised of observations in your **_original_** control group that have been matched to an observation in your treatment group.
+
+## An Example with Python: Classroom Reading
+
+First, let's set up our environment and build our dataset.
+
+```Python
+# Import data analysis packages
+
+import numpy as np
+import pandas as pd
+
+# Run this code to build the data for our example
+
+data = pd.DataFrame({
+    'CARS': [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+    'SES' : [1,0,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0],
+    'Min' : [0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1],
+    'Gr'  : [3,4,3,3,3,1,1,4,2,1,1,3,3,2,1,1,2,4,3,4,4,4,1,4,2,2,1,1,1,2],
+    'FCAT': [4,5,3,5,3,1,4,2,2,2,2,1,2,4,3,2,2,4,4,1,1,2,1,2,2,1,5,3,2,5],
+    'Gen' : [0,1,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,0,1,1],
+    'GPA' : [2.9,3.1,2.85,2.75,3.25,3.45,3.5,3.35,3.6,3.6,3.75,3.21,2.75,
+             2.95,3.45,3.05,3.85,3.75,3.25,3.33,3.05,3.25,3.35,3.85,4,2.9,
+             3.45,3.1,3.25,3.75],
+    'delta_books' : [0,-1,0,1,0,0,-1,0,1,0,0,0,1,0,0,0,1,0,-1,2,2,1,0,0,1,1,0,0,1,1]
+})
+```
+This observational dataset comes from a paper relating to education research reading,[^1] where:
+
+| Variables   	| Descriptions                                                                   	|
+|-------------	|--------------------------------------------------------------------------------	|
+| CARS        	| Content Area Reading Strategies Program. 0 = No CARS; 1 = CARS                                                          	|
+| SES         	| 0 = No Free Lunch; 1 = Free Lunch                                              	|
+| MIN         	| 0 = White; 1 = Non-White                                                       	|
+| Gr          	| 1 = 9th Grade; 2 = 10th Grade; 3 = 11th Grade; 4 = 12th Grade                  	|
+| FCAT        	| Florida Comprehensive Assessment Test. 1 = Little Success; 5 = Highest Success 	|
+| Gen         	| 0 = Female; 1 = Male                                                           	|
+| GPA         	| Grade point average on 4.0 scale                                               	|
+| delta_books 	| Change in number of books read per month                                       	|                                       	
+The ultimate goal of the study is to see whether a reading program (`CARS`) can drive a change in number of books read per month (`delta_books`). But since random assignment was not used to determine whether a student would receive the additional reading instruction, we will need to use Propensity Score Matching to create comparable control and treatment groups.
+
+```python
+# Import from sklearn.
+
+from sklearn.linear_model import LogisticRegression
+
+# Separate treatment variable from all the other variables.
+
+X = data[['SES', 'Min', 'Gr', 'FCAT', 'Gen', 'GPA', 'Pre']]
+y = data['CARS']
+
+# Fit a logistic regression.
+
+model = LogisticRegression(random_state=0).fit(X,y)
+
+# Predict probability that each observation should be in treatment group.
+# These are your propensity scores.
+
+y_prob = model.predict_proba(X)
+propensity = pd.DataFrame(y_prob)[1]
+
+data['propensity'] = propensity
+```
+
+
+## A Warning
+
+## Further resources
+
+* https://www.youtube.com/watch?v=ACVyPp1Fy6Y
+
+
+
+---
+[^1]: Lane, Forrest & To, Yen & Shelley, Kyna & Henson, Robin. (2012). An Illustrative Example of Propensity Score Matching with Education Research. Career and Technical Education Research. 37. 187-212. 10.5328/cter37.3.187.
