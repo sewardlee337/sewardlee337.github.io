@@ -13,7 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
-1. [The Anatomy of Story](https://amzn.to/2Y7bnff), by John Truby
+1. [Napoleon](https://amzn.to/2zT0J1G), by Andrew Roberts
 1. [The Power Broker](https://amzn.to/3atKqVY), by Robert A. Caro
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
 
@@ -27,8 +27,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
-1. [Napoleon](https://amzn.to/2zT0J1G), by Andrew Roberts
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
+1. [Sapiens](https://amzn.to/2AEUEWV), by Yuval Noah Harari
+1. [Stillness is the Key](https://amzn.to/3gB4auN), by Ryan Holiday
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani

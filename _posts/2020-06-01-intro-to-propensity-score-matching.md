@@ -6,7 +6,7 @@ summary:    Learn how to use PSM to analyze observational data, and how to imple
 categories: statistics python
 ---
 
-**Propensity Score Matching Matching (PSM)** is an econometric technique that allows you to compare a control group and a treatment group when the groups were not constructed using random assignment. This post will provide a basic overview of PSM and discuss how to implement it using Python.
+**Propensity Score Matching Matching (PSM)** is an econometric technique that allows you to compare a control group against treatment group when the groups were not constructed using random assignment. This post will provide a basic overview of PSM and discuss how to implement it using Python.
 
 ## Background
 
@@ -42,13 +42,15 @@ The steps to generate the new control group are:
 
 > Propensity Score = P(treatment = 1 | X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, ... X<sub>i</sub>)
 
-3. Once each observation has a propensity score, for each observation in the treatment group, find a corresponding observation in the control group with the closest propensity score. _(Note: Some observations in the control group may be matched upon multiple times. Treat repeated matches as separate observations.)_
+3. Once each observation has a propensity score, for each observation in the treatment group, find the corresponding observation in the control group with the closest propensity score. _(Note: Some observations in the control group may be matched upon multiple times. Treat repeated matches as separate observations.)_
 
 4. Your **_new_** control group will be comprised of observations in your **_original_** control group that have been matched to an observation in your treatment group.
 
-## An Example with Python: Classroom Reading
+## An Example with Python: Student Reading Habits
 
-First, let's set up our environment and build our dataset.
+Let's consider an example related to whether additional classroom instruction will change student reading habits.[^1] Some students were subject to the Content Area Reading Strategies Program ("CARS") while others were not, but random assignment wasn't used to determine which students received this additional instruction.
+
+The following code sets up our environment and builds the example dataset.
 
 ```Python
 # Import data analysis packages
@@ -72,7 +74,7 @@ data = pd.DataFrame({
     'Post': [4,2,4,3,1,3,2,1,4,3,1,2,2,4,3,2,2,4,2,3,3,3,1,4,3,2,2,2,3,3]
 })
 ```
-This observational dataset comes from a paper relating to education research reading,[^1] where:
+This observational dataset comes from a paper relating to education research reading, where:
 
 | Variables   	| Descriptions                                                                   	|
 |-------------	|--------------------------------------------------------------------------------	|
