@@ -66,7 +66,7 @@ For this applied example, we will use observational data from a paper on whether
 
 <br>
 
-The ultimate goal of the study is to see whether a reading program (`CARS`) can cause a change in number of books read per month (`Post` - `Pre`). But since random assignment was not used to determine whether a student would receive the additional reading instruction, we will use Propensity Score Matching to create comparable control and treatment groups.
+The ultimate goal of the study was to see whether a reading program (`CARS`) can cause a change in number of books read per month (`Post` - `Pre`). But since random assignment was not used to determine whether a student would receive the additional reading instruction, we will use Propensity Score Matching to create comparable control and treatment groups.
 
 First, load the data from this study into your R workspace.
 
@@ -122,7 +122,7 @@ The code above creates the **MatchIt** output object `m.out`. The final step is 
 m.data <- match.data(m.out)
 ```
 
-`m.data` is our new dataset with matched groups. It contains 14 rows for which `CARS` = 0, and 14 rows for which `CARS` = 1. We can now compare data from the control and treatment group as though they were c in a controlled setting.
+`m.data` is our new dataset with matched groups. It contains 14 rows for which `CARS` = 0, and 14 rows for which `CARS` = 1. We can now compare data from the control and treatment group as though they were created in a controlled setting.
 
 ## Limitations
 
