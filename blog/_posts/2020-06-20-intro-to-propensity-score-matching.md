@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Intro to Propensity Score Matching with R
-date:       2020-06-01
+date:       2020-06-20
 summary:    A brief tutorial on what PSM is, how it can be used to analyze observational data, and how to implement it using R.
 categories: [statistics, econometrics, R]
 tags: [statistics, econometrics, R]
@@ -124,7 +124,7 @@ m.data <- match.data(m.out)
 
 `m.data` is our new dataset with matched groups. It contains 14 rows for which `CARS` = 0, and 14 rows for which `CARS` = 1. We can now compare data from the control and treatment group as though they were c in a controlled setting.
 
-## Limitations of PSM
+## Limitations
 
 Propensity Score Matching is a very useful technique, but it has a major methodological limitation. Your ability to account for selection bias and create truly comparable groups is limited by what covariates you have available to generate propensity scores. If there's a variable not found in your data that can cause your control and treatment group to systematically differ, PSM won't be able to help you.
 
