@@ -9,9 +9,15 @@ tags: [statistics, econometrics, R]
 
 **Propensity Score Matching Matching (PSM)** is an econometric technique that allows you to compare a control group and a treatment group when the groups were not constructed using random assignment. This tutorial will provide a basic overview of PSM and demonstrate how to implement it using R.
 
-![apples_and_oranges](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Paul_Cezanne_Apples_and_Oranges.jpg/608px-Paul_Cezanne_Apples_and_Oranges.jpg)
-_<div align="center">Apples and Oranges (Pommes et Oranges), Paul Cézanne</div>_
+<br>
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Paul_Cezanne_Apples_and_Oranges.jpg/608px-Paul_Cezanne_Apples_and_Oranges.jpg" />
+</p>
+
+<p align="center">
+    <i>Apples and Oranges, by Paul Cézanne</i>
+</p>
 
 ## Background
 
