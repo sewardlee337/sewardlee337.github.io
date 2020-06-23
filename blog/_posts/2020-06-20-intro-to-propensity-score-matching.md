@@ -68,10 +68,10 @@ For this applied example, we will use observational data from a paper on whether
 
 The ultimate goal of the study was to see whether a reading program (`CARS`) could cause a change in number of books read per month (`Post` - `Pre`). But since random assignment was not used to determine whether a student would receive the additional reading instruction, we will use Propensity Score Matching to create comparable control and treatment groups.
 
-First, load the data from this study into your R workspace.
+First, let's load the data from this study into our R workspace.
 
 ```r
-# Run this code to build example dataframe
+# Run this code to build example dataset
 
 CARS  <- c(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1)
 SES   <- c(1,0,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0)
@@ -88,14 +88,14 @@ raw_data <- data.frame(CARS, SES, Min, Gr, FCAT, Gen, GPA, Pre, Post)
 
 Our raw dataset contains 16 rows of data for which `CARS` = 0 (representing students who did not receive reading intervention) and 14 rows of data for which `CARS` = 1 (representing students who received reading intervention). Since data in the two groups are not comparable, we will use PSM to create a new dataset with comparable control and treatment groups.
 
-Performing PSM in R is easy with help from the  [**MatchIt**](https://cran.r-project.org/web/packages/MatchIt/index.html) package. Install the package if you haven't done so already. Then, import it into your R workspace:
+Performing PSM in R is easy with help from the [**MatchIt**](https://cran.r-project.org/web/packages/MatchIt/index.html) package. Install the package if you haven't done so already. Then, import it:
 
 ```r
 # Install the package if you haven't already
 
 install.packages('MatchIt')
 
-# Import the package to your R workspace
+# Import the package to R workspace
 
 library(MatchIt)
 ```
@@ -104,7 +104,7 @@ The main function we'll rely upon is `matchit()`, which takes the following as i
 * Your data
 * The method used to perform matching
 
-In our case, since data is held in the dataframe `raw_data` and `CARS` is the treatment variable, we implement PSM by running:
+In our case, since data is held in the dataframe `raw_data` and `CARS` is the treatment variable, we implement PSM by first running:
 
 ```r
 # PSM Part 1: Create MatchIt object
@@ -113,7 +113,7 @@ m.out <- matchit(CARS ~ SES + Min + Gr + FCAT + Gen + GPA + Pre,
                  data = raw_data, method = 'nearest')
 ```
 
-The code above creates the **MatchIt** output object `m.out`. The final step is to pass `m.out` into the function `match.data()`.
+The code above creates the **MatchIt** output object `m.out`. The second step is to pass `m.out` into the function `match.data()`.
 
 ```r
 # PSM Part 2: Generate dataset with matched control and
@@ -122,11 +122,11 @@ The code above creates the **MatchIt** output object `m.out`. The final step is 
 m.data <- match.data(m.out)
 ```
 
-`m.data` is our new dataset with matched groups. It contains 14 rows for which `CARS` = 0, and 14 rows for which `CARS` = 1. We can now compare data from the control and treatment group as though they were created in a controlled setting.
+In the code above, the function `match.data()` outputs the dataframe `m.data`. `m.data` is our new dataset with matched groups. It contains 14 rows for which `CARS` = 0, and 14 rows for which `CARS` = 1. We can now compare data from the control and treatment group as though they were created in a controlled setting.
 
 ## Limitations
 
-Propensity Score Matching is a very useful technique, but it has a major methodological limitation. Your ability to account for selection bias and create truly comparable groups is limited by what covariates you have available to generate propensity scores. If there's a variable not found in your data that can cause your control and treatment group to systematically differ, PSM won't be able to help you.
+Propensity Score Matching is a very useful technique, but it has a major methodological limitation. Your ability to account for selection bias and create truly comparable groups is limited by what covariates you have on-hand to generate propensity scores. If there's a variable omitted from your dataset that can cause your control and treatment groups to systematically differ, PSM won't be able to help you.
 
 ## Additional Resources
 
