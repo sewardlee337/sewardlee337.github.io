@@ -29,7 +29,7 @@ When you conduct an experiment to find the difference between two groups, you'd 
 
 Random assignment ensures that the two groups are similar in every way **_except_** for the chosen treatment variable (_e.g._ whether a patient receives a drug or a placebo). This in turn ensures that any difference found between the control and treatment group is actually driven by the treatment variable.
 
-Problems arise when random assignment is impossible -- for reasons that may range from constrained resources to experimental ethics. For example, consider an experiment related to smoking:
+Problems arise when random assignment is impossible -- for reasons that may range from constrained resources to experimental ethics. For example, consider a study related to smoking:
 
 * On the one hand, it is ethically impossible for you to randomly assign subjects to a smoking or non-smoking group.
 
