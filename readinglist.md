@@ -21,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### 2020
 
 1. [Atomic Habits](https://amzn.to/2yWRJbb), by James Clear
+1. [Between the World and Me](https://amzn.to/3g5KLBg), by Ta-Nehisi Coates
 1. [Everything is F*cked](https://amzn.to/2F53aNW), by Mark Manson
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
