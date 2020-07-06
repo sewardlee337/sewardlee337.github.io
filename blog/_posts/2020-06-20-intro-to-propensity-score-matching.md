@@ -16,7 +16,7 @@ tags: [statistics, econometrics, R]
 </p>
 
 <p align="center">
-    <i>Apples and Oranges, by Paul Cézanne</i>
+    <i>Apples and Oranges, by Paul Cézanne (Source: <a href="https://commons.wikimedia.org/wiki/File:Nature_morte_aux_pommes_et_aux_oranges,_par_Paul_C%C3%A9zanne.jpg">Wikimedia Commons</a>) </i>
 </p>
 
 ## Background
