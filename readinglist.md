@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
+1. [How to Fall in Love With Anyone](https://amzn.to/3h6yKNe), Mandy Len Catron
 1. [Napoleon](https://amzn.to/2zT0J1G), by Andrew Roberts
 1. [The Power Broker](https://amzn.to/3atKqVY), by Robert A. Caro
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
@@ -27,12 +28,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
-1. [How to Fall in Love With Anyone](https://amzn.to/3h6yKNe), Mandy Len Catron
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
 1. [Modern Love](https://amzn.to/3cIaU6P), by Daniel Jones (Editor)
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
 1. [Sapiens](https://amzn.to/2AEUEWV), by Yuval Noah Harari
 1. [Stillness is the Key](https://amzn.to/3gB4auN), by Ryan Holiday
+1. [Sword of Destiny](https://amzn.to/2AxyvKt), by Andrzej Sapkowski
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani
@@ -42,6 +43,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
 1. [The Last Wish](https://amzn.to/2QBo39P), by Andrzej Sapkowski
 1. [The Remains of the Day](https://amzn.to/34vWaFB), by Kazuo Ishiguro
+1. [The Serendipity Mindset](https://amzn.to/3f7GmO9), by Christian Busch
 1. [The Splendid and the Vile](https://amzn.to/3f1N9Zb), by Erik Larson
 1. [Wolf Hall](https://amzn.to/2Lq84Iz), by Hilary Mantel
 1. [Zen in the Art of Writing](https://amzn.to/3b1YMgA), by Ray Bradbury
