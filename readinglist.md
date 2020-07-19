@@ -21,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### 2020
 
+1. [A Hero of France](https://amzn.to/3e8fJHq), by Alan Furst
 1. [Atomic Habits](https://amzn.to/2yWRJbb), by James Clear
 1. [Between the World and Me](https://amzn.to/3g5KLBg), by Ta-Nehisi Coates
 1. [Circe](https://amzn.to/2OaLQLP), by Madeline Miller
@@ -44,7 +45,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
 1. [The Last Wish](https://amzn.to/2QBo39P), by Andrzej Sapkowski
 1. [The Remains of the Day](https://amzn.to/34vWaFB), by Kazuo Ishiguro
-1. [The Serendipity Mindset](https://amzn.to/3f7GmO9), by Christian Busch
 1. [The Splendid and the Vile](https://amzn.to/3f1N9Zb), by Erik Larson
 1. [Wolf Hall](https://amzn.to/2Lq84Iz), by Hilary Mantel
 1. [Zen in the Art of Writing](https://amzn.to/3b1YMgA), by Ray Bradbury
