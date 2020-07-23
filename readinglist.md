@@ -36,6 +36,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Sapiens](https://amzn.to/2AEUEWV), by Yuval Noah Harari
 1. [Stillness is the Key](https://amzn.to/3gB4auN), by Ryan Holiday
 1. [Sword of Destiny](https://amzn.to/2AxyvKt), by Andrzej Sapkowski
+1. [The Alchemist](https://amzn.to/32U7lth), by Paulo Coelho
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani
