@@ -141,12 +141,12 @@ Propensity Score Matching is a very useful technique, but it has a major methodo
 ## Additional Resources
 
 What is Propensity Score Matching:
-* https://www.youtube.com/watch?v=ACVyPp1Fy6Y
-* https://www.youtube.com/watch?v=KlL2EVLnLX8
+* [YouTube: "An intuitive introduction to Propensity Score Matching"](https://www.youtube.com/watch?v=ACVyPp1Fy6Y)
+* [YouTube: "Propensity Score Matching - A Quick Introduction"](https://www.youtube.com/watch?v=KlL2EVLnLX8)
 
 How to use the **MatchIt** library:
-* https://imai.fas.harvard.edu/research/files/matchit.pdf
-* https://cran.r-project.org/web/packages/MatchIt/MatchIt.pdf
+* [CRAN Reference Manual](https://cran.r-project.org/web/packages/MatchIt/MatchIt.pdf)
+* [Stuart, Elizabeth & King, Gary & Imai, Kosuke & Ho, Daniel. (2011). MatchIT: Nonparametric Preprocessing for Parametric Causal Inference. Journal of Statistical Software. 42. 10.18637/jss.v042.i08. ](https://imai.fas.harvard.edu/research/files/matchit.pdf)
 
 
 ---
