@@ -105,7 +105,7 @@ This is the story of a man who shares a name with [The Buddha](https://en.wikipe
 
 ### [_Stories of Your Life and Others_, by Ted Chiang](https://amzn.to/2Ck0A7v)
 
-_Stories of Your Life and Others_ is a collection of stories that won an incredible number of sci-fi awards. Ted Chiang has a knack for transforming concepts from math and science into meditations on the human experience. In his hands, [Fermat's Principle of Least Time](https://en.wikipedia.org/wiki/Fermat%27s_principle) becomes an analogy for fate and predestination.
+_Stories of Your Life and Others_ is a collection of stories that won an incredible number of sci-fi awards. Ted Chiang has a knack for transforming concepts from math and science into meditations on the human experience. In his hands, [Fermat's Principle of Least Time](https://en.wikipedia.org/wiki/Fermat%27s_principle) becomes a haunting analogy for fate and predestination.
 
 Oh, and one of the stories in the collection was the inspiration for Denis Villeneuve's film [_Arrival_](https://www.youtube.com/watch?v=tFMo3UJ4B4g).
 
