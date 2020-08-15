@@ -83,7 +83,7 @@ Pro tip: read a physical copy of this book. It's easier and more enjoyable to sq
 
 _The Count of Monte Cristo_ is a thrilling revenge tale packed with adventure and intrigue. The novel's eponymous count is a proto-Batman from the Napoleonic Era: he's a mysterious, intelligent, and ultra-rich man with a secret cave, an alter ego, and a need to dispense justice with his own hands.
 
-This novel also culminates with a message that I'll likely meditate upon to the end of my days:
+This novel culminates with a message that I'll likely meditate upon to the end of my days:
 
 > "Live, then, and be happy, beloved children of my heart, and never forget, that until the day God will deign to reveal the future to man, all human wisdom is contained in these two words, 'Wait and Hope.'”
 
