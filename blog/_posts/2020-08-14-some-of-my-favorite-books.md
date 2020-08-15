@@ -61,7 +61,7 @@ The main author of this book is a former FBI hostage negotiator. This book will 
 
 Sometimes _Sapiens_ feels like the heir apparent to [Karl Popper's _The Open Society and Its Enemies_](https://en.wikipedia.org/wiki/The_Open_Society_and_Its_Enemies). At other times, it's like a book version of computer games from [Sid Mier's _Civilization_ series](https://www.youtube.com/watch?v=5KdE0p2joJw). I love both, so I naturally found _Sapiens_ to be excellent.
 
-This book is about where we (_Homo sapiens_) came from, and the various experiments that we attempted with agriculture, science, religion, and imperialism. In the process, it delivers a strikingly eloquent message of how we as a species can be better.
+This book is about where we (_Homo sapiens_) came from, and the various experiments that we attempted with agriculture, science, religion, and imperialism. In the process, it delivers a strikingly eloquent message on how we can be a better, more humane species.
 
 ### [_"Surely You're Joking, Mr Feynman!": Adventures of a Curious Character_, by Richard P. Feynman](https://amzn.to/2sRppU9)
 
