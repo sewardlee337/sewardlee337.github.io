@@ -9,7 +9,7 @@ tags: [books]
 
 I <3 books.
 
-Now that COVID pandemic has curtailed most of my outdoor and social life, I’ve been combing the web for [recommendations](https://lithub.com/tag/book-recommendations/) [on](https://apps.npr.org/best-books/index.html#view=covers&year=2019) [new](https://grc-usmcu.libguides.com/usmc-reading-list) [stuff](https://ryanholiday.net/reading-list/) [to](https://barbaraoakley.com/recommendations/book-recommendations/) [read](https://markmanson.net/best-books). The process of doing so reminded me that I like talking about my favorite things as much as the next person. So here's a list of books that I’ve particularly enjoyed.
+Now that the COVID pandemic has curtailed most of my outdoor and social life, I’ve been combing the web for [recommendations](https://lithub.com/tag/book-recommendations/) [on](https://apps.npr.org/best-books/index.html#view=covers&year=2019) [new](https://grc-usmcu.libguides.com/usmc-reading-list) [stuff](https://ryanholiday.net/reading-list/) [to](https://barbaraoakley.com/recommendations/book-recommendations/) [read](https://markmanson.net/best-books). The process of doing so reminded me that I like talking about my favorite things as much as the next person. So here's a list of books that I’ve particularly enjoyed.
 
 ## Nonfiction
 
@@ -91,7 +91,7 @@ This novel also culminates with a message that I'll likely meditate upon to the 
 
 "Original" and "imaginative" are gross understatements. Susanna Clarke is a genius, and this historical fantasy epic is in a league of its own.
 
-With war for continental supremacy between Regency Era Britain and Napoleonic France as its backdrop, this is a story of a master-pupil pair of "practical magicians" (read: wizards). Norrell is a timid scholar who stays at home to serve as defense consultant for the British government. Strange follows his Byronic impulses and uses magic on the battlefield to aid Wellington's armies. Utterly crazy shit happens.
+With war for continental supremacy between Regency Era Britain and Napoleonic France as its backdrop, this is a story of a master-pupil pair of "practical magicians" (read: wizards). Norrell is a timid scholar who stays at home to serve as a defense consultant for the British government. Strange follows his Byronic impulses and uses magic on the battlefield to aid Wellington's armies. Utterly crazy shit happens.
 
 ### [_The Remains of the Day_, by Kazuo Ishiguro](https://amzn.to/34vWaFB)
 
