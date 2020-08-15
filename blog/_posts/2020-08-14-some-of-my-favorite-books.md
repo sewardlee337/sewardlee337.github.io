@@ -9,13 +9,13 @@ tags: [books]
 
 I <3 books.
 
-Now that COVID pandemic has curtailed most of my outdoor and social life, I’ve been combing the web for [recommendations](https://lithub.com/tag/book-recommendations/) [on](https://apps.npr.org/best-books/index.html#view=covers&year=2019) [new](https://grc-usmcu.libguides.com/usmc-reading-list) [stuff](https://ryanholiday.net/reading-list/) [to](https://barbaraoakley.com/recommendations/book-recommendations/) [read](https://markmanson.net/best-books). The process of doing so reminded me that I like talking about my favorite things as much as the next person. So I’ve compiled a list of books that I’ve particularly enjoyed.
+Now that COVID pandemic has curtailed most of my outdoor and social life, I’ve been combing the web for [recommendations](https://lithub.com/tag/book-recommendations/) [on](https://apps.npr.org/best-books/index.html#view=covers&year=2019) [new](https://grc-usmcu.libguides.com/usmc-reading-list) [stuff](https://ryanholiday.net/reading-list/) [to](https://barbaraoakley.com/recommendations/book-recommendations/) [read](https://markmanson.net/best-books). The process of doing so reminded me that I like talking about my favorite things as much as the next person. So here's a list of books that I’ve particularly enjoyed.
 
 ## Nonfiction
 
 ### [_The Captain Class: The Hidden Force That Creates the World's Greatest Teams_, by Sam Walker](https://amzn.to/2MLlP4g)
 
-Sam Walker sought to find the ultimate driver of the best sports teams. The answer he uncovered: team captains. Through the stories of sports legends such as [Tim Duncan](https://en.wikipedia.org/wiki/Tim_Duncan) of the San Antonio Spurs, [Carles Puyol](https://en.wikipedia.org/wiki/Carles_Puyol) of FC Barcelona, and [Carla Overbeck](https://en.wikipedia.org/wiki/Carla_Overbeck) of U.S. Woman's Soccer, Walker explains the traits shared among the very best team captains. This is a must-read for anyone who aspires to play a leadership role.
+Sam Walker sought to find the ultimate driver of the best sports teams. The answer he uncovered: team captains. Through the stories of sports legends such as [Tim Duncan](https://en.wikipedia.org/wiki/Tim_Duncan) of the San Antonio Spurs, [Carles Puyol](https://en.wikipedia.org/wiki/Carles_Puyol) of FC Barcelona, and [Carla Overbeck](https://en.wikipedia.org/wiki/Carla_Overbeck) of U.S. Woman's Soccer, Walker explains the traits shared among the very best team captains. This is a must-read for anyone who aspires to play a leadership role in any endeavor.
 
 ### [_Churchill and Orwell: The Fight for Freedom_, by Thomas E. Ricks](https://amzn.to/2OhYZjP)
 
@@ -25,7 +25,7 @@ This book tells the intertwined stories of two men who were, in many ways, compl
 
 ### [_Endurance: Shackleton's Incredible Voyage_, by Alfred Lansing](https://amzn.to/2HaWXT1)
 
-_Endurance_ is one of my favorite books of all time. It chronicles the story of the 1914-1917 [Imperial Trans-Antarctic Expedition](https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition) - an ill-fated expedition that left 28 explorers stranded in Antarctica's most inhospitable regions. As you read the about heroic exploits that expedition leader [Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) underwent to save his team, you gradually understand why polar explorers say:
+_Endurance_ is one of my favorite books of all time. It chronicles the story of the 1914-1917 [Imperial Trans-Antarctic Expedition](https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition) - an ill-fated expedition that left 28 explorers stranded in one of the most deadly regions of the world. As you read the about heroic exploits that expedition leader [Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) underwent to save his team, you gradually understand why polar explorers say:
 
 > "For scientific discovery give me Scott; for speed and efficiency of travel give me Amundsen; but when disaster strikes and all hope is gone, get down on your knees and pray for Shackleton."
 
@@ -55,7 +55,7 @@ Three words: [second order thinking](https://fs.blog/2016/04/second-order-thinki
 
 ### [_Never Split the Difference: Negotiate Like Your Life Depended On It_, by Chris Voss and Tahl Raz](https://amzn.to/2owYFmz)
 
-The main author of this book is a former FBI hostage negotiator. It will teach you to negotiate like a boss. Once you grasp Chris Voss's theory of "tactical empathy", you'll see social interactions in a brand new light.
+The main author of this book is a former FBI hostage negotiator. This book will teach you to negotiate like a boss. Once you grasp Chris Voss's theory of "tactical empathy", you'll see social interactions in a brand new light.
 
 ### [_Sapiens: A Brief History of Humankind_, by Yuval Noah Harari](https://amzn.to/2AEUEWV)
 
@@ -81,7 +81,7 @@ Pro tip: read a physical copy of this book. It's easier and more enjoyable to sq
 
 ### [_The Count of Monte Cristo_, by Alexandre Dumas](https://amzn.to/2uXBdFS)
 
-_The Count of Monte Cristo_ is a thrilling revenge yarn packed with adventure and intrigue. The novel's eponymous count is a proto-Batman from the Napoleonic Era: he's a mysterious, intelligent, and ultra-rich man with a secret cave, an alter ego, and a need to dispense justice with his own hands.
+_The Count of Monte Cristo_ is a thrilling revenge tale packed with adventure and intrigue. The novel's eponymous count is a proto-Batman from the Napoleonic Era: he's a mysterious, intelligent, and ultra-rich man with a secret cave, an alter ego, and a need to dispense justice with his own hands.
 
 This novel also culminates with a message that I'll likely meditate upon to the end of my days:
 
