@@ -25,7 +25,7 @@ This book tells the parallel stories of two men who were, in many ways, complete
 
 ### [_Endurance: Shackleton's Incredible Voyage_, by Alfred Lansing](https://amzn.to/2HaWXT1)
 
-_Endurance_ is one of my favorite books of all time. It chronicles the story of the 1914-1917 [Imperial Trans-Antarctic Expedition](https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition) - an ill-fated expedition that left 28 explorers stranded in one of the most deadly regions of the world. As you read the about heroic exploits that expedition leader [Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) underwent to save his team, you gradually understand why polar explorers say:
+_Endurance_ is one of my favorite books of all time. It chronicles the story of the 1914-1917 [Imperial Trans-Antarctic Expedition](https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition) - an ill-fated expedition that left 28 explorers stranded in one of the most deadly places in the world. As you read about the heroic exploits that expedition leader [Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) underwent to save his team, you gradually understand why polar explorers say:
 
 > "For scientific discovery give me Scott; for speed and efficiency of travel give me Amundsen; but when disaster strikes and all hope is gone, get down on your knees and pray for Shackleton."
 
