@@ -21,7 +21,7 @@ Sam Walker sought to find the ultimate driver of the best sports teams. The answ
 
 Churchill and Orwell never met in real life. The very concept of this dual biography shouldn’t work at all. But through the very deft execution of author Thomas Ricks, it works remarkably well.
 
-This book tells the intertwined stories of two men who were, in many ways, complete opposites. Churchill was irrepressible optimist and adventure-seeker; Orwell was a gloomy invalid. Yet both made tremendous contributions to the fight against fascism and totalitarianism, making them giants of their era.
+This book tells the parallel stories of two men who were, in many ways, complete opposites. Churchill was irrepressible optimist and adventure-seeker; Orwell was a gloomy invalid. Yet both made tremendous contributions to the fight against fascism and totalitarianism, making them giants of their era.
 
 ### [_Endurance: Shackleton's Incredible Voyage_, by Alfred Lansing](https://amzn.to/2HaWXT1)
 
