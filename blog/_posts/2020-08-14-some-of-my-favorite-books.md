@@ -15,7 +15,7 @@ Now that COVID pandemic has curtailed most of my outdoor and social life, I’ve
 
 ### [_The Captain Class: The Hidden Force That Creates the World's Greatest Teams_, by Sam Walker](https://amzn.to/2MLlP4g)
 
-Sam Walker sought to find the ultimate driver of the best sports teams. The answer he uncovered: team captains. From the stories of sports legends such as [Tim Duncan](https://en.wikipedia.org/wiki/Tim_Duncan) of the San Antonio Spurs, [Carles Puyol](https://en.wikipedia.org/wiki/Carles_Puyol) of FC Barcelona, and [Carla Overbeck](https://en.wikipedia.org/wiki/Carla_Overbeck) of U.S. Woman's Soccer, Walker uncovers the traits shared among the very best team captains. This is a must-read for anyone who aspires to play a leadership role.
+Sam Walker sought to find the ultimate driver of the best sports teams. The answer he uncovered: team captains. Through the stories of sports legends such as [Tim Duncan](https://en.wikipedia.org/wiki/Tim_Duncan) of the San Antonio Spurs, [Carles Puyol](https://en.wikipedia.org/wiki/Carles_Puyol) of FC Barcelona, and [Carla Overbeck](https://en.wikipedia.org/wiki/Carla_Overbeck) of U.S. Woman's Soccer, Walker explains the traits shared among the very best team captains. This is a must-read for anyone who aspires to play a leadership role.
 
 ### [_Churchill and Orwell: The Fight for Freedom_, by Thomas E. Ricks](https://amzn.to/2OhYZjP)
 
@@ -25,7 +25,7 @@ This book tells the intertwined stories of two men who were, in many ways, compl
 
 ### [_Endurance: Shackleton's Incredible Voyage_, by Alfred Lansing](https://amzn.to/2HaWXT1)
 
-_Endurance_ is one of my favorite books of all time. It chronicles the story of the 1914-1917 [Imperial Trans-Antarctic Expedition](https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition) - an ill-fated expedition that left 28 explorers stranded in utterly inhospitable regions of Antarctica. As you read about the heroic lengths that expedition leader [Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) underwent to save his team, you gradually understand why polar explorers say:
+_Endurance_ is one of my favorite books of all time. It chronicles the story of the 1914-1917 [Imperial Trans-Antarctic Expedition](https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition) - an ill-fated expedition that left 28 explorers stranded in Antarctica's most inhospitable regions. As you read the about heroic exploits that expedition leader [Ernest Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) underwent to save his team, you gradually understand why polar explorers say:
 
 > "For scientific discovery give me Scott; for speed and efficiency of travel give me Amundsen; but when disaster strikes and all hope is gone, get down on your knees and pray for Shackleton."
 
@@ -67,13 +67,13 @@ This book is about where we (_Homo sapiens_) came from, and the various experime
 
 We’re so lucky that this titan of modern science decided to share his whimsical stories of life and work. Richard Feynman’s amazing life shows that genius isn’t just about knowing a lot of things. It boils down to a disciplined pursuit of knowledge combined with a playful zest for life.
 
-#### [_Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career_, by Scott Young](https://amzn.to/2YRPOjG)
+### [_Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career_, by Scott Young](https://amzn.to/2YRPOjG)
 
-This is written by the guy who famously self-taught himself MIT's Computer Science curriculum in one year, with online videos and problem sets. Learning quickly and well is a superpower, so I highly recommend this book to everyone. Applying the lessons in this book is the best way to experience that ["I know kung fu" moment from _The Matrix_](https://www.youtube.com/watch?v=6vMO3XmNXe4) in real life.
+This is written by the guy who famously self-taught himself MIT's Computer Science curriculum in one year with online videos and problem sets. Learning rapidly and retaining the knowledge is a very practical superpower, so I highly recommend this book to everyone. Applying the lessons in this book is the best way to experience that ["I know kung fu" moment from _The Matrix_](https://www.youtube.com/watch?v=6vMO3XmNXe4) in real life.
 
 ### [_Visual Intelligence: Sharpen Your Perception, Change Your Life_, by Amy E. Herman](https://amzn.to/2Nsyyfb)
 
-Did it ever occurred to you that learning to appreciate fine art can turn you into Sherlock Holmes? This is the book-version of Amy Herman's art appreciation class, which has been used to coach doctors and counter-terrorism experts to _really see_ the hidden clues that ordinary folks miss.
+Did it ever occurred to you that learning to appreciate fine art can turn you into Sherlock Holmes? This is the book-version of Amy Herman's art appreciation class, which has been used to teach doctors and counter-terrorism experts to _really see_ the hidden clues that ordinary folks miss.
 
 Pro tip: read a physical copy of this book. It's easier and more enjoyable to squint at famous paintings on paper.
 
@@ -83,7 +83,7 @@ Pro tip: read a physical copy of this book. It's easier and more enjoyable to sq
 
 _The Count of Monte Cristo_ is a thrilling revenge yarn packed with adventure and intrigue. The novel's eponymous count is a proto-Batman from the Napoleonic Era: he's a mysterious, intelligent, and ultra-rich man with a secret cave, an alter ego, and a need to dispense justice with his own hands.
 
-This novel also culminates with a message that I'll likely ponder upon to the end of my days:
+This novel also culminates with a message that I'll likely meditate upon to the end of my days:
 
 > "Live, then, and be happy, beloved children of my heart, and never forget, that until the day God will deign to reveal the future to man, all human wisdom is contained in these two words, 'Wait and Hope.'”
 
@@ -95,7 +95,7 @@ With war for continental supremacy between Regency Era Britain and Napoleonic Fr
 
 ### [_The Remains of the Day_, by Kazuo Ishiguro](https://amzn.to/34vWaFB)
 
-The butler to a disgraced English lord solemnly reflects upon his life. He meanders through Darlington Hall in his memories, piecing together the personal and historical events that took place on the estate during the 1920s and 1930s. What significance did they carry?
+The butler of a disgraced English lord solemnly reflects upon his life. He meanders through Darlington Hall in his memories, piecing together the personal and political events that took place on the estate during the 1920s and 1930s. What significance did they carry?
 
 There's a powerful moral to this story. See if you can identify it.
 
@@ -105,7 +105,7 @@ This is the story of a man who shares a name with [The Buddha](https://en.wikipe
 
 ### [_Stories of Your Life and Others_, by Ted Chiang](https://amzn.to/2Ck0A7v)
 
-_Stories of Your Life and Others_ is a collection of stories that won an incredible number of sci-fi awards. Ted Chiang has a knack at transforming concepts from math and science into meditations on the human experience. In his hands, [Fermat's Principle of Least Time](https://en.wikipedia.org/wiki/Fermat%27s_principle) becomes an analogy for fate and predestination.
+_Stories of Your Life and Others_ is a collection of stories that won an incredible number of sci-fi awards. Ted Chiang has a knack for transforming concepts from math and science into meditations on the human experience. In his hands, [Fermat's Principle of Least Time](https://en.wikipedia.org/wiki/Fermat%27s_principle) becomes an analogy for fate and predestination.
 
 Oh, and one of the stories in the collection was the inspiration for Denis Villeneuve's film [_Arrival_](https://www.youtube.com/watch?v=tFMo3UJ4B4g).
 
@@ -115,7 +115,7 @@ Although novels in Alan Furst's _Night Soldiers_ series tend to vary in quality,
 
 ### [_The Ultimate Hitchhiker's Guide to the Galaxy_, by Douglas Adams](https://amzn.to/2HGakbD)
 
-_The Hitchhiker's Guide to the Galaxy_ and its sequels are basically Monty Python sketches in space. They're cheerfully nonsensical, and yet somehow they make a lot of sense. They also famously [gave Elon Musk his life purpose](https://www.cnbc.com/2019/07/23/why-hitchhikers-guide-author-is-elon-musks-favorite-philosopher.html) and taught a generation of computer scientists to [love the number 42](https://stackoverflow.com/questions/16236182/what-is-the-origin-of-magic-number-42-indispensable-in-coding).
+_The Hitchhiker's Guide to the Galaxy_ and its sequels are basically Monty Python sketches in space. They're cheerfully nonsensical, yet somehow they make a lot of sense. They also famously [gave Elon Musk his life purpose](https://www.cnbc.com/2019/07/23/why-hitchhikers-guide-author-is-elon-musks-favorite-philosopher.html) and taught a generation of computer scientists to [love the number 42](https://stackoverflow.com/questions/16236182/what-is-the-origin-of-magic-number-42-indispensable-in-coding).
 
 Further attempts to describe this sci-fi series are basically futile, so I'll stop here.
 
