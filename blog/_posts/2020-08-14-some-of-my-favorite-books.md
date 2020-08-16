@@ -69,7 +69,7 @@ We’re so lucky that this titan of modern science decided to share his whimsica
 
 ### [_Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career_, by Scott Young](https://amzn.to/2YRPOjG)
 
-This is written by the guy who famously self-taught himself MIT's Computer Science curriculum in one year with online videos and problem sets. Learning rapidly and retaining the knowledge is a very practical superpower, so I highly recommend this book to everyone. Applying the lessons in this book is the best way to experience that ["I know kung fu" moment from _The Matrix_](https://www.youtube.com/watch?v=6vMO3XmNXe4) in real life.
+This was written by the guy who famously self-taught himself MIT's Computer Science curriculum in one year with online videos and problem sets. Learning rapidly and retaining the knowledge is a very practical superpower, so I highly recommend this book to everyone. Applying the lessons in this book is the best way to experience that ["I know kung fu" moment from _The Matrix_](https://www.youtube.com/watch?v=6vMO3XmNXe4) in real life.
 
 ### [_Visual Intelligence: Sharpen Your Perception, Change Your Life_, by Amy E. Herman](https://amzn.to/2Nsyyfb)
 
