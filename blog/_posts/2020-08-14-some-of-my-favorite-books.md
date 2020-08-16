@@ -39,7 +39,7 @@ This somber collection of essays has had a profound impact on my views on race r
 
 ### [_The Fish That Ate the Whale: The Life and Times of America's Banana King_, by Rich Cohen](https://amzn.to/32iGK6g)
 
-This book offers two things. The first is the strange a gripping tale of [Samuel Zemurray](https://en.wikipedia.org/wiki/Sam_Zemurray), filled with entrepreneurial hustle, international espionage, and political coups. The second is all the knowledge of bananas you'll ever need in life.
+This book offers two things. The first is the strange and gripping tale of [Samuel Zemurray](https://en.wikipedia.org/wiki/Sam_Zemurray), filled with entrepreneurial hustle, international espionage, and political coups. The second is all the knowledge of bananas you'll ever need in life.
 
 ### [_The History of the Decline and Fall of the Roman Empire_, by Edward Gibbon](https://amzn.to/2uRs4fd)
 
