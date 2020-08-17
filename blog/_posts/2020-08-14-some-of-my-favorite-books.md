@@ -15,7 +15,7 @@ Now that the COVID pandemic has curtailed most of my outdoor and social life, Iâ
 
 ### [_The Captain Class: The Hidden Force That Creates the World's Greatest Teams_, by Sam Walker](https://amzn.to/2MLlP4g)
 
-Sam Walker sought to find the ultimate driver of the best sports teams. The answer he uncovered: team captains. Through the stories of sports legends such as [Tim Duncan](https://en.wikipedia.org/wiki/Tim_Duncan) of the San Antonio Spurs, [Carles Puyol](https://en.wikipedia.org/wiki/Carles_Puyol) of FC Barcelona, and [Carla Overbeck](https://en.wikipedia.org/wiki/Carla_Overbeck) of U.S. Woman's Soccer, Walker explains the traits shared among the very best team captains. This is a must-read for anyone who aspires to play a leadership role in any endeavor.
+Sam Walker sought to find the ultimate driver of the best sports teams. The answer he uncovered: team captains. Through the stories of sports legends such as [Tim Duncan](https://en.wikipedia.org/wiki/Tim_Duncan) of the San Antonio Spurs, [Carles Puyol](https://en.wikipedia.org/wiki/Carles_Puyol) of FC Barcelona, and [Carla Overbeck](https://en.wikipedia.org/wiki/Carla_Overbeck) of U.S. Women's Soccer, Walker explains the traits shared among the very best team captains. This is a must-read for anyone who aspires to play a leadership role in any endeavor.
 
 ### [_Churchill and Orwell: The Fight for Freedom_, by Thomas E. Ricks](https://amzn.to/2OhYZjP)
 
