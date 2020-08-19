@@ -13,7 +13,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
-1. [How to Fall in Love With Anyone](https://amzn.to/3h6yKNe), Mandy Len Catron
 1. [Napoleon](https://amzn.to/2zT0J1G), by Andrew Roberts
 1. [The Power Broker](https://amzn.to/3atKqVY), by Robert A. Caro
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
@@ -37,6 +36,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Stillness is the Key](https://amzn.to/3gB4auN), by Ryan Holiday
 1. [Sword of Destiny](https://amzn.to/2AxyvKt), by Andrzej Sapkowski
 1. [The Alchemist](https://amzn.to/32U7lth), by Paulo Coelho
+1. [The Blind Side](https://amzn.to/2Yajqas), by Michael Lewis
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani

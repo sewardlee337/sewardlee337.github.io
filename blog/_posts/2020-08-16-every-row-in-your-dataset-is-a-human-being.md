@@ -7,7 +7,7 @@ categories: [data4good]
 tags: [data4good]
 ---
 
-_(This story was first shared at DataKind's 2020 Global Summit.)_
+_(This story was originally shared at DataKind's 2020 Global Summit.)_
 
 So what _is_ data? Now let’s be clear that I’m not referring to the obvious: we all know that they’re records of observations that you can run calculations upon.
 
