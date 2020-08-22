@@ -24,3 +24,4 @@ On that day, I also met another gentleman who was in his 50s. At night, he took 
 So when I look back upon these encounters, I realize something very fundamental. The farther up you go in the data collection lifecycle, the more you realize that comparing data to gold or oil or all these other things just isn’t quite right. Oftentimes, they’re people’s life stories in a compressed form. Said differently: _every row in your dataset is a human being._
 
 And because I’m secretly a liberal arts nerd despite my tech job, I happen to know this: the ancient Greeks used to compare each mortal life to a strand of thread. If that’s the case, the table or dataframe that you’re working with is really a tapestry of interwoven life stories. And it’s my belief that when we handle this tapestry, it’s our responsibility to pause for a moment, to appreciate it, and then to treat it gently.
+<br>
