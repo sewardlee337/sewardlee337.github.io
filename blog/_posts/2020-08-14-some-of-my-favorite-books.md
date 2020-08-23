@@ -7,9 +7,16 @@ categories: [book-review]
 tags: [book-review]
 ---
 
+<img src = "/assets/images/susan-yin-2JIvboGLeho-unsplash.jpg">
+
+<p align="center"><i>Photo by <a href="https://unsplash.com/@syinq?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Susan Yin</a> on <a href="https://unsplash.com/s/photos/books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></i></p>
+
+<br>
+
 I <3 books.
 
 Now that the COVID pandemic has curtailed most of my outdoor and social life, I’ve been combing the web for [recommendations](https://lithub.com/tag/book-recommendations/) [on](https://apps.npr.org/best-books/index.html#view=covers&year=2019) [new](https://grc-usmcu.libguides.com/usmc-reading-list) [stuff](https://ryanholiday.net/reading-list/) [to](https://barbaraoakley.com/recommendations/book-recommendations/) [read](https://markmanson.net/best-books). The process of doing so reminded me that I like talking about my favorite things as much as the next person. So here's a list of books that I’ve particularly enjoyed.
+
 
 ## Nonfiction
 

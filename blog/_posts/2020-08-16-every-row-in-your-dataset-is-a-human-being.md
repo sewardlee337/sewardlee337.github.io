@@ -7,6 +7,12 @@ categories: [data-for-good]
 tags: [data-for-good, personal]
 ---
 
+<img src = "/assets/images/dimi-katsavaris-N3m2hKNc1j0-unsplash.jpg">
+
+<p align="center"><i>Photo by <a href="https://unsplash.com/@dimikatsavaris?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dimi Katsavaris</a> on <a href="https://unsplash.com/s/photos/homeless?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></i></p>
+
+<br>
+
 _(This story was originally shared at DataKind's 2020 Global Summit.)_
 
 So what _is_ data? Now let’s be clear that I’m not referring to the obvious: we all know that they’re records of observations that you can run calculations upon.
