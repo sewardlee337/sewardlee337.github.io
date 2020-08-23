@@ -3,8 +3,8 @@ layout:     post
 title:      Intro to Propensity Score Matching with R
 date:       2020-06-20
 summary:    A brief tutorial on what PSM is, how it can be used to analyze observational data, and how to implement it using R.
-categories: [statistics, econometrics, R]
-tags: [statistics, econometrics, R]
+categories: [statistics]
+tags: [statistics, r]
 ---
 
 **Propensity Score Matching Matching (PSM)** is an econometric technique that allows you to compare a control group and a treatment group when the groups were not constructed using random assignment. This tutorial will provide a basic overview of PSM and demonstrate how to implement it using R.

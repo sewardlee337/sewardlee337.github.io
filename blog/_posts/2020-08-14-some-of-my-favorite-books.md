@@ -3,8 +3,8 @@ layout:     post
 title:      Some of My Favorite Books
 date:       2020-08-14
 summary:    An excuse for me to play book critic.
-categories: [books]
-tags: [books]
+categories: [book-review]
+tags: [book-review]
 ---
 
 I <3 books.

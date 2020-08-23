@@ -3,8 +3,8 @@ layout:     post
 title:      Every Row in Your Dataset Is a Human Being
 date:       2020-08-16
 summary:    A better, more humane way to think about data than "The New Oil".
-categories: [data4good]
-tags: [data4good]
+categories: [data-for-good]
+tags: [data-for-good, personal]
 ---
 
 _(This story was originally shared at DataKind's 2020 Global Summit.)_
