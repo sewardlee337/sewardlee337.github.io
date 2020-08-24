@@ -9,8 +9,6 @@ tags: [book-review]
 
 <img src = "/assets/images/susan-yin-2JIvboGLeho-unsplash.jpg">
 
-<p align="center"><i>Photo by <a href="https://unsplash.com/@syinq?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Susan Yin</a> on <a href="https://unsplash.com/s/photos/books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></i></p>
-
 <br>
 
 I <3 books.
