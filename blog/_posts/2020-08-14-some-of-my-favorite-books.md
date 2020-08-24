@@ -9,7 +9,6 @@ tags: [book-review]
 
 <img src = "/assets/images/susan-yin-2JIvboGLeho-unsplash.jpg">
 
-<br>
 
 I <3 books.
 
