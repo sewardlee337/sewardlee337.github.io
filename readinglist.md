@@ -28,8 +28,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
-1. [Football Hackers](https://amzn.to/3jWIL07), by
-Christoph Biermann
+1. [Football Hackers](https://amzn.to/3jWIL07), by Christoph Biermann
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
 1. [Jurgen Klopp](https://amzn.to/3brlNuS), by Elmar Neveling
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
@@ -39,6 +38,7 @@ Christoph Biermann
 1. [Stillness is the Key](https://amzn.to/3gB4auN), by Ryan Holiday
 1. [Sword of Destiny](https://amzn.to/2AxyvKt), by Andrzej Sapkowski
 1. [The Alchemist](https://amzn.to/32U7lth), by Paulo Coelho
+1. [The Biggest Bluff](https://amzn.to/35fiTZ5), by Maria Konnikova
 1. [The Blind Side](https://amzn.to/2Yajqas), by Michael Lewis
 1. [The Count of Monte Cristo](https://amzn.to/2uXBdFS), by Alexandre Dumas (Author) and Robin Buss (Translator)
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
