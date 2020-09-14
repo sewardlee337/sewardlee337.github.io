@@ -31,6 +31,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
 1. [Football Hackers](https://amzn.to/3jWIL07), by Christoph Biermann
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
+1. [In the Garden of Beasts](https://amzn.to/3bV0DoZ), by Erik Larson
 1. [Jurgen Klopp](https://amzn.to/3brlNuS), by Elmar Neveling
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
 1. [Modern Love](https://amzn.to/3cIaU6P), by Daniel Jones (Editor)
