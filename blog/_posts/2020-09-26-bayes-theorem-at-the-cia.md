@@ -13,13 +13,13 @@ Our daily lives are inundated with predictions about the future, but they usuall
 
 Intelligence agencies, however, must approach predictions in a more careful and systematic manner. After all, when a country's national security or geopolitical standing is at stake, the cost of failure can be catastrophic.
 
-[Declassified reports on the CIA's website](https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi) show that analysts at the agency had experimented with tools from [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics) to make high-stakes predictions. In this article, we'll look at how the CIA leveraged Bayes' theorem to study and forecast geopolitical events.
+[Declassified reports on the CIA's website](https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi) show that analysts at the agency had experimented with tools from [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics) to make high-stakes predictions. In this article, we'll look at how the CIA applied Bayes' theorem to study and forecast geopolitical events.
 
 ## What is a Probability?
 
 First, let's briefly discuss how Bayesian statistics differs from the "traditional" statistics that you learn in a Statistics 101 class. It stems from a philosophical difference in the definition of a "probability".
 
-"Traditional" statistics that you were likely taught is based on a ["frequentist" interpretation of probability](https://en.wikipedia.org/wiki/Frequentist_inference). In this paradigm, a probability is defined as the proportion of times that a given outcome occurs when a random event is repeated infinite times. A typical example involves repeatedly flipping a fair coin. As the number of coin flips gets progressively higher, the proportion of heads gradually approaches 50%. So the probability of flipping heads is 0.5.
+"Traditional" statistics that you were likely taught is based on a ["frequentist" interpretation of probability](https://en.wikipedia.org/wiki/Frequentist_inference). In this paradigm, a probability is defined as the proportion of times that a given outcome occurs when a random event is repeated infinite times. A typical example involves repeatedly flipping a fair coin. As the number of coin flips becomes progressively greater, the proportion of heads gradually approaches 50%. So the probability of flipping heads is 0.5.
 
 The Bayesian paradigm defines a probability as a degree of belief. This corresponds to how we think about probability in everyday life, such as when we say something like: "I believe the senator has a 25% chance of getting reelected." When probabilities represent degrees of belief, we have a way to account for uncertainty in our logical reasoning about whether something is "True" or "False".
 
@@ -156,7 +156,7 @@ $$ P(H_2) = 0.3 $$
 
 $$ P(H_3) = 0.6 $$
 
-Discussion about subsequent news that the analyst would have received is highly redacted. Nevertheless, we know that each piece of news in the unredacted report would have been accompanied by likelihoods of the news occurring if the hypotheses above were true. This would have allowed for successive rounds of belief updates using Bayes's theorem, as shown in the following graph:
+Discussion about subsequent news that the analyst would have received is highly redacted. Nevertheless, we know that each piece of news in the unredacted report would have been accompanied by likelihoods of the news occurring if the hypotheses above were true. This would have allowed for successive rounds of belief updates using Bayes' theorem, as shown in the following graph:
 
 <img src = "/assets/images/korean-war-bayes.png">
 
