@@ -13,7 +13,7 @@ Our daily lives are inundated with predictions about the future, but they usuall
 
 Intelligence agencies, however, must approach predictions in a more careful and systematic manner. After all, when a country's national security or geopolitical standing is at stake, the cost of failure can be catastrophic.
 
-[Declassified reports on the CIA's website](https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi) show that analysts at the agency had experimented with tools from [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics) to make high-stakes predictions. In this article, we'll look at how the CIA leveraged Bayes' Theorem to study and forecast geopolitical events.
+[Declassified reports on the CIA's website](https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi) show that analysts at the agency had experimented with tools from [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics) to make high-stakes predictions. In this article, we'll look at how the CIA leveraged Bayes' theorem to study and forecast geopolitical events.
 
 ## What is a Probability?
 
