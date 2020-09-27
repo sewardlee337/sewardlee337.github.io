@@ -148,7 +148,7 @@ Using a mapping between language found in contemporaneous intelligence reports a
 
 <br>
 
-The report suggests that our hypothetical analyst would assign the following priors based on what's known about the People's Republic of China on September 15.
+The report suggests that our hypothetical analyst would have assigned the following priors based on what's known about the People's Republic of China on September 15.
 
 $$ P(H_1) = 0.1 $$
 
@@ -156,7 +156,7 @@ $$ P(H_2) = 0.3 $$
 
 $$ P(H_3) = 0.6 $$
 
-Discussion about subsequent news that the analyst would receive is highly redacted. Nevertheless, we know that each piece of news in the unredacted report would have been accompanied with likelihoods of the news occurring if the hypotheses above were true. This would have allowed for successive rounds of belief updates using Bayes's theorem, as shown in the following graph:
+Discussion about subsequent news that the analyst would have received is highly redacted. Nevertheless, we know that each piece of news in the unredacted report would have been accompanied by likelihoods of the news occurring if the hypotheses above were true. This would have allowed for successive rounds of belief updates using Bayes's theorem, as shown in the following graph:
 
 <img src = "/assets/images/korean-war-bayes.png">
 
