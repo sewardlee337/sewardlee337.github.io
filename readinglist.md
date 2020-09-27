@@ -35,7 +35,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [In the Garden of Beasts](https://amzn.to/3bV0DoZ), by Erik Larson
 1. [Jurgen Klopp](https://amzn.to/3brlNuS), by Elmar Neveling
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
-1. [Master and Commander](https://amzn.to/35HAzwL), by Patrick O'Brianyo
 1. [Modern Love](https://amzn.to/3cIaU6P), by Daniel Jones (Editor)
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
 1. [Sapiens](https://amzn.to/2AEUEWV), by Yuval Noah Harari
