@@ -25,6 +25,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Between the World and Me](https://amzn.to/3g5KLBg), by Ta-Nehisi Coates
 1. [Circe](https://amzn.to/2OaLQLP), by Madeline Miller
 1. [Coach](https://amzn.to/3k4AbMD), by Michael Lewis
+1. [Creativity, Inc.](https://amzn.to/3ccXkts), by Ed Catmull and Amy Wallace
 1. [Everything is F*cked](https://amzn.to/2F53aNW), by Mark Manson
 1. [Extreme Ownership](https://amzn.to/2QEuPvP), by Jocko Willink and Leif Babin
 1. [Fahrenheit 451](https://amzn.to/2TQ6dlQ), by Ray Bradbury
@@ -34,6 +35,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [In the Garden of Beasts](https://amzn.to/3bV0DoZ), by Erik Larson
 1. [Jurgen Klopp](https://amzn.to/3brlNuS), by Elmar Neveling
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
+1. [Master and Commander](https://amzn.to/35HAzwL), by Patrick O'Brianyo
 1. [Modern Love](https://amzn.to/3cIaU6P), by Daniel Jones (Editor)
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
 1. [Sapiens](https://amzn.to/2AEUEWV), by Yuval Noah Harari
@@ -129,7 +131,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Churchill and Orwell](https://amzn.to/2OhYZjP), by Thomas E. Ricks
 1. [Drive](http://amzn.to/2oG9WSB), by Daniel H. Pink
 1. [Eichmann in Jerusalem](https://amzn.to/2EW8tBN), by Hannah Arendt
-1. [Fascism](https://amzn.to/2MWjUfL), by Madeline Albright
+1. [Fascism](https://amzn.to/35M1bN0), by Madeline Albright
 1. [For Whom the Bell Tolls](http://amzn.to/2CjHAGc), by Ernest Hemingway
 1. [How to Fail at Almost Everything and Still Win Big](https://amzn.to/2GY79eJ), by Scott Adams
 1. [Lays of Ancient Rome](https://amzn.to/2M9yuRq), by Thomas Babington Macaulay
