@@ -2,7 +2,7 @@
 layout:     post
 title:      Bayes' Theorem and Intelligence Analysis at the CIA
 date:       2020-09-26
-summary:    How Bayes' Theorem could be used to study and predict geopolitical events, based on declassified reports from the Central Intelligence Agency.
+summary:    How Bayes' theorem could be used to study and predict geopolitical events, based on declassified reports from the Central Intelligence Agency.
 categories: [statistics]
 tags: [statistics, geopolitics]
 ---
