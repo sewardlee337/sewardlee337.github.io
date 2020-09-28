@@ -22,7 +22,7 @@ What's important to know is that:
 * A Martian year is 1.881 Earth years, or 668.59 sols.
 * Like a terrestrial day, a sol can be divided into 24 "solar hours" and 60 "solar minutes".
 
-Dr. Allison's became the basis for the [Mars24 Sunclock](https://www.giss.nasa.gov/tools/mars24/): a program developed in Java that keeps track of the time on Earth and Mars. Below, we're going to replicate the Mars24 algorithm in R.
+Dr. Allison's methodology became the basis for the [Mars24 Sunclock](https://www.giss.nasa.gov/tools/mars24/): a program developed in Java that keeps track of the time on Earth and Mars. Below, we're going to replicate the Mars24 algorithm in R.
 
 ## Implementing the Mars24 Sunclock Algorithm in R
 
