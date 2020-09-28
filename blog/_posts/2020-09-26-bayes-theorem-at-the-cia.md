@@ -19,7 +19,7 @@ Intelligence agencies, however, must approach predictions in a more careful and 
 
 First, let's briefly discuss how Bayesian statistics differs from the "traditional" statistics that you learn in a Statistics 101 class. It stems from a philosophical difference in the definition of a "probability".
 
-"Traditional" statistics that you were likely taught is based on a ["frequentist" interpretation of probability](https://en.wikipedia.org/wiki/Frequentist_inference). In this paradigm, a probability is defined as the proportion of times that a given outcome occurs when a random event is repeated infinite times. A typical example involves repeatedly flipping a fair coin. As the number of coin flips becomes progressively greater, the proportion of heads gradually approaches 50%. So the probability of flipping heads is 0.5.
+"Traditional" statistics that you were likely taught is based on a ["frequentist" interpretation of probability](https://en.wikipedia.org/wiki/Frequentist_inference). In this paradigm, a probability is defined as the proportion of times that a given outcome occurs when a random event is repeated infinite times. A typical example involves repeatedly flipping a fair coin. As the number of coin flips becomes progressively larger, the proportion of heads gradually approaches 50%. So the probability of flipping heads is 0.5.
 
 The Bayesian paradigm defines a probability as a degree of belief. This corresponds to how we think about probability in everyday life, such as when we say something like: "I believe the senator has a 25% chance of getting reelected." When probabilities represent degrees of belief, we have a way to account for uncertainty in our logical reasoning about whether something is "True" or "False".
 

@@ -9,7 +9,7 @@ tags: [astronomy, r]
 
 <img src = "/assets/images/nasa-E7q00J_8N7A-unsplash.jpg">
 
-My fascination with timekeeping on the Red Planet began with one of my favorite movies: 2015's sci-fi flick [_The Martian_](https://youtu.be/ej3ioOneTy8).[^1] In the scenes where Matt Damon's plucky astronaut character [speaks directly to the camera](https://www.youtube.com/watch?v=IDnUUJqdg-w), there's an indicator on the  corner of the screen that displays how many Martian-days has elapsed since his mission began.
+My fascination with timekeeping on the Red Planet began with one of my favorite movies: 2015's sci-fi flick [_The Martian_](https://youtu.be/ej3ioOneTy8). In the scenes where Matt Damon's plucky astronaut character [speaks directly to the camera](https://www.youtube.com/watch?v=IDnUUJqdg-w), there's an indicator on the  corner of the screen that displays how many Martian-days has elapsed since his mission began.
 
 This made me wonder: If timezone conversions are [such a massive nuisance on Earth](https://xkcd.com/1883/), how do you figure out the time on a completely different planet? Turns out that with the help of some resources provided by NASA, it's relatively straightforward to convert Earth-time to Mars-time using R.
 
@@ -214,7 +214,3 @@ earth2mars_convert(example_datetime)
 The function `earth2mars_convert()` should return: `23.99425`.
 
 23.99425 hours, or 23:59:39, was the Mean Solar Time at Mars's prime meridian during midnight of January 6, 2000 (UTC) on Earth.
-
-
----
-[^1]: I also love the novel it was based on.
