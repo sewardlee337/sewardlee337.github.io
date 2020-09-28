@@ -15,7 +15,7 @@ This made me wonder: If timezone conversions are [such a massive nuisance on Ear
 
 ## How Does Martian Time Work?
 
-Dr. Michael D. Allison of NASA's Goddard Institute for Space Studies [published a paper in 1997](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/97GL01950) that spells out a methodology for finding the time on Mars. Additional infomration can also be found in Dr. Allison's 1998 Science Brief ["Telling Time on Mars"](https://www.giss.nasa.gov/research/briefs/allison_02/) and the [Wikipedia page on Martian timekeeping](https://en.wikipedia.org/wiki/Timekeeping_on_Mars).
+Dr. Michael D. Allison of NASA's Goddard Institute for Space Studies [published a paper in 1997](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/97GL01950) that spells out a methodology for finding the time on Mars. Additional information can also be found in Dr. Allison's 1998 Science Brief ["Telling Time on Mars"](https://www.giss.nasa.gov/research/briefs/allison_02/) and the [Wikipedia page on Martian timekeeping](https://en.wikipedia.org/wiki/Timekeeping_on_Mars).
 
 What's important to know is that:
 * A Martian day ("sol") is 39 minutes, 35.2 seconds longer than the terrestrial day of 24 hours
