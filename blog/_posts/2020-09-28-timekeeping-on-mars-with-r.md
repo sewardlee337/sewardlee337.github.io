@@ -192,7 +192,7 @@ earth2mars_convert <- function(millis, verbose=FALSE) {
 }
 ```
 
-To check if our implementation of the algorithm works, first convert a date to Unix time with millisecond-level precision. Here, let's use the date used in NASA's worked example: January 6, 2000.
+To check if our implementation of the algorithm works, first convert a date to Unix time with millisecond-level precision. Here, let's use the date used in NASA's worked example: midnight of January 6, 2000.
 
 ```r
 # Example arguments
