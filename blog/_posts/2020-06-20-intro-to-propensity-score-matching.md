@@ -45,8 +45,7 @@ The steps to generate the new control group are:
 
 2. For each observation in the dataset, use the trained logistic regression to predict whether that observation will belong in the treatment group. The prediction is a probability between 0 and 1. This is your **"propensity score"**.
 
-    > Propensity Score
-    >  = P(treatment = 1 | X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, ... X<sub>i</sub>)
+    $$ Propensity\;Score = P(treatment = 1\;|\;X_1, X_2, X_3, ..., X_i) $$
 
 3. Once a propensity score has been assigned to every observation, for each observation in the treatment group, find a corresponding observation in the control group with the closest propensity score.
 
