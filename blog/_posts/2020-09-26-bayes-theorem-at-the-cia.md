@@ -166,3 +166,7 @@ The report concludes that, by mid-November of 1950, the analyst would have found
 ## Additional Resources
 
 For a fun and painless introduction to Bayesian statistics, I highly recommend Will Kurt's [_Bayesian Statistics the Fun Way_](https://www.amazon.com/Bayesian-Statistics-Fun-Will-Kurt/dp/1593279566/ref=sr_1_1?dchild=1&keywords=bayesian+statistics+the+fun+way&qid=1601171761&sr=8-1). More information about how the CIA used Bayesian techniques can be found in the 1975 study ["Handbook of Bayesian Analysis for Intelligence"](https://www.cia.gov/library/readingroom/docs/CIA-RDP86T00608R000600180019-8.pdf).
+
+
+---
+<small>Header photo by <a href="https://unsplash.com/@yuli_superson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Juli Kosolapova</a> on <a href="https://unsplash.com/s/photos/war?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>

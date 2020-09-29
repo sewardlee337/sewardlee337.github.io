@@ -130,3 +130,7 @@ I'm astounded by how much adventure and wisdom can be packed into a pastoral nov
 Also worth noting: _Watership Down_ has (in my opinion) one of the most badass lines in literature:
 
 > "My Chief Rabbit has told me to stay and defend this run, and until he says otherwise, I shall stay here."
+
+
+---
+<small>Header photo by <a href="https://unsplash.com/@syinq?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Susan Yin</a> on <a href="https://unsplash.com/s/photos/books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>

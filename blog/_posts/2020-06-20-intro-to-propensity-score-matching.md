@@ -144,3 +144,5 @@ How to use the **MatchIt** library:
 
 ---
 [^1]: [Lane, Forrest & To, Yen & Shelley, Kyna & Henson, Robin. (2012). An Illustrative Example of Propensity Score Matching with Education Research. Career and Technical Education Research. 37. 187-212. 10.5328/cter37.3.187.](https://www.researchgate.net/publication/273061804_An_Illustrative_Example_of_Propensity_Score_Matching_with_Education_Research)
+
+<small>Header photo by <a href="https://unsplash.com/@designbytholen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Regine Tholen</a> on <a href="https://unsplash.com/s/photos/apple-and-orange?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>
