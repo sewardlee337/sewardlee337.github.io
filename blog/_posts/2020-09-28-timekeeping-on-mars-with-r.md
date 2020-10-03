@@ -197,8 +197,8 @@ To check if our implementation of the algorithm works, first convert a timestamp
 ```r
 # Example arguments
 
-datetime = '2000-01-06 00:00:00'
-tzone = 'UTC'
+datetime <- '2000-01-06 00:00:00'
+tzone <- 'UTC'
 
 example_datetime <- datetime  %>%
   ymd_hms(tz = tzone) %>%

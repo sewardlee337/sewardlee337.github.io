@@ -12,3 +12,9 @@ astronomy:
   name: Astronomy
 geopolitics:
   name: Geopolitics
+python:
+  name: Python
+football-soccer:
+  name: Football (Soccer)
+leadership:
+  name: Leadership
