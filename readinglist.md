@@ -54,6 +54,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Remains of the Day](https://amzn.to/34vWaFB), by Kazuo Ishiguro
 1. [The Revolt of the Public](https://amzn.to/33PXPaz), by Martin Gurri
 1. [The Splendid and the Vile](https://amzn.to/3f1N9Zb), by Erik Larson
+1. [What Would Jurgen Klopp Do?](https://amzn.to/2SXPUBA), by Tom Victor
 1. [Wolf Hall](https://amzn.to/2Lq84Iz), by Hilary Mantel
 1. [Zen in the Art of Writing](https://amzn.to/3b1YMgA), by Ray Bradbury
 1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
