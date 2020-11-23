@@ -49,11 +49,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Courage to Be Disliked](https://amzn.to/38cNMLu), by Ichiro Kishimi and Fumitake Koga
 1. [The Death of Truth](https://amzn.to/3alON5J), Michiko Kakutani
 1. [The Design of Everyday Things](https://amzn.to/3fXBHPB), by Donald A. Norman
+1. [The First 90 Days](https://amzn.to/2Kkaqv9), by Michael Watkins
 1. [The Four](https://amzn.to/2MHiVii), by Scott Galloway
 1. [The Goal](https://amzn.to/2SDeWq7), by Eliyahu M. Goldratt and Jeff Cox
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
 1. [The Last Wish](https://amzn.to/2QBo39P), by Andrzej Sapkowski
-1. [The Liberator](https://amzn.to/2K534M7), by Alex Kershaw
+1. [The Liberator](https://amzn.to/3lNL3zP), by Alex Kershaw
 1. [The Remains of the Day](https://amzn.to/34vWaFB), by Kazuo Ishiguro
 1. [The Revolt of the Public](https://amzn.to/33PXPaz), by Martin Gurri
 1. [The Splendid and the Vile](https://amzn.to/3f1N9Zb), by Erik Larson
