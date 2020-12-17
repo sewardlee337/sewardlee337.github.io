@@ -176,7 +176,7 @@ Mars24 <- function(millis) {
 
 The function `Mars24()` takes the time on Earth in [Unix time-format, at millisecond-level precision](https://www.geeksforgeeks.org/java-8-clock-millis-method-with-examples/). It returns a dataframe, where each row represents a step calculation listed in NASA's worked example.
 
-We can technically use `Mars24()` as-is. But to make it a bit more friendly and allow room for future extension, let's wrap `Mars24()` in a second function: `earth2mars_convert()`. This will be function that the user of the algorithm will touch. Notice that there's an additional `verbose` argument that allows users to toggle whether they want a printout listing all the steps in the calculations.
+We can technically use `Mars24()` as-is. But to make it a bit more friendly and allow room for future extension, let's wrap `Mars24()` in a second function: `earth2mars_convert()`. This will be the function that the user of the algorithm will touch. Notice that there's an additional `verbose` argument that allows users to toggle whether they want a printout listing all the steps in the calculations.
 
 ```r
 # User-friendly wrapper for Mars24 algorithm
