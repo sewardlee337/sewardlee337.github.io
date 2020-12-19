@@ -38,6 +38,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
 1. [Modern Love](https://amzn.to/3cIaU6P), by Daniel Jones (Editor)
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
+1. [Piranesi](https://amzn.to/3r2Siac), by Susanna Clarke
 1. [Poor Charlie's Almanack](https://amzn.to/377bhqU), by Peter D. Kaufman (Editor)
 1. [Principles](https://amzn.to/32ypeMZ), by Ray Dalio
 1. [Ready Player One](https://amzn.to/36Ma87W), by Ernest Cline
