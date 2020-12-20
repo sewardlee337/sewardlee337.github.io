@@ -18,9 +18,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
 
 
-### 2021
-
-
 ### 2020
 
 1. [A Hero of France](https://amzn.to/3e8fJHq), by Alan Furst
