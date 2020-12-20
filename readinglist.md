@@ -18,6 +18,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
 
 
+### 2021
+
+
 ### 2020
 
 1. [A Hero of France](https://amzn.to/3e8fJHq), by Alan Furst
@@ -58,6 +61,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Golden Compass](https://amzn.to/2wTKMqk), Philip Pullman
 1. [The Last Wish](https://amzn.to/2QBo39P), by Andrzej Sapkowski
 1. [The Liberator](https://amzn.to/3lNL3zP), by Alex Kershaw
+1. [The Read Aloud Cloud](https://amzn.to/3aqzR9t), by Forrest Brazeal
 1. [The Remains of the Day](https://amzn.to/34vWaFB), by Kazuo Ishiguro
 1. [The Revolt of the Public](https://amzn.to/33PXPaz), by Martin Gurri
 1. [The Splendid and the Vile](https://amzn.to/3f1N9Zb), by Erik Larson
