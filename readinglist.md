@@ -15,7 +15,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
 1. [Napoleon](https://amzn.to/2zT0J1G), by Andrew Roberts
 1. [The Power Broker](https://amzn.to/3atKqVY), by Robert A. Caro
-1. [長安十二時辰](https://bit.ly/2tiqPbg), 馬伯庸 著
+1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
 
 
 ### 2020
@@ -32,10 +32,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
 1. [Football Hackers](https://amzn.to/3jWIL07), by Christoph Biermann
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
+1. [How the Internet Really Works](https://amzn.to/2WJipoz), by Article 19
 1. [In the Garden of Beasts](https://amzn.to/3bV0DoZ), by Erik Larson
 1. [Jurgen Klopp](https://amzn.to/3brlNuS), by Elmar Neveling
 1. [Life of Pi](https://amzn.to/3a7NTg0), Yann Martel
 1. [Love Yourself Like Your Life Depends on It](https://amzn.to/2Ysqa4s), by Kamal Ravikant
+1. [Master and Commander](https://amzn.to/3mBWABV), by Patrick O'Brian
 1. [Modern Love](https://amzn.to/3cIaU6P), by Daniel Jones (Editor)
 1. [On Writing](https://amzn.to/2QOnJV1), by Stephen King
 1. [Piranesi](https://amzn.to/3r2Siac), by Susanna Clarke
@@ -65,7 +67,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [What Would Jurgen Klopp Do?](https://amzn.to/2SXPUBA), by Tom Victor
 1. [Wolf Hall](https://amzn.to/2Lq84Iz), by Hilary Mantel
 1. [Zen in the Art of Writing](https://amzn.to/3b1YMgA), by Ray Bradbury
-1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
 
 
 ### 2019
