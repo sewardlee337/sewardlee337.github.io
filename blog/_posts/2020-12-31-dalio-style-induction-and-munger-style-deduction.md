@@ -33,7 +33,7 @@ A large portion of his book is dedicated to introducing and explaining these pri
 
 > “The most important thing is that you develop your own principles and write them down, especially if you are working with others.”
 
-That’s Dalio’s secret. If you systematically record your decision-making criteria and continuously test and refine them against new problems, you’ll end up with your own set of rules for maximizing success.
+That’s Dalio’s secret. If you systematically record your decision-making criteria and continuously test and refine them against new problems, you’ll end up with your own recipes for maximizing success.
 
 ## Charlie Munger's Mental Models
 
@@ -88,7 +88,7 @@ So while Dalio emphasizes induction and Munger emphasizes deduction, they are ac
 
 Make no mistake: it takes hard work to follow either strategy, let alone both. I assume that it will require decades to master both Dalio and Munger’s strategies to fluency -- decades filled with reading widely and meticulously examining and reexamining past decisions. But if you want to achieve uncommon success, you'll need to engage in difficult activities that others refuse to attempt.
 
-Dalio and Munger have mapped the way to getting the most out of life and work. It's up to you to walk the path.
+Dalio and Munger have mapped the way to getting the most out of life and work. It's up to you to walk the revealed path.
 
 
 ---
