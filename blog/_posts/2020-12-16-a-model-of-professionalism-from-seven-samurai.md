@@ -14,7 +14,7 @@ An article shared on Hacker News recently caught my eye. It’s a piece from _Ha
 
 > “… I’d be very interested in learning more about your company to see if there might be a fit for me.  Before doing my MBA, I worked at Bain Consulting and then prior to that was an officer in the army…”
 
-I can’t stand the notion of hawking myself in such an obnoxious and nakedly transactional manner. Sure, I concede that self-promotion is meant to address real problems associated with job hunting (_e.g._ inefficient matching market, poor signaling, short attention span of potential employers). But we should treat it as a necessary evil at best. Let’s not promote this behavior as model professional conduct when we educate our future captains of industry.
+I can’t stand the notion of hawking myself in such an obnoxious and nakedly transactional manner. Sure, I concede that self-promotion is often meant to address real problems associated with job hunting (_e.g._ inefficient matching market, poor signaling, short attention span of potential employers). But we should treat it as a necessary evil at best. Let’s not promote this behavior as model professional conduct when we educate our future captains of industry.
 
 Instead, I’d like to offer an alternate model of professionalism. It’s a distinctly Asian model, but I don’t think that will be an issue. After all, Americans are fascinated by Japanese samurai culture.
 
