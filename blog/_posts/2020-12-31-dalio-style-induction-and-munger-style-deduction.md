@@ -70,7 +70,7 @@ Now let’s take a look back at Dalio and Munger’s approaches to success:
 
 * Munger’s approach is **deductive** because it goes from general to specific: it involves building a diverse toolkit of theories from many academic disciplines, and choosing the best instrument from the toolkit to solve specific problems.
 
-There’s nothing to stop you from using both inductive and deductive reasoning to solve difficult problems. In fact, applying both is an excellent idea. As philsopher [Rober M. Pirsig](https://en.wikipedia.org/wiki/Robert_M._Pirsig) puts it  in [_Zen and the Art of Motorcycle Maintenance_](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1609462627&sr=8-2):
+There’s nothing to stop you from using both inductive and deductive reasoning to solve difficult problems. In fact, applying both is an excellent idea. As philosopher [Robert M. Pirsig](https://en.wikipedia.org/wiki/Robert_M._Pirsig) puts it  in [_Zen and the Art of Motorcycle Maintenance_](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1609462627&sr=8-2):
 
 > “Solution of problems too complicated for common sense to solve is achieved by long strings of mixed inductive and deductive inferences that weave back and forth between the observed machine and the mental hierarchy of the machine found in the manuals. The correct program for this inter-weaving is formalized as scientific method.”
 
