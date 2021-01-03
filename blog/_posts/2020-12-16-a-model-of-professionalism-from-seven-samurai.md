@@ -28,7 +28,7 @@ Towards the final act of the film, the band of samurai realizes that odds are he
 
 Undeterred, stoic Kyūzō volunteers to sneak into enemy territory alone. He marches into the distance in broad daylight, and returns by nightfall with an enemy rifle in his hands. Kyūzō hands the rifle to commander Kambei Shimada (Samurai No. 1) and simply reports: “Killed two.” Kyūzō then heads to bed.
 
-No bragging - or even further exposition - is necessary. When your mastery of sword fighting is so high, what else is there left to say? From this scene, it’s easy to conclude that Kyūzō wouldn’t be caught dead telling others:
+No bragging -- or even further exposition -- is necessary. When your mastery of sword fighting is so high, what else is there left to say? From this scene, it’s easy to conclude that Kyūzō wouldn’t be caught dead telling others:
 
 > "... I'd be interested in learning more about this job and see if there might be a fit for me. Before I was a mercenary, I served with distinction under Lord So-and-so and graduated top of my class at a renowned kenjutsu school..."
 

@@ -66,9 +66,9 @@ Be careful not to confuse the two, because Sir Arthur Conan Doyle did exactly th
 
 Now let’s take a look back at Dalio and Munger’s approaches to success:
 
-* Dalio’s approach is **inductive** because it goes from specific to general: it involves solving specific problems, documenting the decision-making criteria, and refining these criteria over time to improve their effectiveness.
+* Dalio’s approach is **mainly inductive** because it goes from specific to general: it involves solving specific problems, documenting the decision-making criteria, and refining these criteria over time to improve their general effectiveness.
 
-* Munger’s approach is **deductive** because it goes from general to specific: it involves building a diverse toolkit of theories from many academic disciplines, and choosing the best instrument from the toolkit to solve a specific problem.
+* Munger’s approach is **mainly deductive** because it goes from general to specific: it involves building a diverse toolkit of theories from many academic disciplines, and choosing the best instrument from the toolkit to solve a specific problem.
 
 There’s nothing to stop you from using both inductive and deductive reasoning to solve difficult problems. In fact, applying both is an excellent idea. As philosopher [Robert M. Pirsig](https://en.wikipedia.org/wiki/Robert_M._Pirsig) puts it  in [_Zen and the Art of Motorcycle Maintenance_](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry-ebook/dp/B0026772N8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1609462627&sr=8-2):
 
