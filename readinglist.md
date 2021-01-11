@@ -12,10 +12,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Homage to Catalonia](https://amzn.to/2GMfALw), by George Orwell
-1. [Napoleon](https://amzn.to/2zT0J1G), by Andrew Roberts
-1. [The Power Broker](https://amzn.to/3atKqVY), by Robert A. Caro
 1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
+
+
+### 2021
+
+1. [Zen and the Art of Motorcycle Maintenance](https://amzn.to/2KGpSlN), by Robert M. Pirsig
 
 
 ### 2020
@@ -32,7 +34,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Fifty Inventions That Shaped the Modern Economy](https://amzn.to/2UJ77jS), Tim Harford
 1. [Football Hackers](https://amzn.to/3jWIL07), by Christoph Biermann
 1. [Get Together](https://amzn.to/3ametPO), by Bailey Richardson, Kevin Huynh, and Kai Elmer Sotto
-1. [How the Internet Really Works](https://amzn.to/2WJipoz), by Article 19
 1. [In the Garden of Beasts](https://amzn.to/3bV0DoZ), by Erik Larson
 1. [Jurgen Klopp](https://amzn.to/3brlNuS), by Elmar Neveling
 1. [Life of Pi](https://amzn.to/3a7NTg0), Yann Martel
