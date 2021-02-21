@@ -18,6 +18,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### 2021
 
 1. [A Gentleman in Moscow](https://amzn.to/3qddvwQ), by Amor Towles
+1. [Kindred](https://amzn.to/3pBY7du), by Octavia E. Butler
+1. [The Once and Future King](https://amzn.to/2KTm9Bw), by T. H. White
 1. [The Only Woman in the Room](https://amzn.to/3a37C08), by Marie Benedict
 1. [Zen and the Art of Motorcycle Maintenance](https://amzn.to/2KGpSlN), by Robert M. Pirsig
 
