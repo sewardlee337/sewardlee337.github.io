@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Mathematician's Lament](https://amzn.to/30MwHa3), by Paul Lockhart
 1. [Kindred](https://amzn.to/3pBY7du), by Octavia E. Butler
 1. [The Book of Merlyn](https://amzn.to/3r3zxTq), by T. H. White
+1. [The Inner Game of Tennis](https://amzn.to/3r9VEHn), by W. Timothy Gallwey
 1. [The Once and Future King](https://amzn.to/2KTm9Bw), by T. H. White
 1. [The Only Woman in the Room](https://amzn.to/3a37C08), by Marie Benedict
 1. [This Year You Write Your Novel](https://amzn.to/3eohYu5), by Walter Mosley
