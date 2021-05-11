@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [The Culture Map](https://amzn.to/3qcG517), by Erin Meyer
+1. [Data in Digital Advertising](https://amzn.to/33ilH5x), by Dominik Kosorin
 1. [The Unbearable Lightness of Being](https://amzn.to/2MaEevM), by Milan Kundera
 1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
 
@@ -22,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Gentleman in Moscow](https://amzn.to/3qddvwQ), by Amor Towles
 1. [A Mathematician's Apology](https://amzn.to/3rpMx6f), by G. H. Hardy
 1. [A Mathematician's Lament](https://amzn.to/30MwHa3), by Paul Lockhart
+1. [Dirk Gently's Holistic Detective Agency](https://amzn.to/3eVCQaC), by Douglas Adams
 1. [How to Not Die Alone](https://amzn.to/3gm9nsH), by Logan Ury
 1. [Kindred](https://amzn.to/3pBY7du), by Octavia E. Butler
 1. [Masters of Doom](https://amzn.to/3fN0wjD), by David Kushner
