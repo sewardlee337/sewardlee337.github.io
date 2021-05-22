@@ -23,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Gentleman in Moscow](https://amzn.to/3qddvwQ), by Amor Towles
 1. [A Mathematician's Apology](https://amzn.to/3rpMx6f), by G. H. Hardy
 1. [A Mathematician's Lament](https://amzn.to/30MwHa3), by Paul Lockhart
+1. [Crying in H Mart](https://amzn.to/3bPltaO), by Michelle Zauner
 1. [Dirk Gently's Holistic Detective Agency](https://amzn.to/3eVCQaC), by Douglas Adams
 1. [How to Not Die Alone](https://amzn.to/3gm9nsH), by Logan Ury
 1. [Kindred](https://amzn.to/3pBY7du), by Octavia E. Butler
