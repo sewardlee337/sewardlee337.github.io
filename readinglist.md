@@ -28,6 +28,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [How to Not Die Alone](https://amzn.to/3gm9nsH), by Logan Ury
 1. [Kindred](https://amzn.to/3pBY7du), by Octavia E. Butler
 1. [Masters of Doom](https://amzn.to/3fN0wjD), by David Kushner
+1. [Operation Mincemeat](https://amzn.to/3jGpmDK), by Ben MacIntyre
 1. [The Book of Merlyn](https://amzn.to/3r3zxTq), by T. H. White
 1. [The Inner Game of Tennis](https://amzn.to/3r9VEHn), by W. Timothy Gallwey
 1. [The Ministry for the Future](https://amzn.to/39kNOUU), by Kim Stanley Robinson
