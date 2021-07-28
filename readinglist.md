@@ -26,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Crying in H Mart](https://amzn.to/3bPltaO), by Michelle Zauner
 1. [Dirk Gently's Holistic Detective Agency](https://amzn.to/3eVCQaC), by Douglas Adams
 1. [Flirtology](https://amzn.to/3y1jWHv), by Jean Smith
+1. [How to Change](https://amzn.to/3BHnAZr), by Katy Milkman
 1. [How to Not Die Alone](https://amzn.to/3gm9nsH), by Logan Ury
 1. [Kindred](https://amzn.to/3pBY7du), by Octavia E. Butler
 1. [Masters of Doom](https://amzn.to/3fN0wjD), by David Kushner
@@ -38,6 +39,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Science of Breaking Bad](https://amzn.to/2TrZ8Ka), by Dave Trumbore and Donna J. Nelson
 1. [This Year You Write Your Novel](https://amzn.to/3eohYu5), by Walter Mosley
 1. [Zen and the Art of Motorcycle Maintenance](https://amzn.to/2KGpSlN), by Robert M. Pirsig
+1. [諸子百家大解讀](https://bit.ly/3x1e6oo), 周非 著
 
 
 ### 2020
