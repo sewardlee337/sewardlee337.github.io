@@ -22,15 +22,21 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Gentleman in Moscow](https://amzn.to/3qddvwQ), by Amor Towles
 1. [A Mathematician's Apology](https://amzn.to/3rpMx6f), by G. H. Hardy
 1. [A Mathematician's Lament](https://amzn.to/30MwHa3), by Paul Lockhart
+1. [Before the Coffee Gets Cold](https://amzn.to/3EHLRAh), by Toshikazu Kawaguchi
 1. [Cold Mountain](https://amzn.to/3zwCH6o), by Charles Frazier
 1. [Crying in H Mart](https://amzn.to/3bPltaO), by Michelle Zauner
+1. [Cyrano de Bergerac](https://amzn.to/3vnARDX), by Edmond Rostand (Author) and Carol Clark (Translator)
+1. [Decoded](https://amzn.to/3pKY9CX), by Phil P. Barden
 1. [Dirk Gently's Holistic Detective Agency](https://amzn.to/3eVCQaC), by Douglas Adams
 1. [Flirtology](https://amzn.to/3y1jWHv), by Jean Smith
+1. [Foundation and Empire](https://amzn.to/3Fwsb2I), by Isaac Asimov
 1. [How to Not Die Alone](https://amzn.to/3gm9nsH), by Logan Ury
 1. [Kindred](https://amzn.to/3pBY7du), by Octavia E. Butler
 1. [Masters of Doom](https://amzn.to/3fN0wjD), by David Kushner
 1. [Operation Mincemeat](https://amzn.to/3jGpmDK), by Ben MacIntyre
 1. [Rainy Brain, Sunny Brain](https://amzn.to/38o8879), by Elaine Fox
+1. [Rebel Buddha](https://amzn.to/3mHubMC), by Dzogchen Ponlop Rinpoche
+1. [Second Foundation](https://amzn.to/3vASFeM), by Isaac Asimov
 1. [The Algebra of Happiness](https://amzn.to/3kRJNN1), by Scott Galloway
 1. [The Basic Laws of Human Stupidity](https://amzn.to/3kV8b03), by Carlo M. Cipolla
 1. [The Book of Merlyn](https://amzn.to/3r3zxTq), by T. H. White
@@ -41,6 +47,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Science of Breaking Bad](https://amzn.to/2TrZ8Ka), by Dave Trumbore and Donna J. Nelson
 1. [The Swerve](https://amzn.to/3m5V7XP), by Stephen Greenblatt
 1. [This Year You Write Your Novel](https://amzn.to/3eohYu5), by Walter Mosley
+1. [Why Fish Don't Exist](https://amzn.to/3FdGIiA), by Lulu Miller
 1. [Zen and the Art of Motorcycle Maintenance](https://amzn.to/2KGpSlN), by Robert M. Pirsig
 
 
