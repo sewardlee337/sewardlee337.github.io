@@ -23,7 +23,7 @@ Success at any meaningful endeavor begins with having the right mindset. When it
 
 > The key is to assume that your readers are as intelligent and sophisticated as you are, but that they happen not to know something you know.
 
-In other words, treat your audience with respect, and carefully consider what key pieces of information you have that they lack. Your job is to inform, not to show off how smart you are. And I hope it goes without saying that being a condescending asshole fundamentally hurts your ability to get your message across.
+In other words, treat your audience with respect, and carefully consider what key pieces of information you have that they lack. Your job is to inform, not to show off how smart you are. And I hope it goes without saying that being a patronizing asshole fundamentally hurts your ability to get your message across.
 
 ### 2. Consider the Limits of Short-Term Memory
 
