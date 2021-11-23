@@ -12,7 +12,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [How to Change](https://amzn.to/3BHnAZr), by Katy Milkman
+1. [Decoded](https://amzn.to/3pKY9CX), by Phil P. Barden
 1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
 1. [諸子百家大解讀](https://bit.ly/3x1e6oo), 周非 著
 
@@ -26,7 +26,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Cold Mountain](https://amzn.to/3zwCH6o), by Charles Frazier
 1. [Crying in H Mart](https://amzn.to/3bPltaO), by Michelle Zauner
 1. [Cyrano de Bergerac](https://amzn.to/3vnARDX), by Edmond Rostand (Author) and Carol Clark (Translator)
-1. [Decoded](https://amzn.to/3pKY9CX), by Phil P. Barden
 1. [Dirk Gently's Holistic Detective Agency](https://amzn.to/3eVCQaC), by Douglas Adams
 1. [Flirtology](https://amzn.to/3y1jWHv), by Jean Smith
 1. [Foundation and Empire](https://amzn.to/3Fwsb2I), by Isaac Asimov
