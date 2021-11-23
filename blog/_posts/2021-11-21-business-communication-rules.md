@@ -39,7 +39,7 @@ Your audience needs a reason to listen to you. If they have no clue what you’r
 
 ### 4. Present Your Ideas In a Manageable Number of Chunks
 
-Since short-term memory can only hold 7 ± 2 ideas at a time, you should carefully consider how you group your information and how much of it you should introduce. When multiple pieces of information are grouped into a meaningful [“chunk”](https://en.wikipedia.org/wiki/Chunking_(psychology), they only take up one spot in short-term memory. For example:
+Since short-term memory can only hold 7 ± 2 ideas at a time, you should carefully consider how you group your information and how much of it you should introduce. When multiple pieces of information are grouped into a meaningful [“chunk”](https://en.wikipedia.org/wiki/Chunking_(psychology\)), they only take up one spot in short-term memory. For example:
 
 * A random sequence of numbers such as 8-6-7-5-3-0-9 is difficult to remember because it consists of seven discrete pieces of information.
 
@@ -81,7 +81,7 @@ Organizing information into hierarchical structure requires hard work, but the w
 
 When your information is organized in a hierarchy, it’s easy to tell the difference between high-level ideas and details. You need to convey the high-level ideas in every conversation related to your topic. How much you want to dive into the details will depend on if you're giving a regular elevator pitch or if you're trapped in that elevator with Elon Musk.
 
-In his book [_Principles_](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=sr_1_1?keywords=principles&qid=1637652506&qsid=140-7025314-2954655&sr=8-1&sres=1501124021%2C1982160276%2C0062997459%2C1982147210%2C1305271483%2CB07G4KDLTZ%2CB083JKQPVQ%2C1319228003%2C1259642232%2C0987507133%2C1506267025%2C0062364286%2CB092ZYDDXV%2C1683670329%2C1284172392%2C1737846209&srpt=ABIS_BOOK), Ray Dalio presents uses following four illustrations to demonstrate what it means to stay focused on the high-level.
+In his book [_Principles_](https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=sr_1_1?keywords=principles&qid=1637652506&qsid=140-7025314-2954655&sr=8-1&sres=1501124021%2C1982160276%2C0062997459%2C1982147210%2C1305271483%2CB07G4KDLTZ%2CB083JKQPVQ%2C1319228003%2C1259642232%2C0987507133%2C1506267025%2C0062364286%2CB092ZYDDXV%2C1683670329%2C1284172392%2C1737846209&srpt=ABIS_BOOK), Ray Dalio uses the following four illustrations to demonstrate what it means to stay focused on the high-level.
 
 <p align="center">
 <img src = "/assets/images/principles.png">
