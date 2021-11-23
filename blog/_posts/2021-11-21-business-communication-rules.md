@@ -96,7 +96,7 @@ See what I just did there? A picture is truly worth a thousand words.
 
 ### 8. Reduce Your Use of Acronyms
 
-In _A Brief History of Time_, Stephen Hawking explains that his book on astrophysics only contains one equation (_E = mc<sup>2</sup>_) because “each equation [he] included in the book would halve the sales.” In the same spirit, I offer this rule-of-thumb: each acronym you use halves your potential audience.
+In [_A Brief History of Time_](https://www.amazon.com/Brief-History-Time-Stephen-Hawking-ebook/dp/B004WY3D0O/ref=sr_1_1?keywords=a+brief+history+of+time&qid=1637655838&qsid=140-7025314-2954655&sr=8-1&sres=0553380168%2C0553103741%2C0553109537%2C0553385461%2C0385365977%2C055305340X%2C0307291227%2C0307291170%2CB018IUZIQE%2CB07DLB6MRM%2C0199301085%2CB0741F3M7C%2C048641714X%2CB0000U7N00%2CB06XB2PX7G%2C1984819194&srpt=ABIS_BOOK), Stephen Hawking explains that his book on astrophysics only contains one equation (_E = mc<sup>2</sup>_) because “each equation [he] included in the book would halve the sales.” In the same spirit, I offer this rule-of-thumb: each acronym you use halves your potential audience.
 
 Suppose you work for a large corporation, and you’re giving a presentation on cloud computing to a diverse group of stakeholders. Don’t automatically assume your audience knows that an “ASG” is an "Auto Scaling Group", or that “EC2” stands for “Elastic Compute Cloud”. Carefully consider whether they do before turning your presentation into an alphabet soup. Or better yet, either spell out the actual words or ditch the jargon in favor of simpler language.
 
