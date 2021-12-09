@@ -2,7 +2,7 @@
 layout:     post
 title:      The Language of Self-Commodification
 date:       2021-12-08
-summary:    Stop talking about “building your brand” or “selling yourself.”
+summary:    Stop talking about “building your personal brand” or “selling yourself.”
 categories: [personal]
 tags: [personal]
 ---
