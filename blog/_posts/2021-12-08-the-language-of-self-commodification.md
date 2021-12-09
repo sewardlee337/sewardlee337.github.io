@@ -2,7 +2,7 @@
 layout:     post
 title:      The Language of Self-Commodification
 date:       2021-12-04
-summary:    Stop talking about “building your brand” or “selling yourself”.
+summary:    Stop talking about “building your brand” or “selling yourself.”
 categories: [personal]
 tags: [personal]
 ---
@@ -15,7 +15,7 @@ People often complain about how capitalism dominates all aspects of life and rui
 
 I’m worried about the commodification of people, and it scares me that people are doing it to themselves. Isn’t that what we do when we advise each other to “brand” and “sell” ourselves? Like sneakers, laundry detergent, or breakfast cereal?
 
-At the same time, businesses have entire departments dedicated to giving their social media profiles a “personality”. So while businesses embrace the value of being human, actual people opt to treat themselves as products instead. Isn’t that ironic?
+At the same time, businesses have entire departments dedicated to giving their social media profiles a “personality.” So while businesses embrace the value of being human, actual people opt to treat themselves as products instead. Isn’t that ironic?
 
 This, my friends, is what the triumph of capitalism looks like.
 
