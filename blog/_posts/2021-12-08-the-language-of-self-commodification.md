@@ -19,7 +19,7 @@ At the same time, businesses have entire departments dedicated to giving their s
 
 This, my friends, is what the triumph of capitalism looks like.
 
-I never tell people to “build their brand” or “sell themselves”. Instead, I advise them to “build a reputation for competence” and “grow your relationships.” It may sound like I'm splitting hairs, but I believe that the language we use to talk about ourselves matters. When people self-identify as commodities — rather than human beings — the world is a bleaker and more dystopian place.
+I never tell people to “build their brand” or “sell themselves.” Instead, I advise them to “build a reputation for competence” and “grow your relationships.” It may sound like I'm splitting hairs, but I believe that the language we use to talk about ourselves matters. When people self-identify as commodities — rather than human beings — the world is a bleaker and more dystopian place.
 
 
 ---
