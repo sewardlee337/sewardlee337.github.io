@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Decoded](https://amzn.to/3pKY9CX), by Phil P. Barden
+1. [Dune](https://amzn.to/31dLjD0), by Frank Herbert
 1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
 1. [諸子百家大解讀](https://bit.ly/3x1e6oo), 周非 著
 
@@ -39,6 +40,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Algebra of Happiness](https://amzn.to/3kRJNN1), by Scott Galloway
 1. [The Basic Laws of Human Stupidity](https://amzn.to/3kV8b03), by Carlo M. Cipolla
 1. [The Book of Merlyn](https://amzn.to/3r3zxTq), by T. H. White
+1. [The Dark Side of the Light Chasers](https://amzn.to/3rdTtWN), by Debbie Ford
 1. [The Inner Game of Tennis](https://amzn.to/3r9VEHn), by W. Timothy Gallwey
 1. [The Ministry for the Future](https://amzn.to/39kNOUU), by Kim Stanley Robinson
 1. [The Once and Future King](https://amzn.to/2KTm9Bw), by T. H. White
