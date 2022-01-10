@@ -19,6 +19,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### 2022
 
 1. [All Systems Red](https://amzn.to/3Fq03xP), by Martha Wells
+1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 
 
 
