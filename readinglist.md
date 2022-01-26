@@ -12,15 +12,16 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Decoded](https://amzn.to/3pKY9CX), by Phil P. Barden
-1. [每天讀一點孫子兵法](https://bit.ly/3bNxnPL), 孫武 著, 東籬子 譯
-1. [諸子百家大解讀](https://bit.ly/3x1e6oo), 周非 著
+1. [The Effective Executive](https://amzn.to/3qaVIId), by Peter F. Drucker
+1. [The Psychology of Money](https://amzn.to/33veRNl), by Morgan Housel
+
 
 ### 2022
 
 1. [All Systems Red](https://amzn.to/3Fq03xP), by Martha Wells
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 1. [明朝那些事兒 第貳部：萬國來朝](https://bit.ly/3JM0ZyV), 當年明月 著
+1. [明朝那些事兒 第參部：妖孽宮廷](https://bit.ly/3KCeotF), 當年明月 著
 
 
 ### 2021
