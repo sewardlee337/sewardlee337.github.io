@@ -19,6 +19,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### 2022
 
 1. [All Systems Red](https://amzn.to/3Fq03xP), by Martha Wells
+1. [Blood, Sweat, and Pixels](https://amzn.to/3s0hqQ4), by Jason Schreier
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 1. [The Psychology of Money](https://amzn.to/33veRNl), by Morgan Housel
 1. [明朝那些事兒 第貳部：萬國來朝](https://bit.ly/3JM0ZyV), 當年明月 著
