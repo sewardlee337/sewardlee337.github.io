@@ -13,7 +13,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
-1. [The Man Without a Face](https://amzn.to/35nGJnY), by Masha Gessen
 1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
 1. [The Sun Also Rises](https://amzn.to/3HMuoHL), by Ernest Hemingway
 
@@ -26,6 +25,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 1. [The Effective Executive](https://amzn.to/3qaVIId), by Peter F. Drucker
 1. [The Hero Code](https://amzn.to/3vMJU3v), by William H. McRaven
+1. [The Man Without a Face](https://amzn.to/35nGJnY), by Masha Gessen
 1. [The Psychology of Money](https://amzn.to/33veRNl), by Morgan Housel
 1. [The Runaway Species](https://amzn.to/37E46KR), by David Eagleman and Anthony Brandt
 1. [When We Cease to Understand the World](https://amzn.to/3vj6fW5), by Benjamín Labatut
