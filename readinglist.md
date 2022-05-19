@@ -14,6 +14,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
 1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
+1. [The Changing World Order](https://amzn.to/38B3ohG), by Ray Dalio
 1. [The Sun Also Rises](https://amzn.to/3HMuoHL), by Ernest Hemingway
 
 
@@ -23,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Almost Everything](https://amzn.to/33ZdBmk), by Anne Lamott
 1. [Blood, Sweat, and Pixels](https://amzn.to/3s0hqQ4), by Jason Schreier
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
+1. [The Creative Gene](https://amzn.to/3w7CaY6), by Hideo Kojima
 1. [The Effective Executive](https://amzn.to/3qaVIId), by Peter F. Drucker
 1. [The Hero Code](https://amzn.to/3vMJU3v), by William H. McRaven
 1. [The Man Without a Face](https://amzn.to/35nGJnY), by Masha Gessen
