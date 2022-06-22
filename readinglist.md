@@ -23,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Almost Everything](https://amzn.to/33ZdBmk), by Anne Lamott
 1. [Babel No More](https://amzn.to/3xaJeDP), by Michael Erard
 1. [Blood, Sweat, and Pixels](https://amzn.to/3s0hqQ4), by Jason Schreier
+1. [Building a Second Brain](https://amzn.to/39LpI9p), by Tiago Forte
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 1. [Shibumi](https://amzn.to/3yItrPf), by Trevanian
 1. [Switch](https://amzn.to/3zlhZcv), by Chip Heath and Dan Heath
