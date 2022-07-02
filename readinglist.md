@@ -25,6 +25,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Blood, Sweat, and Pixels](https://amzn.to/3s0hqQ4), by Jason Schreier
 1. [Building a Second Brain](https://amzn.to/39LpI9p), by Tiago Forte
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
+1. [Every Tool's a Hammer](https://amzn.to/3A1N8SD), by Adam Savage
 1. [Shibumi](https://amzn.to/3yItrPf), by Trevanian
 1. [Switch](https://amzn.to/3zlhZcv), by Chip Heath and Dan Heath
 1. [Take More Vacations](https://amzn.to/3lovz6J), by Scott Keyes
