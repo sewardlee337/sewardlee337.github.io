@@ -13,8 +13,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
-1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
 1. [The Changing World Order](https://amzn.to/38B3ohG), by Ray Dalio
+1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
 
 
 ### 2022
@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Babel No More](https://amzn.to/3xaJeDP), by Michael Erard
 1. [Blood, Sweat, and Pixels](https://amzn.to/3s0hqQ4), by Jason Schreier
 1. [Building a Second Brain](https://amzn.to/39LpI9p), by Tiago Forte
+1. [Ego, Authority, Failure](https://amzn.to/3OTR3Fa), by Derek Gaunt
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 1. [Every Tool's a Hammer](https://amzn.to/3A1N8SD), by Adam Savage
 1. [Shibumi](https://amzn.to/3yItrPf), by Trevanian
