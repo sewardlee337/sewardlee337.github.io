@@ -30,6 +30,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Shibumi](https://amzn.to/3yItrPf), by Trevanian
 1. [Switch](https://amzn.to/3zlhZcv), by Chip Heath and Dan Heath
 1. [Take More Vacations](https://amzn.to/3lovz6J), by Scott Keyes
+1. [The Art of Innovation](https://amzn.to/3Ilqt5Y), by Tom Kelley and Jonathan Littman
 1. [The Creative Gene](https://amzn.to/3w7CaY6), by Hideo Kojima
 1. [The Effective Executive](https://amzn.to/3qaVIId), by Peter F. Drucker
 1. [The Hero Code](https://amzn.to/3vMJU3v), by William H. McRaven
