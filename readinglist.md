@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
+1. [Nonviolent Communication](https://amzn.to/3Omns6T), by Marshall B. Rosenberg
 1. [The Changing World Order](https://amzn.to/38B3ohG), by Ray Dalio
 1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
 
@@ -30,6 +31,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Shibumi](https://amzn.to/3yItrPf), by Trevanian
 1. [Switch](https://amzn.to/3zlhZcv), by Chip Heath and Dan Heath
 1. [Take More Vacations](https://amzn.to/3lovz6J), by Scott Keyes
+1. [Ten Caesars](https://amzn.to/3vbPSJO), by Barry Strauss
 1. [The Art of Innovation](https://amzn.to/3Ilqt5Y), by Tom Kelley and Jonathan Littman
 1. [The Creative Gene](https://amzn.to/3w7CaY6), by Hideo Kojima
 1. [The Effective Executive](https://amzn.to/3qaVIId), by Peter F. Drucker
