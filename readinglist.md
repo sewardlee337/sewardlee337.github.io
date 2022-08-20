@@ -13,9 +13,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
-1. [Nonviolent Communication](https://amzn.to/3Omns6T), by Marshall B. Rosenberg
 1. [The Changing World Order](https://amzn.to/38B3ohG), by Ray Dalio
 1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
+1. [Nonviolent Communication](https://amzn.to/3Omns6T), by Marshall B. Rosenberg
 
 
 ### 2022
@@ -40,6 +40,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Man Without a Face](https://amzn.to/35nGJnY), by Masha Gessen
 1. [The Psychology of Money](https://amzn.to/33veRNl), by Morgan Housel
 1. [The Runaway Species](https://amzn.to/37E46KR), by David Eagleman and Anthony Brandt
+1. [The Score Takes Care of Itself](https://amzn.to/3wfhgas), by Bill Walsh, Steve Jamison, and Craig Walsh
 1. [When We Cease to Understand the World](https://amzn.to/3vj6fW5), by Benjamín Labatut
 1. [Who Gets What — and Why](https://amzn.to/3OzjFo3), by Alvin E. Roth
 1. [明朝那些事兒 第貳部：萬國來朝](https://bit.ly/3JM0ZyV), 當年明月 著
