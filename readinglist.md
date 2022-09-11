@@ -42,6 +42,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Psychology of Money](https://amzn.to/33veRNl), by Morgan Housel
 1. [The Runaway Species](https://amzn.to/37E46KR), by David Eagleman and Anthony Brandt
 1. [The Score Takes Care of Itself](https://amzn.to/3wfhgas), by Bill Walsh, Steve Jamison, and Craig Walsh
+1. [Think Again](https://amzn.to/3L2Sfp8), by Adam Grant
 1. [When We Cease to Understand the World](https://amzn.to/3vj6fW5), by Benjamín Labatut
 1. [Who Gets What — and Why](https://amzn.to/3OzjFo3), by Alvin E. Roth
 1. [明朝那些事兒 第貳部：萬國來朝](https://bit.ly/3JM0ZyV), 當年明月 著
