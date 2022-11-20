@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
+1. [Converted](https://amzn.to/3E2EBPX), by Neil Hoyne
 1. [The Changing World Order](https://amzn.to/38B3ohG), by Ray Dalio
 1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
 
@@ -26,6 +27,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Blood, Sweat, and Pixels](https://amzn.to/3s0hqQ4), by Jason Schreier
 1. [Boyd](https://amzn.to/3DucM2F), by Robert Coram
 1. [Building a Second Brain](https://amzn.to/39LpI9p), by Tiago Forte
+1. [Certain to Win](https://amzn.to/3Eps0aA), by Chet Richards
 1. [Ego, Authority, Failure](https://amzn.to/3OTR3Fa), by Derek Gaunt
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 1. [Every Tool's a Hammer](https://amzn.to/3A1N8SD), by Adam Savage
@@ -33,7 +35,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Inner Engineering](https://amzn.to/3QRBQ8s), by Sadhguru
 1. [Nonviolent Communication](https://amzn.to/3Omns6T), by Marshall B. Rosenberg
 1. [Press Reset](https://amzn.to/3RAPPA8), by Jason Schreier
-1. [Shackleton](https://amzn.to/3DZIt5m), by Ranulph Fiennes 
+1. [Shackleton](https://amzn.to/3DZIt5m), by Ranulph Fiennes
 1. [Shibumi](https://amzn.to/3yItrPf), by Trevanian
 1. [Switch](https://amzn.to/3zlhZcv), by Chip Heath and Dan Heath
 1. [Take More Vacations](https://amzn.to/3lovz6J), by Scott Keyes
