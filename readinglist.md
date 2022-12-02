@@ -28,6 +28,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Boyd](https://amzn.to/3DucM2F), by Robert Coram
 1. [Building a Second Brain](https://amzn.to/39LpI9p), by Tiago Forte
 1. [Certain to Win](https://amzn.to/3Eps0aA), by Chet Richards
+1. [Cochrane the Dauntless](https://amzn.to/3VFjwlS), by David Cordingly
 1. [Ego, Authority, Failure](https://amzn.to/3OTR3Fa), by Derek Gaunt
 1. [Eisenhower in War and Peace](https://amzn.to/3JtzeLm), by Jean Edward Smith
 1. [Every Tool's a Hammer](https://amzn.to/3A1N8SD), by Adam Savage
