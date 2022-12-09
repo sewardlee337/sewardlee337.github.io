@@ -45,6 +45,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Creative Gene](https://amzn.to/3w7CaY6), by Hideo Kojima
 1. [The Effective Executive](https://amzn.to/3qaVIId), by Peter F. Drucker
 1. [The Hero Code](https://amzn.to/3vMJU3v), by William H. McRaven
+1. [The Long Ships](https://amzn.to/3EYjdf4), by Frans G. Bengtsson
 1. [The Making of a Manager](https://amzn.to/3ELzF3N), by Julie Zhuo
 1. [The Making of Prince of Persia](https://amzn.to/3zhC5UU), by Jordan Mechner
 1. [The Man Without a Face](https://amzn.to/35nGJnY), by Masha Gessen
