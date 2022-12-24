@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Almost Everything](https://amzn.to/33ZdBmk), by Anne Lamott
 1. [Anxious People](https://amzn.to/3NtvFr4), by Fredrik Backman
 1. [Babel No More](https://amzn.to/3xaJeDP), by Michael Erard
+1. [Be Exceptional](https://amzn.to/3FROLUm), by Joe Navarro
 1. [Blood, Sweat, and Pixels](https://amzn.to/3s0hqQ4), by Jason Schreier
 1. [Boyd](https://amzn.to/3DucM2F), by Robert Coram
 1. [Building a Second Brain](https://amzn.to/39LpI9p), by Tiago Forte
