@@ -14,8 +14,13 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
 1. [Converted](https://amzn.to/3E2EBPX), by Neil Hoyne
+1. [Crossing the Chasm](https://amzn.to/3FVf3F3), by Geoffrey A. Moore
 1. [The Changing World Order](https://amzn.to/38B3ohG), by Ray Dalio
-1. [The Mythical Man-Month](https://amzn.to/3hWJa3m), by Frederick P. Brooks, Jr.
+
+
+### 2023
+
+1. [Dangerous Personalities](https://amzn.to/3IqofnT), by Joe Navarro
 
 
 ### 2022
@@ -45,6 +50,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Art of Innovation](https://amzn.to/3Ilqt5Y), by Tom Kelley and Jonathan Littman
 1. [The Creative Gene](https://amzn.to/3w7CaY6), by Hideo Kojima
 1. [The Effective Executive](https://amzn.to/3qaVIId), by Peter F. Drucker
+1. [The FBI Way](https://amzn.to/3GiynMW), by Frank Figliuzzi
 1. [The Hero Code](https://amzn.to/3vMJU3v), by William H. McRaven
 1. [The Long Ships](https://amzn.to/3EYjdf4), by Frans G. Bengtsson
 1. [The Making of a Manager](https://amzn.to/3ELzF3N), by Julie Zhuo
