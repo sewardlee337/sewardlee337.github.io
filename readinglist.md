@@ -20,7 +20,11 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### 2023
 
+1. [American Icon](https://amzn.to/3YaxBbO), by Bryce G. Hoffman
 1. [Dangerous Personalities](https://amzn.to/3IqofnT), by Joe Navarro
+1. [Don't Think of an Elephant](https://amzn.to/3ZRSquz), by George Lakoff
+1. [Team of Teams](https://amzn.to/3IWlWZN), by Stanley McChrystal
+1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 
 
 ### 2022
