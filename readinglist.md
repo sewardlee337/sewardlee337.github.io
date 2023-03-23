@@ -28,6 +28,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
+1. [王陽明的心學](https://bit.ly/3z00T2z), 廖春紅 著
 
 
 ### 2022
