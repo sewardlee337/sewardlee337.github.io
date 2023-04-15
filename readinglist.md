@@ -20,6 +20,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### 2023
 
+1. [A Modern Man](https://amzn.to/3GKuelK), by George Carlin
 1. [American Icon](https://amzn.to/3YaxBbO), by Bryce G. Hoffman
 1. [Can You Learn to Be Lucky?](https://amzn.to/3T7vSD2), by Karla Starr
 1. [Dangerous Personalities](https://amzn.to/3IqofnT), by Joe Navarro
@@ -27,6 +28,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Team of Teams](https://amzn.to/3IWlWZN), by Stanley McChrystal
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
+1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kotler
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
 1. [王陽明的心學](https://bit.ly/3z00T2z), 廖春紅 著
