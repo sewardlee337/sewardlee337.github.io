@@ -22,9 +22,11 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [A Modern Man](https://amzn.to/3GKuelK), by George Carlin
 1. [American Icon](https://amzn.to/3YaxBbO), by Bryce G. Hoffman
+1. [American Prometheus](https://amzn.to/3ol7l1P), by Kai Bird and Martin J. Sherwin
 1. [Can You Learn to Be Lucky?](https://amzn.to/3T7vSD2), by Karla Starr
 1. [Dangerous Personalities](https://amzn.to/3IqofnT), by Joe Navarro
 1. [Don't Think of an Elephant](https://amzn.to/3ZRSquz), by George Lakoff
+1. [Making Hope Happen](https://amzn.to/3ogUkqb), by Shane J. Lopez
 1. [Team of Teams](https://amzn.to/3IWlWZN), by Stanley McChrystal
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
