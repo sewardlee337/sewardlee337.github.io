@@ -28,8 +28,10 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Don't Think of an Elephant](https://amzn.to/3ZRSquz), by George Lakoff
 1. [Making Hope Happen](https://amzn.to/3ogUkqb), by Shane J. Lopez
 1. [Team of Teams](https://amzn.to/3IWlWZN), by Stanley McChrystal
+1. [The 15 Commitments of Conscious Leadership](https://amzn.to/41YfqYB), by Jim Dethmer, Diana Chapman, and Kaley Klemp
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
+1. [The Name of the Rose](https://amzn.to/3oitMoS), by Umberto Eco
 1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kotler
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
