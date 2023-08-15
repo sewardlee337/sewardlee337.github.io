@@ -20,15 +20,20 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### 2023
 
+1. [101 Essays That Will Change the Way You Think](https://www.amazon.com/Essays-That-Will-Change-Think-ebook/dp/B01MYMUGQL/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1690520487&sr=8-1), by Brianna Wiest
 1. [A Modern Man](https://amzn.to/3GKuelK), by George Carlin
 1. [American Icon](https://amzn.to/3YaxBbO), by Bryce G. Hoffman
 1. [American Prometheus](https://amzn.to/3ol7l1P), by Kai Bird and Martin J. Sherwin
+1. [Attached](https://www.amazon.com/Attached-Attachment-Find-Keep-Love-Find-ebook/dp/B0049H9AVU/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687720325&sr=8-1), by Amir Levine and Rachel S. F. Heller
 1. [Can You Learn to Be Lucky?](https://amzn.to/3T7vSD2), by Karla Starr
 1. [Dangerous Personalities](https://amzn.to/3IqofnT), by Joe Navarro
 1. [Don't Think of an Elephant](https://amzn.to/3ZRSquz), by George Lakoff
 1. [Making Hope Happen](https://amzn.to/3ogUkqb), by Shane J. Lopez
+1. [Sense and Sensibility](https://www.amazon.com/Sense-Sensibility-Penguin-Red-Classics-ebook/dp/B002XHNOKQ/ref=sr_1_1?keywords=sense+and+sensibility+penguin+kindle&qid=1692069649&sr=8-1), by Jane Austen
 1. [Team of Teams](https://amzn.to/3IWlWZN), by Stanley McChrystal
 1. [The 15 Commitments of Conscious Leadership](https://amzn.to/41YfqYB), by Jim Dethmer, Diana Chapman, and Kaley Klemp
+1. [The Doorstep Mile](https://www.amazon.com/Doorstep-Mile-Live-Adventurously-Every-ebook/dp/B082BGD7QR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687644616&sr=8-1), by Alastair Humphreys
+1. [The Greatest Invention](https://www.amazon.com/Greatest-Invention-History-Mysterious-Scripts-ebook/dp/B092T97RRM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1688506774&sr=8-1), by Silvia Ferrara
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
 1. [The Name of the Rose](https://amzn.to/3oitMoS), by Umberto Eco
