@@ -35,6 +35,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Doorstep Mile](https://www.amazon.com/Doorstep-Mile-Live-Adventurously-Every-ebook/dp/B082BGD7QR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687644616&sr=8-1), by Alastair Humphreys
 1. [The Greatest Invention](https://www.amazon.com/Greatest-Invention-History-Mysterious-Scripts-ebook/dp/B092T97RRM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1688506774&sr=8-1), by Silvia Ferrara
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
+1. [The Longest Way Home](https://www.amazon.com/Longest-Way-Home-Courage-Settle-ebook/dp/B0061OI0VK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1692481735&sr=8-1), by Andrew McCarthy
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
 1. [The Name of the Rose](https://amzn.to/3oitMoS), by Umberto Eco
 1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kotler
