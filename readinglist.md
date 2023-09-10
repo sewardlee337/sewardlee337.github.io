@@ -31,6 +31,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [I, Claudius](https://www.amazon.com/I-Claudius-Robert-Graves-ebook/dp/B07NMNS2NY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1692596081&sr=8-1), by Robert Graves
 1. [Making Hope Happen](https://amzn.to/3ogUkqb), by Shane J. Lopez
 1. [Sense and Sensibility](https://www.amazon.com/Sense-Sensibility-Penguin-Red-Classics-ebook/dp/B002XHNOKQ/ref=sr_1_1?keywords=sense+and+sensibility+penguin+kindle&qid=1692069649&sr=8-1), by Jane Austen
+1. [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B002Q6XUE4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1694378736&sr=8-1), by Simon Sinek
 1. [Team of Teams](https://amzn.to/3IWlWZN), by Stanley McChrystal
 1. [The 15 Commitments of Conscious Leadership](https://amzn.to/41YfqYB), by Jim Dethmer, Diana Chapman, and Kaley Klemp
 1. [The Doorstep Mile](https://www.amazon.com/Doorstep-Mile-Live-Adventurously-Every-ebook/dp/B082BGD7QR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687644616&sr=8-1), by Alastair Humphreys
