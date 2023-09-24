@@ -46,6 +46,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale-ebook/dp/B00SC849YK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1695536221&sr=8-1), by Taiichi Ohno
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
 1. [王陽明的心學](https://bit.ly/3z00T2z), 廖春紅 著
+1. [唯一的規則](https://www.books.com.tw/products/0010462556), 李零 著
 
 
 ### 2022
