@@ -43,6 +43,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Name of the Rose](https://amzn.to/3oitMoS), by Umberto Eco
 1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kotler
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
+1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale-ebook/dp/B00SC849YK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1695536221&sr=8-1), by Taiichi Ohno
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
 1. [王陽明的心學](https://bit.ly/3z00T2z), 廖春紅 著
 
