@@ -42,6 +42,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
 1. [The Name of the Rose](https://amzn.to/3oitMoS), by Umberto Eco
 1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kotler
+1. [The Untethered Soul](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself-ebook/dp/B003TU29WA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1696753133&sr=8-1), by Michael A. Singer
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
 1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale-ebook/dp/B00SC849YK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1695536221&sr=8-1), by Taiichi Ohno
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
