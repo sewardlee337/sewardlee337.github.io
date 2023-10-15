@@ -26,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [American Prometheus](https://amzn.to/3ol7l1P), by Kai Bird and Martin J. Sherwin
 1. [Attached](https://www.amazon.com/Attached-Attachment-Find-Keep-Love-Find-ebook/dp/B0049H9AVU/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687720325&sr=8-1), by Amir Levine and Rachel S. F. Heller
 1. [Can You Learn to Be Lucky?](https://amzn.to/3T7vSD2), by Karla Starr
+1. [Clear Thinking](https://www.amazon.com/Clear-Thinking-Turning-Ordinary-Extraordinary-ebook/dp/B0BRMPJ8DR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1697346163&sr=8-1), by Shane Parrish
 1. [Dangerous Personalities](https://amzn.to/3IqofnT), by Joe Navarro
 1. [Don't Think of an Elephant](https://amzn.to/3ZRSquz), by George Lakoff
 1. [I, Claudius](https://www.amazon.com/I-Claudius-Robert-Graves-ebook/dp/B07NMNS2NY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1692596081&sr=8-1), by Robert Graves
