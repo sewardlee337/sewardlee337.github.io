@@ -22,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [101 Essays That Will Change the Way You Think](https://www.amazon.com/Essays-That-Will-Change-Think-ebook/dp/B01MYMUGQL/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1690520487&sr=8-1), by Brianna Wiest
 1. [A Modern Man](https://amzn.to/3GKuelK), by George Carlin
+1. [Alchemy](https://www.amazon.com/Alchemy-Curious-Science-Creating-Business-ebook/dp/B071DCWRG3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1698600497&sr=8-1), by Rory Sutherland
 1. [American Icon](https://amzn.to/3YaxBbO), by Bryce G. Hoffman
 1. [American Prometheus](https://amzn.to/3ol7l1P), by Kai Bird and Martin J. Sherwin
 1. [Attached](https://www.amazon.com/Attached-Attachment-Find-Keep-Love-Find-ebook/dp/B0049H9AVU/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687720325&sr=8-1), by Amir Levine and Rachel S. F. Heller
