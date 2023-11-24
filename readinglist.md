@@ -12,17 +12,15 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [1587, A Year of No Significance](https://amzn.to/34djZWU), by Ray Huang
-1. [Converted](https://amzn.to/3E2EBPX), by Neil Hoyne
-1. [Crossing the Chasm](https://amzn.to/3FVf3F3), by Geoffrey A. Moore
-1. [The Changing World Order](https://amzn.to/38B3ohG), by Ray Dalio
+1. [Alchemy](https://www.amazon.com/Alchemy-Curious-Science-Creating-Business-ebook/dp/B071DCWRG3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1698600497&sr=8-1), by Rory Sutherland
+1. [唯一的規則](https://www.books.com.tw/products/0010462556), 李零 著
+
 
 
 ### 2023
 
 1. [101 Essays That Will Change the Way You Think](https://www.amazon.com/Essays-That-Will-Change-Think-ebook/dp/B01MYMUGQL/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1690520487&sr=8-1), by Brianna Wiest
 1. [A Modern Man](https://amzn.to/3GKuelK), by George Carlin
-1. [Alchemy](https://www.amazon.com/Alchemy-Curious-Science-Creating-Business-ebook/dp/B071DCWRG3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1698600497&sr=8-1), by Rory Sutherland
 1. [American Icon](https://amzn.to/3YaxBbO), by Bryce G. Hoffman
 1. [American Prometheus](https://amzn.to/3ol7l1P), by Kai Bird and Martin J. Sherwin
 1. [Attached](https://www.amazon.com/Attached-Attachment-Find-Keep-Love-Find-ebook/dp/B0049H9AVU/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687720325&sr=8-1), by Amir Levine and Rachel S. F. Heller
@@ -33,23 +31,27 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [I, Claudius](https://www.amazon.com/I-Claudius-Robert-Graves-ebook/dp/B07NMNS2NY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1692596081&sr=8-1), by Robert Graves
 1. [Making Hope Happen](https://amzn.to/3ogUkqb), by Shane J. Lopez
 1. [Making Work Visible](https://www.amazon.com/Making-Work-Visible-Second-Exposing-ebook/dp/B09L3B9YK1/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1694974759&sr=8-1), by Dominica DeGrandis
+1. [Range](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/0735214484), by David Epstein
 1. [Sense and Sensibility](https://www.amazon.com/Sense-Sensibility-Penguin-Red-Classics-ebook/dp/B002XHNOKQ/ref=sr_1_1?keywords=sense+and+sensibility+penguin+kindle&qid=1692069649&sr=8-1), by Jane Austen
 1. [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B002Q6XUE4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1694378736&sr=8-1), by Simon Sinek
 1. [Team of Teams](https://amzn.to/3IWlWZN), by Stanley McChrystal
 1. [The 15 Commitments of Conscious Leadership](https://amzn.to/41YfqYB), by Jim Dethmer, Diana Chapman, and Kaley Klemp
+1. [The Choice Factory](https://www.amazon.com/Choice-Factory-behavioural-biases-influence/dp/085719609X), by Richard Shotton
 1. [The Doorstep Mile](https://www.amazon.com/Doorstep-Mile-Live-Adventurously-Every-ebook/dp/B082BGD7QR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687644616&sr=8-1), by Alastair Humphreys
 1. [The Greatest Invention](https://www.amazon.com/Greatest-Invention-History-Mysterious-Scripts-ebook/dp/B092T97RRM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1688506774&sr=8-1), by Silvia Ferrara
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 1. [The Longest Way Home](https://www.amazon.com/Longest-Way-Home-Courage-Settle-ebook/dp/B0061OI0VK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1692481735&sr=8-1), by Andrew McCarthy
 1. [The Medium is the Massage](https://amzn.to/3YGt9lg), by Marshall McLuhan and Quentin Fiore
 1. [The Name of the Rose](https://amzn.to/3oitMoS), by Umberto Eco
-1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kotler
+1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kohler
 1. [The Untethered Soul](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself-ebook/dp/B003TU29WA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1696753133&sr=8-1), by Michael A. Singer
+1. [The Wisdom of the Bullfrog](https://www.amazon.com/Wisdom-Bullfrog-Leadership-Made-Simple-ebook/dp/B0B8YX2GTB), by William H. McRaven
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
-1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale-ebook/dp/B00SC849YK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1695536221&sr=8-1), by Taiichi Ohno
+1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143), by Taiichi Ohno
+1. [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304), by Marshall Goldsmith
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
 1. [王陽明的心學](https://bit.ly/3z00T2z), 廖春紅 著
-1. [唯一的規則](https://www.books.com.tw/products/0010462556), 李零 著
+1. [武林正史](https://www.books.com.tw/products/0010811371?sloc=main), 古人很潮 編著
 
 
 ### 2022
