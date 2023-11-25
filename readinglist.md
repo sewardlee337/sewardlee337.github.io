@@ -49,6 +49,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
 1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143), by Taiichi Ohno
 1. [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304), by Marshall Goldsmith
+1. [大道至拙](https://www.books.com.tw/products/0010646648?sloc=main), 宮玉振 著
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
 1. [王陽明的心學](https://bit.ly/3z00T2z), 廖春紅 著
 1. [武林正史](https://www.books.com.tw/products/0010811371?sloc=main), 古人很潮 編著
