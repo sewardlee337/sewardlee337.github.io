@@ -46,6 +46,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Rise of Superman](https://amzn.to/3MKiIuo), by Steven Kohler
 1. [The Untethered Soul](https://www.amazon.com/Untethered-Soul-Journey-Beyond-Yourself-ebook/dp/B003TU29WA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1696753133&sr=8-1), by Michael A. Singer
 1. [The Wisdom of the Bullfrog](https://www.amazon.com/Wisdom-Bullfrog-Leadership-Made-Simple-ebook/dp/B0B8YX2GTB), by William H. McRaven
+1. [The World at Night](https://www.amazon.com/World-at-Night-Novel/dp/0375758585), by Alan Furst
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
 1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143), by Taiichi Ohno
 1. [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304), by Marshall Goldsmith
