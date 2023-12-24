@@ -16,7 +16,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [唯一的規則](https://www.books.com.tw/products/0010462556), 李零 著
 
 
-
 ### 2023
 
 1. [101 Essays That Will Change the Way You Think](https://www.amazon.com/Essays-That-Will-Change-Think-ebook/dp/B01MYMUGQL/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1690520487&sr=8-1), by Brianna Wiest
@@ -50,6 +49,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Time and How to Spend It](https://amzn.to/3ZQCx6x), by James Wallman
 1. [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143), by Taiichi Ohno
 1. [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304), by Marshall Goldsmith
+1. [Yes Man](https://www.amazon.com/Yes-Man-Danny-Wallace/dp/1416918345), by Danny Wallace
 1. [大道至拙](https://www.books.com.tw/products/0010646648?sloc=main), 宮玉振 著
 1. [絕世名將的榮耀與哀歌](https://www.eslite.com/product/1001136382682117990009), 薛易 著
 1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
