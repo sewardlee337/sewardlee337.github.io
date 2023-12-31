@@ -37,6 +37,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The 15 Commitments of Conscious Leadership](https://amzn.to/41YfqYB), by Jim Dethmer, Diana Chapman, and Kaley Klemp
 1. [The Choice Factory](https://www.amazon.com/Choice-Factory-behavioural-biases-influence/dp/085719609X), by Richard Shotton
 1. [The Doorstep Mile](https://www.amazon.com/Doorstep-Mile-Live-Adventurously-Every-ebook/dp/B082BGD7QR/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687644616&sr=8-1), by Alastair Humphreys
+1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
 1. [The Greatest Invention](https://www.amazon.com/Greatest-Invention-History-Mysterious-Scripts-ebook/dp/B092T97RRM/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1688506774&sr=8-1), by Silvia Ferrara
 1. [The Infinite Game](https://amzn.to/3m24PMV), by Simon Sinek
 1. [The Longest Way Home](https://www.amazon.com/Longest-Way-Home-Courage-Settle-ebook/dp/B0061OI0VK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1692481735&sr=8-1), by Andrew McCarthy
