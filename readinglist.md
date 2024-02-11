@@ -19,6 +19,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [A Passion for Leadership](https://www.amazon.com/Passion-Leadership-Lessons-Change-Service/dp/0307949648), by Robert M. Gates
 1. [In a Flight of Starlings](https://www.amazon.com/Flight-Starlings-Wonders-Complex-Systems/dp/059349315X), by Giorgio Parisi
+1. [Right Kind of Wrong](https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061), by Amy Edmondson
 1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
 
 
