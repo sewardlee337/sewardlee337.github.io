@@ -27,8 +27,10 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [One Up](https://www.amazon.com/One-Up-Creativity-Competition-Business/dp/0231197527), by Joost van Dreunen
 1. [Rejection Proof](https://www.amazon.com/Rejection-Proof-Became-Invincible-Through/dp/080414138X), by Jia Jiang
 1. [Right Kind of Wrong](https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061), by Amy Edmondson
+1. [The Landmark Xenophon's Anabasis](https://www.amazon.com/Landmark-Xenophons-Anabasis-Xenophon/dp/030790685X), by Shane Brennan, David Thomas, and Robert B. Strasser (Editors)
 1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
 1. [The Practice of Not Thinking](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614), by Ryonosuke Koike
+1. [Wired for Love](https://www.amazon.com/Wired-Love-Neuroscientists-Journey-Connection/dp/1250790603), by Stephanie Cacioppo
 1. [You Have More Influence Than You Think](https://www.amazon.com/Have-More-Influence-Than-Think/dp/1324005718), by Vanessa Bohns
 
 
