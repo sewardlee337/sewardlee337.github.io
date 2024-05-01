@@ -13,17 +13,23 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently reading
 
 1. [Peter the Great](https://www.amazon.com/Peter-Great-His-Life-World-ebook/dp/B0075WPE20/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Robert K. Massie
+1. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254), by Peter M. Senge
+1. [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290), by Gene Kim, Kevin Behr, and George Spafford
 
 
 ### 2024
 
 1. [A Passion for Leadership](https://www.amazon.com/Passion-Leadership-Lessons-Change-Service/dp/0307949648), by Robert M. Gates
+1. [Corruptible](https://www.amazon.com/Corruptible-Who-Gets-Power-Changes/dp/1982154098), by Brian Klaas
+1. [How to Think Like a Roman Emperor](https://www.amazon.com/How-Think-Like-Roman-Emperor/dp/1250196620), by Donald Robertson
 1. [In a Flight of Starlings](https://www.amazon.com/Flight-Starlings-Wonders-Complex-Systems/dp/059349315X), by Giorgio Parisi
+1. [My Turn](https://www.amazon.com/My-Turn-Autobiography-Johan-Cruyff/dp/150981390X), by Johan Cruyff
 1. [One Up](https://www.amazon.com/One-Up-Creativity-Competition-Business/dp/0231197527), by Joost van Dreunen
+1. [Rejection Proof](https://www.amazon.com/Rejection-Proof-Became-Invincible-Through/dp/080414138X), by Jia Jiang
 1. [Right Kind of Wrong](https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061), by Amy Edmondson
-1. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254), by Peter M. Senge
 1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
-1. [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290), by Gene Kim, Kevin Behr, and George Spafford
+1. [The Practice of Not Thinking](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614), by Ryonosuke Koike
+1. [You Have More Influence Than You Think](https://www.amazon.com/Have-More-Influence-Than-Think/dp/1324005718), by Vanessa Bohns
 
 
 ### 2023
