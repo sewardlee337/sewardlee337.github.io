@@ -21,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [A Passion for Leadership](https://www.amazon.com/Passion-Leadership-Lessons-Change-Service/dp/0307949648), by Robert M. Gates
 1. [Corruptible](https://www.amazon.com/Corruptible-Who-Gets-Power-Changes/dp/1982154098), by Brian Klaas
+1. [Get Better at Anything](https://www.amazon.com/Get-Better-Anything-Maxims-Mastery/dp/0063256673), by Scott Young
 1. [How to Be a Stoic](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952), by Massimo Pigliucci
 1. [How to Think Like a Roman Emperor](https://www.amazon.com/How-Think-Like-Roman-Emperor/dp/1250196620), by Donald Robertson
 1. [In a Flight of Starlings](https://www.amazon.com/Flight-Starlings-Wonders-Complex-Systems/dp/059349315X), by Giorgio Parisi
