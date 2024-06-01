@@ -31,7 +31,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Right Kind of Wrong](https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061), by Amy Edmondson
 1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
 1. [The Landmark Xenophon's Anabasis](https://www.amazon.com/Landmark-Xenophons-Anabasis-Xenophon/dp/030790685X), by Shane Brennan, David Thomas, and Robert B. Strasser (Editors)
-1. [The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), by Eckhart Tolls
+1. [The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), by Eckhart Tolle
 1. [The Practice of Not Thinking](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614), by Ryunosuke Koike
 1. [Wired for Love](https://www.amazon.com/Wired-Love-Neuroscientists-Journey-Connection/dp/1250790603), by Stephanie Cacioppo
 1. [You Have More Influence Than You Think](https://www.amazon.com/Have-More-Influence-Than-Think/dp/1324005718), by Vanessa Bohns
