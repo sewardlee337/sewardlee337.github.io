@@ -34,6 +34,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), by Eckhart Tolle
 1. [The Practice of Not Thinking](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614), by Ryunosuke Koike
 1. [Wired for Love](https://www.amazon.com/Wired-Love-Neuroscientists-Journey-Connection/dp/1250790603), by Stephanie Cacioppo
+1. [Yellowface](https://www.amazon.com/Yellowface-Novel-R-F-Kuang/dp/0063250837), by R. F. Kuang
 1. [You Have More Influence Than You Think](https://www.amazon.com/Have-More-Influence-Than-Think/dp/1324005718), by Vanessa Bohns
 
 
