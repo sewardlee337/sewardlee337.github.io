@@ -21,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [A Passion for Leadership](https://www.amazon.com/Passion-Leadership-Lessons-Change-Service/dp/0307949648), by Robert M. Gates
 1. [Corruptible](https://www.amazon.com/Corruptible-Who-Gets-Power-Changes/dp/1982154098), by Brian Klaas
+1. [Data-Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544), by Mark Jeffrey
 1. [Farewell, My Lovely](https://www.amazon.com/Farewell-My-Lovely-Raymond-Chandler/dp/0394758277), by Raymond Chandler
 1. [Get Better at Anything](https://www.amazon.com/Get-Better-Anything-Maxims-Mastery/dp/0063256673), by Scott Young
 1. [How to Be a Stoic](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952), by Massimo Pigliucci
