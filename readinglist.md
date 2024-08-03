@@ -26,6 +26,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Data-Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544), by Mark Jeffrey
 1. [Farewell, My Lovely](https://www.amazon.com/Farewell-My-Lovely-Raymond-Chandler/dp/0394758277), by Raymond Chandler
 1. [How to Be a Stoic](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952), by Massimo Pigliucci
+1. [How to Know a Person](https://www.amazon.com/How-Know-Person-Seeing-Others/dp/059323006X), by David Brooks
 1. [How to Think Like a Roman Emperor](https://www.amazon.com/How-Think-Like-Roman-Emperor/dp/1250196620), by Donald Robertson
 1. [In a Flight of Starlings](https://www.amazon.com/Flight-Starlings-Wonders-Complex-Systems/dp/059349315X), by Giorgio Parisi
 1. [My Turn](https://www.amazon.com/My-Turn-Autobiography-Johan-Cruyff/dp/150981390X), by Johan Cruyff
