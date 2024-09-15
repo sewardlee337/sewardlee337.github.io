@@ -16,6 +16,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254), by Peter M. Senge
 1. [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290), by Gene Kim, Kevin Behr, and George Spafford
 1. [Get Better at Anything](https://www.amazon.com/Get-Better-Anything-Maxims-Mastery/dp/0063256673), by Scott Young
+1. [Data-Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544), by Mark Jeffrey
+1. [Inside the Nudge Unit](https://www.amazon.com/Inside-Nudge-Unit-Changes-Difference/dp/0753556553), by David Halpern
 
 
 ### 2024
@@ -23,7 +25,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Big Life in Advertising](https://www.amazon.com/Big-Life-Advertising-Mary-Lawrence/dp/0743245865), by Mary Wells Lawrence
 1. [A Passion for Leadership](https://www.amazon.com/Passion-Leadership-Lessons-Change-Service/dp/0307949648), by Robert M. Gates
 1. [Corruptible](https://www.amazon.com/Corruptible-Who-Gets-Power-Changes/dp/1982154098), by Brian Klaas
-1. [Data-Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544), by Mark Jeffrey
 1. [Farewell, My Lovely](https://www.amazon.com/Farewell-My-Lovely-Raymond-Chandler/dp/0394758277), by Raymond Chandler
 1. [How to Be a Stoic](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952), by Massimo Pigliucci
 1. [How to Know a Person](https://www.amazon.com/How-Know-Person-Seeing-Others/dp/059323006X), by David Brooks
@@ -31,8 +32,11 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [In a Flight of Starlings](https://www.amazon.com/Flight-Starlings-Wonders-Complex-Systems/dp/059349315X), by Giorgio Parisi
 1. [My Turn](https://www.amazon.com/My-Turn-Autobiography-Johan-Cruyff/dp/150981390X), by Johan Cruyff
 1. [One Up](https://www.amazon.com/One-Up-Creativity-Competition-Business/dp/0231197527), by Joost van Dreunen
+1. [Pachinko](https://www.amazon.com/Pachinko-National-Book-Award-Finalist-ebook/dp/B01GZY28JA), by Min Jin Lee
 1. [Rejection Proof](https://www.amazon.com/Rejection-Proof-Became-Invincible-Through/dp/080414138X), by Jia Jiang
 1. [Right Kind of Wrong](https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061), by Amy Edmondson
+1. [Some Desperate Glory](https://www.amazon.com/Some-Desperate-Glory-Emily-Tesh/dp/1250834988), by Emily Tesh
+1. [The Art of Power](https://www.amazon.com/Art-Power-Story-Americas-Speaker/dp/1668048043), by Nancy Pelosi
 1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
 1. [The Landmark Xenophon's Anabasis](https://www.amazon.com/Landmark-Xenophons-Anabasis-Xenophon/dp/030790685X), by Shane Brennan, David Thomas, and Robert B. Strasser (Editors)
 1. [The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), by Eckhart Tolle
