@@ -36,6 +36,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Rejection Proof](https://www.amazon.com/Rejection-Proof-Became-Invincible-Through/dp/080414138X), by Jia Jiang
 1. [Right Kind of Wrong](https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061), by Amy Edmondson
 1. [Some Desperate Glory](https://www.amazon.com/Some-Desperate-Glory-Emily-Tesh/dp/1250834988), by Emily Tesh
+1. [The Art of Logic in an Illogical World](https://www.amazon.com/Art-Logic-Illogical-World/dp/1541672496/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), by Eugenia Cheng
 1. [The Art of Power](https://www.amazon.com/Art-Power-Story-Americas-Speaker/dp/1668048043), by Nancy Pelosi
 1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
 1. [The Landmark Xenophon's Anabasis](https://www.amazon.com/Landmark-Xenophons-Anabasis-Xenophon/dp/030790685X), by Shane Brennan, David Thomas, and Robert B. Strasser (Editors)
