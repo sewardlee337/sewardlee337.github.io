@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [A Big Life in Advertising](https://www.amazon.com/Big-Life-Advertising-Mary-Lawrence/dp/0743245865), by Mary Wells Lawrence
 1. [A Passion for Leadership](https://www.amazon.com/Passion-Leadership-Lessons-Change-Service/dp/0307949648), by Robert M. Gates
+1. [Alexander Hamilton](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758), by Ron Chernow
 1. [Corruptible](https://www.amazon.com/Corruptible-Who-Gets-Power-Changes/dp/1982154098), by Brian Klaas
 1. [Farewell, My Lovely](https://www.amazon.com/Farewell-My-Lovely-Raymond-Chandler/dp/0394758277), by Raymond Chandler
 1. [How to Be a Stoic](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952), by Massimo Pigliucci
@@ -35,6 +36,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Pachinko](https://www.amazon.com/Pachinko-National-Book-Award-Finalist-ebook/dp/B01GZY28JA), by Min Jin Lee
 1. [Rejection Proof](https://www.amazon.com/Rejection-Proof-Became-Invincible-Through/dp/080414138X), by Jia Jiang
 1. [Right Kind of Wrong](https://www.amazon.com/Right-Kind-Wrong-Science-Failing/dp/1982195061), by Amy Edmondson
+1. [Sid Meier's Memoir!](https://www.amazon.com/Sid-Meiers-Memoir-Computer-Games/dp/1324005874), by Sid Meier
 1. [Some Desperate Glory](https://www.amazon.com/Some-Desperate-Glory-Emily-Tesh/dp/1250834988), by Emily Tesh
 1. [The Art of Logic in an Illogical World](https://www.amazon.com/Art-Logic-Illogical-World/dp/1541672496/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), by Eugenia Cheng
 1. [The Art of Power](https://www.amazon.com/Art-Power-Story-Americas-Speaker/dp/1668048043), by Nancy Pelosi
