@@ -42,6 +42,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Art of Power](https://www.amazon.com/Art-Power-Story-Americas-Speaker/dp/1668048043), by Nancy Pelosi
 1. [The Gifts of Imperfection](https://www.amazon.com/Gifts-Imperfection-Think-Supposed-Embrace-ebook/dp/B00BS03LL6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Brené Brown
 1. [The Landmark Xenophon's Anabasis](https://www.amazon.com/Landmark-Xenophons-Anabasis-Xenophon/dp/030790685X), by Shane Brennan, David Thomas, and Robert B. Strasser (Editors)
+1. [The Light of Battle](https://www.amazon.com/Light-Battle-Eisenhower-American-Superpower/dp/0358682371), by Michel Paradis
 1. [The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), by Eckhart Tolle
 1. [The Practice of Not Thinking](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614), by Ryunosuke Koike
 1. [The President's Book of Secrets](https://www.amazon.com/Presidents-Book-Secrets-Intelligence-Briefings/dp/161039769X), by David Priess
