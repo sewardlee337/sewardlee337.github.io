@@ -46,7 +46,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808), by Eckhart Tolle
 1. [The Practice of Not Thinking](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614), by Ryunosuke Koike
 1. [The President's Book of Secrets](https://www.amazon.com/Presidents-Book-Secrets-Intelligence-Briefings/dp/161039769X), by David Priess
-1. [The Psychology of Intelligence Analysis](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O), by Richards Heuer
+1. [The Psychology of Intelligence Analysis](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O), by Richards J. Heuer
 1. [Upstream](https://www.amazon.com/Upstream-Quest-Problems-Before-Happen/dp/1982134720), by Dan Heath
 1. [Wired for Love](https://www.amazon.com/Wired-Love-Neuroscientists-Journey-Connection/dp/1250790603), by Stephanie Cacioppo
 1. [Yellowface](https://www.amazon.com/Yellowface-Novel-R-F-Kuang/dp/0063250837), by R. F. Kuang
