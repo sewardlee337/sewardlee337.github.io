@@ -27,6 +27,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Alexander Hamilton](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758), by Ron Chernow
 1. [Corruptible](https://www.amazon.com/Corruptible-Who-Gets-Power-Changes/dp/1982154098), by Brian Klaas
 1. [Farewell, My Lovely](https://www.amazon.com/Farewell-My-Lovely-Raymond-Chandler/dp/0394758277), by Raymond Chandler
+1. [Fluent Forever](https://www.amazon.com/Fluent-Forever-Learn-Language-Forget/dp/0385348118), by Gabriel Wyner
 1. [How to Be a Stoic](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952), by Massimo Pigliucci
 1. [How to Know a Person](https://www.amazon.com/How-Know-Person-Seeing-Others/dp/059323006X), by David Brooks
 1. [How to Think Like a Roman Emperor](https://www.amazon.com/How-Think-Like-Roman-Emperor/dp/1250196620), by Donald Robertson
