@@ -33,6 +33,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [How to Think Like a Roman Emperor](https://www.amazon.com/How-Think-Like-Roman-Emperor/dp/1250196620), by Donald Robertson
 1. [In a Flight of Starlings](https://www.amazon.com/Flight-Starlings-Wonders-Complex-Systems/dp/059349315X), by Giorgio Parisi
 1. [My Turn](https://www.amazon.com/My-Turn-Autobiography-Johan-Cruyff/dp/150981390X), by Johan Cruyff
+1. [No Country for Old Men](https://www.amazon.com/Country-Old-Men-Cormac-McCarthy/dp/0375706674), by Cormac McCarthy
 1. [One Up](https://www.amazon.com/One-Up-Creativity-Competition-Business/dp/0231197527), by Joost van Dreunen
 1. [Pachinko](https://www.amazon.com/Pachinko-National-Book-Award-Finalist-ebook/dp/B01GZY28JA), by Min Jin Lee
 1. [Rejection Proof](https://www.amazon.com/Rejection-Proof-Became-Invincible-Through/dp/080414138X), by Jia Jiang
