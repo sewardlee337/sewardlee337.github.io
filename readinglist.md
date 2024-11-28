@@ -32,6 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [How to Know a Person](https://www.amazon.com/How-Know-Person-Seeing-Others/dp/059323006X), by David Brooks
 1. [How to Think Like a Roman Emperor](https://www.amazon.com/How-Think-Like-Roman-Emperor/dp/1250196620), by Donald Robertson
 1. [In a Flight of Starlings](https://www.amazon.com/Flight-Starlings-Wonders-Complex-Systems/dp/059349315X), by Giorgio Parisi
+1. [Mr. Penumbra's 24-Hour Bookstore](https://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel-ebook/dp/B008FPOIT6/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.WVh8haVhTDke75848AeViw9VRwyeIYBFUMsN3SEkWUKN2hcUxMcqjZ3P2E-YT92hquX7b7T2DSopyc83Iym0_hmxs8zJqxy7fYVmUEmRpwANk5YGSUzpmvSYNKgYaT7PA5KhcqI6H6sLhVscmpwMCpOqw7QEfzSGH7MTKB88V3JmWDcQXYqFsjhOXU0cmvCC4vO-4FLyPTjFw_xyk6TEBr9NtxuhAdFAG-JfTPaSfFs.OImUEmWcqrc2JF-6u_HvvYFQMgp51slzOpePysNR2mM&qid=1732796786&sr=8-1), by Robin Sloan
 1. [My Turn](https://www.amazon.com/My-Turn-Autobiography-Johan-Cruyff/dp/150981390X), by Johan Cruyff
 1. [No Country for Old Men](https://www.amazon.com/Country-Old-Men-Cormac-McCarthy/dp/0375706674), by Cormac McCarthy
 1. [One Up](https://www.amazon.com/One-Up-Creativity-Competition-Business/dp/0231197527), by Joost van Dreunen
