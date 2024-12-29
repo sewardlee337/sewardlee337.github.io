@@ -52,10 +52,12 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Practice of Not Thinking](https://www.amazon.com/The-Practice-of-Not-Thinking/dp/0141994614), by Ryunosuke Koike
 1. [The President's Book of Secrets](https://www.amazon.com/Presidents-Book-Secrets-Intelligence-Briefings/dp/161039769X), by David Priess
 1. [The Psychology of Intelligence Analysis](https://www.amazon.com/Psychology-Intelligence-Analysis-Richards-Heuer/dp/B0016OST3O), by Richards J. Heuer
+1. [The Six Disciplines of Strategic Thinking](https://www.amazon.com/Six-Disciplines-Strategic-Thinking-Organization/dp/0063357968), by Michael D. Watkins
 1. [Upstream](https://www.amazon.com/Upstream-Quest-Problems-Before-Happen/dp/1982134720), by Dan Heath
 1. [Wired for Love](https://www.amazon.com/Wired-Love-Neuroscientists-Journey-Connection/dp/1250790603), by Stephanie Cacioppo
 1. [Yellowface](https://www.amazon.com/Yellowface-Novel-R-F-Kuang/dp/0063250837), by R. F. Kuang
 1. [You Have More Influence Than You Think](https://www.amazon.com/Have-More-Influence-Than-Think/dp/1324005718), by Vanessa Bohns
+1. [思想決定力量](https://www.books.com.tw/products/0010790181?sloc=main), 鄭絜心 著
 
 
 ### 2023
@@ -94,8 +96,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Yes Man](https://www.amazon.com/Yes-Man-Danny-Wallace/dp/1416918345), by Danny Wallace
 1. [大道至拙](https://www.books.com.tw/products/0010646648?sloc=main), 宮玉振 著
 1. [絕世名將的榮耀與哀歌](https://www.eslite.com/product/1001136382682117990009), 薛易 著
-1. [善戰者說](https://bit.ly/3ZqfsYa), 宮玉振 著
-1. [王陽明的心學](https://bit.ly/3z00T2z), 廖春紅 著
+1. [善戰者說](https://www.books.com.tw/products/0010934731), 宮玉振 著
+1. [王陽明的心學](https://www.books.com.tw/products/0010892197?sloc=main), 廖春紅 著
 1. [武林正史](https://www.books.com.tw/products/0010811371?sloc=main), 古人很潮 編著
 
 
