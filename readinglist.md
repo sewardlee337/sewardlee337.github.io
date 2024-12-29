@@ -12,12 +12,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Peter the Great](https://www.amazon.com/Peter-Great-His-Life-World-ebook/dp/B0075WPE20/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Robert K. Massie
-1. [The Fifth Discipline](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254), by Peter M. Senge
-1. [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290), by Gene Kim, Kevin Behr, and George Spafford
-1. [Get Better at Anything](https://www.amazon.com/Get-Better-Anything-Maxims-Mastery/dp/0063256673), by Scott Young
-1. [Data-Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544), by Mark Jeffrey
-1. [Inside the Nudge Unit](https://www.amazon.com/Inside-Nudge-Unit-Changes-Difference/dp/0753556553), by David Halpern
+1. [A More Beautiful Question](https://www.amazon.com/More-Beautiful-Question-Inquiry-Breakthrough/dp/1620401452), by Warren Berger
 
 
 ### 2024
