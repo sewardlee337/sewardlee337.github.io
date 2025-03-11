@@ -14,6 +14,8 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 1. [Decoded](https://www.amazon.com/Decoded-Science-Behind-Why-Buy/dp/1118345606), by Phil Barden
 1. [Drunk Tank Pink](https://www.amazon.com/Drunk-Tank-Pink-Unexpected-Forces/dp/0143124935), by Adam Alter
+1. [The Greatest Empire](https://www.amazon.com/Greatest-Empire-Life-Seneca/dp/0199926646), by Emily Wilson
+
 
 
 ### 2025
@@ -22,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [How to Think Like Socrates](https://www.amazon.com/How-Think-Like-Socrates-Philosophy/dp/1250280508), by Donald Robertson
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
 1. [The Vegetarian](https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111), by Han Kang
+1. [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222), by Kelly Barnhill
 1. [Why Does the Pedlar Sing?](https://www.amazon.com/Why-Does-Pedlar-Sing-Advertising-ebook/dp/B08WC3QDQB/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Paul Feldwick
 
 
