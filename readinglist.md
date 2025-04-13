@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [How to Think Like Socrates](https://www.amazon.com/How-Think-Like-Socrates-Philosophy/dp/1250280508), by Donald Robertson
 1. [How to Win an Information War](https://www.amazon.com/How-Win-Information-War-Propagandist/dp/1541774728), by Peter Pomerantsev
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
+1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
 1. [The Vegetarian](https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111), by Han Kang
 1. [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222), by Kelly Barnhill
 1. [Why Does the Pedlar Sing?](https://www.amazon.com/Why-Does-Pedlar-Sing-Advertising-ebook/dp/B08WC3QDQB/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Paul Feldwick
