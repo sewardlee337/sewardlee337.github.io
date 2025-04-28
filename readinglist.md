@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Fandom Analytics](https://www.amazon.com/Fandom-Analytics-Creating-Harnessing-Consumer/dp/3031659244), by Michael Lewis
 1. [How to Think Like Socrates](https://www.amazon.com/How-Think-Like-Socrates-Philosophy/dp/1250280508), by Donald Robertson
 1. [How to Win an Information War](https://www.amazon.com/How-Win-Information-War-Propagandist/dp/1541774728), by Peter Pomerantsev
+1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
 1. [Tai-Pan](https://www.amazon.com/Tai-Pan-Asian-Saga-James-Clavell/dp/0440184622), by James Clavell
 1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
