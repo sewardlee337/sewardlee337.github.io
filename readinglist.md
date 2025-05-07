@@ -27,6 +27,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
 1. [Tai-Pan](https://www.amazon.com/Tai-Pan-Asian-Saga-James-Clavell/dp/0440184622), by James Clavell
+1. [The Cold Start Problem](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749), by Andrew Chen
 1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
 1. [The Vegetarian](https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111), by Han Kang
 1. [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222), by Kelly Barnhill
