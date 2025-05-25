@@ -29,6 +29,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Tai-Pan](https://www.amazon.com/Tai-Pan-Asian-Saga-James-Clavell/dp/0440184622), by James Clavell
 1. [The Cold Start Problem](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749), by Andrew Chen
 1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
+1. [The Nature and Origins of Mass Opinion](https://www.amazon.com/Origins-Opinion-Cambridge-Political-Psychology/dp/0521407869), by John R. Zaller
 1. [The Vegetarian](https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111), by Han Kang
 1. [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222), by Kelly Barnhill
 1. [Why Does the Pedlar Sing?](https://www.amazon.com/Why-Does-Pedlar-Sing-Advertising-ebook/dp/B08WC3QDQB/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Paul Feldwick
