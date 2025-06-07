@@ -23,6 +23,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A More Beautiful Question](https://www.amazon.com/More-Beautiful-Question-Inquiry-Breakthrough/dp/1620401452), by Warren Berger
 1. [Abundance](https://a.co/d/e7hBxOU), by Ezra Klein and Derek Thompson
 1. [Fandom Analytics](https://www.amazon.com/Fandom-Analytics-Creating-Harnessing-Consumer/dp/3031659244), by Michael Lewis
+1. [Hack Your Bureaucracy](https://a.co/d/cZf18ou), by Marina Nitze and Nick Sinai
 1. [How to Think Like Socrates](https://www.amazon.com/How-Think-Like-Socrates-Philosophy/dp/1250280508), by Donald Robertson
 1. [How to Win an Information War](https://www.amazon.com/How-Win-Information-War-Propagandist/dp/1541774728), by Peter Pomerantsev
 1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
