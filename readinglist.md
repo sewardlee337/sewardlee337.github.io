@@ -33,6 +33,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
 1. [The Nature and Origins of Mass Opinion](https://www.amazon.com/Origins-Opinion-Cambridge-Political-Psychology/dp/0521407869), by John R. Zaller
 1. [The Vegetarian](https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111), by Han Kang
+1. [The Windup Girl](https://a.co/d/efNzgVo), by Paolo Bacigalupi
 1. [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222), by Kelly Barnhill
 1. [Why](https://a.co/d/cnYMYK9), by Samantha Kleinberg
 1. [Why Does the Pedlar Sing?](https://www.amazon.com/Why-Does-Pedlar-Sing-Advertising-ebook/dp/B08WC3QDQB/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Paul Feldwick
