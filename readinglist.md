@@ -12,31 +12,33 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently reading
 
-1. [Decoded](https://www.amazon.com/Decoded-Science-Behind-Why-Buy/dp/1118345606), by Phil Barden
-1. [Drunk Tank Pink](https://www.amazon.com/Drunk-Tank-Pink-Unexpected-Forces/dp/0143124935), by Adam Alter
-1. [The Greatest Empire](https://www.amazon.com/Greatest-Empire-Life-Seneca/dp/0199926646), by Emily Wilson
-
+1. [The Nature and Origins of Mass Opinion](https://www.amazon.com/Origins-Opinion-Cambridge-Political-Psychology/dp/0521407869), by John R. Zaller
+1. [Why](https://a.co/d/cnYMYK9), by Samantha Kleinberg
 
 
 ### 2025
 
 1. [A More Beautiful Question](https://www.amazon.com/More-Beautiful-Question-Inquiry-Breakthrough/dp/1620401452), by Warren Berger
 1. [Abundance](https://a.co/d/e7hBxOU), by Ezra Klein and Derek Thompson
+1. [Ancillary Justice](https://a.co/d/8JR5whn), by Ann Leckie
+1. [Every Man Dies Alone](https://a.co/d/3H065Ku), by Hans Fallada
 1. [Fandom Analytics](https://www.amazon.com/Fandom-Analytics-Creating-Harnessing-Consumer/dp/3031659244), by Michael Lewis
 1. [Hack Your Bureaucracy](https://a.co/d/cZf18ou), by Marina Nitze and Nick Sinai
 1. [How to Think Like Socrates](https://www.amazon.com/How-Think-Like-Socrates-Philosophy/dp/1250280508), by Donald Robertson
 1. [How to Win an Information War](https://www.amazon.com/How-Win-Information-War-Propagandist/dp/1541774728), by Peter Pomerantsev
 1. [Influence](https://www.amazon.com/dp/B08HZ57WYN?ref_=cm_sw_r_ffobk_cp_ud_dp_BSP86K0W534JS236AJNC&bestFormat=true), by Robert B. Cialdini
+1. [Inventing the Renaissance](https://www.amazon.com/dp/0226837971?ref_=cm_sw_r_ffobk_cp_ud_dp_YJS9GPCW19FBVTR7R94H&bestFormat=true), by Ada Palmer
+1. [Latro in the Mist](https://www.amazon.com/dp/0226837971?ref_=cm_sw_r_ffobk_cp_ud_dp_YJS9GPCW19FBVTR7R94H&bestFormat=true), by Gene Wolfe
 1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
 1. [Tai-Pan](https://www.amazon.com/Tai-Pan-Asian-Saga-James-Clavell/dp/0440184622), by James Clavell
 1. [The Cold Start Problem](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749), by Andrew Chen
+1. [The Just City](https://a.co/d/7eqEIni), by Jo Walton
 1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
-1. [The Nature and Origins of Mass Opinion](https://www.amazon.com/Origins-Opinion-Cambridge-Political-Psychology/dp/0521407869), by John R. Zaller
+1. [The Power and the Glory](https://www.amazon.com/Power-Glory-Penguin-Classics/dp/0143107550), by Graham Greene
 1. [The Vegetarian](https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111), by Han Kang
 1. [The Windup Girl](https://a.co/d/efNzgVo), by Paolo Bacigalupi
 1. [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222), by Kelly Barnhill
-1. [Why](https://a.co/d/cnYMYK9), by Samantha Kleinberg
 1. [Why Does the Pedlar Sing?](https://www.amazon.com/Why-Does-Pedlar-Sing-Advertising-ebook/dp/B08WC3QDQB/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=), by Paul Feldwick
 1. [You Look Like a Thing and I Love You](https://www.amazon.com/You-Look-Like-Thing-Love/dp/0316525243), by Janelle Shane
 
