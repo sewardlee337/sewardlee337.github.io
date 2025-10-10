@@ -21,6 +21,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A More Beautiful Question](https://www.amazon.com/More-Beautiful-Question-Inquiry-Breakthrough/dp/1620401452), by Warren Berger
 1. [Abundance](https://a.co/d/e7hBxOU), by Ezra Klein and Derek Thompson
 1. [Ancillary Justice](https://a.co/d/8JR5whn), by Ann Leckie
+1. [Captain Alatriste](https://a.co/d/3WIzFFv), by Arturo Pérez-Reverte
 1. [Every Man Dies Alone](https://a.co/d/3H065Ku), by Hans Fallada
 1. [Fandom Analytics](https://www.amazon.com/Fandom-Analytics-Creating-Harnessing-Consumer/dp/3031659244), by Michael Lewis
 1. [Hack Your Bureaucracy](https://a.co/d/cZf18ou), by Marina Nitze and Nick Sinai
