@@ -34,6 +34,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
 1. [Tai-Pan](https://www.amazon.com/Tai-Pan-Asian-Saga-James-Clavell/dp/0440184622), by James Clavell
+1. [The Buried Giant](https://www.amazon.com/dp/B00N6PCXME?ref_=cm_sw_r_ffobk_cp_ud_dp_W6N459AX46B1NQ9WBD56&bestFormat=true), by Kazuo Ishiguro
 1. [The Cold Start Problem](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749), by Andrew Chen
 1. [The Just City](https://a.co/d/7eqEIni), by Jo Walton
 1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
