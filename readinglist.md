@@ -30,6 +30,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [How to Win an Information War](https://www.amazon.com/How-Win-Information-War-Propagandist/dp/1541774728), by Peter Pomerantsev
 1. [Influence](https://www.amazon.com/dp/B08HZ57WYN?ref_=cm_sw_r_ffobk_cp_ud_dp_BSP86K0W534JS236AJNC&bestFormat=true), by Robert B. Cialdini
 1. [Inventing the Renaissance](https://www.amazon.com/dp/0226837971?ref_=cm_sw_r_ffobk_cp_ud_dp_YJS9GPCW19FBVTR7R94H&bestFormat=true), by Ada Palmer
+1. [Klara and the Sun](https://a.co/d/cqgC9AU), by Kazuo Ishiguro
 1. [Latro in the Mist](https://www.amazon.com/dp/0226837971?ref_=cm_sw_r_ffobk_cp_ud_dp_YJS9GPCW19FBVTR7R94H&bestFormat=true), by Gene Wolfe
 1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
 1. [Nexus](https://www.amazon.com/dp/059373422X?ref_=cm_sw_r_ffobk_cp_ud_dp_J0JKFJR0XGGYCFXAZP3H_2&bestFormat=true), by Yuval Noah Harari
@@ -41,6 +42,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Just City](https://a.co/d/7eqEIni), by Jo Walton
 1. [The Mesmerist](https://www.amazon.com/Mesmerist-Novel-Caroline-Woods-ebook/dp/B0CPXZ2TCX), by Caroline Woods
 1. [The Power and the Glory](https://www.amazon.com/Power-Glory-Penguin-Classics/dp/0143107550), by Graham Greene
+1. [The Sympathizer](https://a.co/d/hcdfT09), by Viet Thanh Nguyen
 1. [The Vegetarian](https://www.amazon.com/Vegetarian-Han-Kang/dp/1101906111), by Han Kang
 1. [The Windup Girl](https://a.co/d/efNzgVo), by Paolo Bacigalupi
 1. [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222), by Kelly Barnhill
