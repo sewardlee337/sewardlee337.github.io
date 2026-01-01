@@ -32,7 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Klara and the Sun](https://a.co/d/cqgC9AU), by Kazuo Ishiguro
 1. [Latro in the Mist](https://www.amazon.com/dp/0226837971?ref_=cm_sw_r_ffobk_cp_ud_dp_YJS9GPCW19FBVTR7R94H&bestFormat=true), by Gene Wolfe
 1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
-1. [Memoirs of Hadrian)[https://a.co/d/gNgaUEQ], by Marguerite Yourcenar
+1. [Memoirs of Hadrian](https://a.co/d/gNgaUEQ), by Marguerite Yourcenar
 1. [Nexus](https://www.amazon.com/dp/059373422X?ref_=cm_sw_r_ffobk_cp_ud_dp_J0JKFJR0XGGYCFXAZP3H_2&bestFormat=true), by Yuval Noah Harari
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
 1. [Sea of Tranquility](https://www.amazon.com/dp/B099DRHTLX?ref_=cm_sw_r_ffobk_cp_ud_dp_RAQHCKYKWYAK5E5AJK1K&bestFormat=true), by Emily St. John Mandel
