@@ -10,10 +10,10 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 &nbsp;
 
 
-### Currently reading
+### 2026
 
-1. [The Nature and Origins of Mass Opinion](https://www.amazon.com/Origins-Opinion-Cambridge-Political-Psychology/dp/0521407869), by John R. Zaller
-1. [Why](https://a.co/d/cnYMYK9), by Samantha Kleinberg
+1. [Claudius the God](https://a.co/d/fARm5Ak), by Robert Graves
+1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 
 
 ### 2025
@@ -22,7 +22,6 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Abundance](https://a.co/d/e7hBxOU), by Ezra Klein and Derek Thompson
 1. [Ancillary Justice](https://a.co/d/8JR5whn), by Ann Leckie
 1. [Captain Alatriste](https://a.co/d/3WIzFFv), by Arturo Pérez-Reverte
-1. [Click Here](https://a.co/d/9CTQFkb), by Alex Schultz
 1. [Every Man Dies Alone](https://a.co/d/3H065Ku), by Hans Fallada
 1. [Fandom Analytics](https://www.amazon.com/Fandom-Analytics-Creating-Harnessing-Consumer/dp/3031659244), by Michael Lewis
 1. [Hack Your Bureaucracy](https://a.co/d/cZf18ou), by Marina Nitze and Nick Sinai
@@ -33,6 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Klara and the Sun](https://a.co/d/cqgC9AU), by Kazuo Ishiguro
 1. [Latro in the Mist](https://www.amazon.com/dp/0226837971?ref_=cm_sw_r_ffobk_cp_ud_dp_YJS9GPCW19FBVTR7R94H&bestFormat=true), by Gene Wolfe
 1. [Matchmakers](https://www.amazon.com/Matchmakers-New-Economics-Multisided-Platforms/dp/1633691721), by David S. Evans and Richard Schmalensee
+1. [Memoirs of Hadrian)[https://a.co/d/gNgaUEQ], by Marguerite Yourcenar
 1. [Nexus](https://www.amazon.com/dp/059373422X?ref_=cm_sw_r_ffobk_cp_ud_dp_J0JKFJR0XGGYCFXAZP3H_2&bestFormat=true), by Yuval Noah Harari
 1. [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504), by Octavia E. Butler
 1. [Sea of Tranquility](https://www.amazon.com/dp/B099DRHTLX?ref_=cm_sw_r_ffobk_cp_ud_dp_RAQHCKYKWYAK5E5AJK1K&bestFormat=true), by Emily St. John Mandel
