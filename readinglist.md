@@ -13,6 +13,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### 2026
 
 1. [Claudius the God](https://a.co/d/fARm5Ak), by Robert Graves
+1. [Lonesome Dove](https://a.co/d/04eo3LY8), by Larry McMurtry
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 
 
