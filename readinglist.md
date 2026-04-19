@@ -16,6 +16,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Claudius the God](https://a.co/d/fARm5Ak), by Robert Graves
 1. [Julius Caesar](https://a.co/d/0bQeCktf), by William Shakespeare
 1. [Lonesome Dove](https://a.co/d/04eo3LY8), by Larry McMurtry
+1. [Macbeth](https://a.co/d/02pHMARG), by William Shakespeare
 1. [Night Soldiers](https://a.co/d/0bTeaM85), by Alan Furst
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 1. [This Way Up](https://www.amazon.com/This-Way-Up-Wrong-Matters/dp/133500131X), by Jay Foreman and Mark Cooper-Jones
