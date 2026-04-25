@@ -18,6 +18,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Lonesome Dove](https://a.co/d/04eo3LY8), by Larry McMurtry
 1. [Macbeth](https://a.co/d/02pHMARG), by William Shakespeare
 1. [Night Soldiers](https://a.co/d/0bTeaM85), by Alan Furst
+1. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0385343248/ref=monarch_sidesheet_title), by James Clavell
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 1. [This Way Up](https://www.amazon.com/This-Way-Up-Wrong-Matters/dp/133500131X), by Jay Foreman and Mark Cooper-Jones
 
