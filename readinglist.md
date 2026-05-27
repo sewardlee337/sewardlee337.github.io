@@ -9,6 +9,11 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 &nbsp;
 
+### Currently Reading
+
+1. [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), by Daniel Kahneman
+
+
 
 ### 2026
 
@@ -18,8 +23,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Lonesome Dove](https://a.co/d/04eo3LY8), by Larry McMurtry
 1. [Macbeth](https://a.co/d/02pHMARG), by William Shakespeare
 1. [Night Soldiers](https://a.co/d/0bTeaM85), by Alan Furst
-1. [Prediction Machines](https://www.amazon.com/Prediction-Machines-Updated-Expanded-Intelligence/dp/1647824672/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.nYyk-yetk2SZIA6QrrRL0auFS095bxui6cufZDa6ZuW2K1l0cjWEmz8Yqb7H-86tk2GMxKChBRiaIEI94s_30pJXJAoI3kpCpZ_ZVV3dmLhcPb5mEJNn2uSNq-6HwkiK_Xd3w68g4MHVHp6zvzAb-EKCFL0TcoaRb7Pj5UPzbnqJk_9-b3GdnbheFYBAsanjt520AP8hYG_wXaPjWrwKLxjHdq3H0LLj48ZWK-lXARE.Mn1dLZorAR5Ut4H5f2ghgLyFkCP2FIG6BQQK0EpfXF4&qid=1777233665&sr=8-1), by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
+1. [Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670), by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
 1. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0385343248/ref=monarch_sidesheet_title), by James Clavell
+1. [The Scaling Era](https://www.amazon.com/Scaling-Era-Oral-History-2019-2025/dp/1953953557), by Dwarkesh Patel
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 1. [This Way Up](https://www.amazon.com/This-Way-Up-Wrong-Matters/dp/133500131X), by Jay Foreman and Mark Cooper-Jones
 
