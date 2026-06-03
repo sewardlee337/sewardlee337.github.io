@@ -11,6 +11,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 
 ### Currently Reading
 
+1. [How AI Works](https://www.amazon.com/How-AI-Works-Sorcery-Science/dp/1718503725), by Ronald T. Kneusel
 1. [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), by Daniel Kahneman
 
 
@@ -28,6 +29,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Scaling Era](https://www.amazon.com/Scaling-Era-Oral-History-2019-2025/dp/1953953557), by Dwarkesh Patel
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 1. [This Way Up](https://www.amazon.com/This-Way-Up-Wrong-Matters/dp/133500131X), by Jay Foreman and Mark Cooper-Jones
+1. [Where Is My Flying Car?](https://www.amazon.com/Where-Flying-Car-Storrs-Hall/dp/1953953182), by J. Storrs Hall
 
 
 ### 2025
