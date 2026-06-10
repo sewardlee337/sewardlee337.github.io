@@ -24,6 +24,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Julius Caesar](https://a.co/d/0bQeCktf), by William Shakespeare
 1. [Lonesome Dove](https://a.co/d/04eo3LY8), by Larry McMurtry
 1. [Macbeth](https://a.co/d/02pHMARG), by William Shakespeare
+1. [Marathon](https://a.co/d/0docCBJl), by Hal Higdon
 1. [Night Soldiers](https://a.co/d/0bTeaM85), by Alan Furst
 1. [Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670), by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
 1. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0385343248/ref=monarch_sidesheet_title), by James Clavell
