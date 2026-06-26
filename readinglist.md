@@ -32,6 +32,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 1. [This Way Up](https://www.amazon.com/This-Way-Up-Wrong-Matters/dp/133500131X), by Jay Foreman and Mark Cooper-Jones
 1. [Where Is My Flying Car?](https://www.amazon.com/Where-Flying-Car-Storrs-Hall/dp/1953953182), by J. Storrs Hall
+1. [Wired for Story](https://a.co/d/0flpF5nt), by Lisa Cron
 
 
 ### 2025
