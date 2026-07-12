@@ -22,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Becoming Fluent](https://a.co/d/048sjwJZ), by Richard Roberts and Roger Kreuz
 1. [Claudius the God](https://a.co/d/fARm5Ak), by Robert Graves
 1. [Julius Caesar](https://a.co/d/0bQeCktf), by William Shakespeare
+1. [Like Water for Chocolate](https://a.co/d/0eiyjxSV), by Laura Esquivel
 1. [Lonesome Dove](https://a.co/d/04eo3LY8), by Larry McMurtry
 1. [Macbeth](https://a.co/d/02pHMARG), by William Shakespeare
 1. [Marathon](https://a.co/d/0docCBJl), by Hal Higdon
