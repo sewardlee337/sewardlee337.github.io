@@ -12,6 +12,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 ### Currently Reading
 
 1. [How AI Works](https://www.amazon.com/How-AI-Works-Sorcery-Science/dp/1718503725), by Ronald T. Kneusel
+1. [The Landmark Thucydides](https://a.co/d/00KJNWI0), by Thucydides (Author) and Robert B. Strassler (Editor)
 1. [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), by Daniel Kahneman
 
 
@@ -27,12 +28,16 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Macbeth](https://a.co/d/02pHMARG), by William Shakespeare
 1. [Marathon](https://a.co/d/0docCBJl), by Hal Higdon
 1. [Night Soldiers](https://a.co/d/0bTeaM85), by Alan Furst
-1. [Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670), by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
+1. [Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/ref=tmm_hrd_swatch_0), by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
 1. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0385343248/ref=monarch_sidesheet_title), by James Clavell
+1. [Small Things Like These](https://a.co/d/0ePbTNU8), by Claire Keegan
+1. [The God of Small Things](https://a.co/d/00KJNWI0), by Arundhati Roy
 1. [The Hidden Girl and Other Stories](https://a.co/d/0gjOugrb), by Ken Liu
+1. [The Last Kingdom](https://a.co/d/040lUYWo), by Bernard Cornwell
+1. [The Lost City of Z](https://a.co/d/0baWTkRR), by David Grann
 1. [The Scaling Era](https://www.amazon.com/Scaling-Era-Oral-History-2019-2025/dp/1953953557), by Dwarkesh Patel
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
-1. [This Way Up](https://www.amazon.com/This-Way-Up-Wrong-Matters/dp/133500131X), by Jay Foreman and Mark Cooper-Jones
+1. [This Way Up](https://a.co/d/0aaHsl7p), by Jay Foreman and Mark Cooper-Jones
 1. [Where Is My Flying Car?](https://www.amazon.com/Where-Flying-Car-Storrs-Hall/dp/1953953182), by J. Storrs Hall
 1. [Wired for Story](https://a.co/d/0flpF5nt), by Lisa Cron
 
