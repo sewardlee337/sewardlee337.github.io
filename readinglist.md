@@ -22,6 +22,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [A Month in Siena](https://a.co/d/0h6p8ByM), by Hisham Matar
 1. [Becoming Fluent](https://a.co/d/048sjwJZ), by Richard Roberts and Roger Kreuz
 1. [Claudius the God](https://a.co/d/fARm5Ak), by Robert Graves
+1. [Enshittification](https://www.amazon.com/Enshittification-Everything-Suddenly-Worse-About-ebook/dp/B0DQJ5TWB1/?_encoding=UTF8&pd_rd_w=P8pT5&content-id=amzn1.sym.171c1bd3-e559-4de5-8b1c-2e86c02e2e84&pf_rd_p=171c1bd3-e559-4de5-8b1c-2e86c02e2e84&pf_rd_r=133-6123622-3280146&pd_rd_wg=MycLL&pd_rd_r=8e11f541-42ba-43b8-8e4e-6363b8ab6f44), by Cory Doctorow
 1. [Julius Caesar](https://a.co/d/0bQeCktf), by William Shakespeare
 1. [Like Water for Chocolate](https://a.co/d/0eiyjxSV), by Laura Esquivel
 1. [Lonesome Dove](https://a.co/d/04eo3LY8), by Larry McMurtry
