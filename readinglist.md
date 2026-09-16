@@ -35,7 +35,9 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The God of Small Things](https://a.co/d/00KJNWI0), by Arundhati Roy
 1. [The Hidden Girl and Other Stories](https://a.co/d/0gjOugrb), by Ken Liu
 1. [The Last Kingdom](https://a.co/d/040lUYWo), by Bernard Cornwell
+1. [The Lost City of the Monkey God](https://www.amazon.com/Lost-City-Monkey-God-Story-ebook/dp/B01G1K1RTA/ref=tmm_kin_swatch_0), by Douglas Preston
 1. [The Lost City of Z](https://a.co/d/0baWTkRR), by David Grann
+1. [The Reverse Centaur's Guide to Life After AI](https://www.amazon.com/dp/037462156X?lv=shuf&channelId=500&plpRedirect=mhFallback), by Cory Doctorow
 1. [The Scaling Era](https://www.amazon.com/Scaling-Era-Oral-History-2019-2025/dp/1953953557), by Dwarkesh Patel
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
 1. [This Way Up](https://a.co/d/0aaHsl7p), by Jay Foreman and Mark Cooper-Jones
