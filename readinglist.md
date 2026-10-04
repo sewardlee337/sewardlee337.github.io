@@ -30,6 +30,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Marathon](https://a.co/d/0docCBJl), by Hal Higdon
 1. [Night Soldiers](https://a.co/d/0bTeaM85), by Alan Furst
 1. [Prediction Machines](https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/ref=tmm_hrd_swatch_0), by Ajay Agrawal, Joshua Gans, and Avi Goldfarb
+1. [Several Short Sentences About Writing](https://www.amazon.com/Several-Short-Sentences-About-Writing/dp/0307279413/ref=tmm_pap_swatch_0), by Verlyn Klinkenborg
 1. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0385343248/ref=monarch_sidesheet_title), by James Clavell
 1. [Small Things Like These](https://a.co/d/0ePbTNU8), by Claire Keegan
 1. [The God of Small Things](https://a.co/d/00KJNWI0), by Arundhati Roy
@@ -37,6 +38,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [The Last Kingdom](https://a.co/d/040lUYWo), by Bernard Cornwell
 1. [The Lost City of the Monkey God](https://www.amazon.com/Lost-City-Monkey-God-Story-ebook/dp/B01G1K1RTA/ref=tmm_kin_swatch_0), by Douglas Preston
 1. [The Lost City of Z](https://a.co/d/0baWTkRR), by David Grann
+1. [The Poverty of Historicism](https://www.amazon.com/Poverty-Historicism-Routledge-Classics-88/dp/0415278465/ref=tmm_pap_swatch_0), by Karl Popper
 1. [The Reverse Centaur's Guide to Life After AI](https://www.amazon.com/dp/037462156X?lv=shuf&channelId=500&plpRedirect=mhFallback), by Cory Doctorow
 1. [The Scaling Era](https://www.amazon.com/Scaling-Era-Oral-History-2019-2025/dp/1953953557), by Dwarkesh Patel
 1. [Thinking in Systems](https://a.co/d/eoeVs6A), by Donella H. Meadows
