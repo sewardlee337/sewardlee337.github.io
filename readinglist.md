@@ -33,7 +33,7 @@ _"My alma mater was books, a good library... I could spend the rest of my life r
 1. [Several Short Sentences About Writing](https://www.amazon.com/Several-Short-Sentences-About-Writing/dp/0307279413/ref=tmm_pap_swatch_0), by Verlyn Klinkenborg
 1. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0385343248/ref=monarch_sidesheet_title), by James Clavell
 1. [Small Things Like These](https://a.co/d/0ePbTNU8), by Claire Keegan
-1. [Reading Like a Writer](https://www.amazon.com/Reading-Like-Writer-Guide-People/dp/1665102667), by Francine Prose
+1. [Reading Like a Writer](https://www.amazon.com/Reading-Like-Writer-Guide-People-ebook/dp/B000JMKSWE/ref=tmm_kin_swatch_0), by Francine Prose
 1. [The God of Small Things](https://a.co/d/00KJNWI0), by Arundhati Roy
 1. [The Hidden Girl and Other Stories](https://a.co/d/0gjOugrb), by Ken Liu
 1. [The Last Kingdom](https://a.co/d/040lUYWo), by Bernard Cornwell
